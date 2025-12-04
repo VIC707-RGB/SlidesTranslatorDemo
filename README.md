@@ -27,7 +27,7 @@ Luồng này là quy trình nhiều bước, lý tưởng cho việc kiểm soá
 | Bước | Module (Thư mục) | Mô tả |
 | ----- | ----- | ----- |
 | **1. Trích xuất** | `ConvertPPTToTXT` | Đọc tệp PPT/PPTX gốc và trích xuất tất cả văn bản vào các tệp TXT (dạng `engTXT`). |
-| **2. Dịch** | `ConvertEngToVN` | Lấy các tệp `engTXT`, thực hiện dịch sang tiếng Việt để tạo các tệp `VN TXT`. (Bước này ban đầu có thể là thủ công hoặc sử dụng một công cụ dịch thuật đơn giản hơn). |
+| **2. Dịch** | `ConvertEngToVN` | Lấy các tệp `engTXT`, thực hiện dịch sang tiếng Việt để tạo các tệp `VN TXT`. (Bước này ban đầu có thể là thủ công dung AI hoặc sử dụng một công cụ dịch thuật đơn giản hơn). |
 | **3. Định dạng** | `ConvertTxtToJson` | Chuyển đổi các tệp `VN TXT` đã dịch sang định dạng JSON để dễ dàng tái cấu trúc và chèn vào PPT. |
 | **4. Tái cấu trúc** | `ConvertBackToPPTWithExample` | Đọc dữ liệu từ tệp JSON và chèn vào tệp PPT mới, sử dụng một template PowerPoint được định sẵn. |
 
@@ -35,7 +35,7 @@ Luồng này là quy trình nhiều bước, lý tưởng cho việc kiểm soá
 
 Luồng này bỏ qua các bước trung gian (TXT, JSON) và dịch văn bản trực tiếp trong tệp PowerPoint bằng cách sử dụng các mô hình AI tiên tiến, sau đó chèn lại bản dịch vào hình dạng (shape) tương ứng.
 
-Dịch thuật được xử lý trong các module như `.directTrans`, sử dụng hai mô hình khác nhau:
+Dịch thuật được xử lý trong module `.directTrans`, sử dụng hai mô hình khác nhau:
 
 ### A. Mô hình NLLB (Meta)
 
