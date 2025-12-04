@@ -1,0 +1,163 @@
+{
+  "Slide 1": {
+    "Title": "Phát triển linh hoạt",
+    "Contents": [
+      "Chủ đề 6:",
+      "Quản lý dự án (Phần 1 - Kiểm soát, Rủi ro)",
+      ""
+    ]
+  },
+  "Slide 2": {
+    "Title": "Nội dung chủ đề 6",
+    "Contents": [
+      "Chủ đề này sẽ bao gồm:",
+      "Quản lý dự án truyền thống so với quản lý dự án Agile;",
+      "Các khía cạnh kiểm soát của quản lý dự án Agile;",
+      "Rủi ro trong quản lý dự án Agile;",
+      "",
+      "Phần 2 của Quản lý dự án Agile, trong Chủ đề 7, sẽ đề cập đến các khía cạnh khác, đặc biệt là Chất lượng và Kiểm tra.",
+      ""
+    ]
+  },
+  "Slide 3": {
+    "Title": "Quản lý dự án linh hoạt",
+    "Contents": [
+      "Các vấn đề quy hoạch lớn",
+      "Phần 1:",
+      "Điều khiển",
+      "Rủi ro",
+      "Phần 2:",
+      "Quản lý cấu hình",
+      "Chất lượng",
+      "Kiểm tra",
+      "Số liệu",
+      "Khả năng bảo trì",
+      ""
+    ]
+  },
+  "Slide 4": {
+    "Title": "Quản lý dự án truyền thống và linh hoạt",
+    "Contents": [
+      "Truyền thống đưa ra sự tuân thủ nghiêm ngặt các đặc điểm kỹ thuật; kiểm soát tài nguyên để đạt được thời gian và ngân sách cho thông số kỹ thuật cố định.",
+      "Agile mang tính tiến hóa; hợp tác; có mối quan hệ người dùng/nhà phát triển 'không thể đổ lỗi'; sử dụng hộp thời gian để cung cấp một hệ thống có thể sử dụng đúng thời gian.",
+      "Nguồn: Hình ảnh từ pixabay.com © 2016",
+      ""
+    ]
+  },
+  "Slide 5": {
+    "Title": "Bài tập 1: Truyền thống và Agile",
+    "Contents": [
+      "Xếp thành từng cặp. Một người trong số các bạn là Giám đốc dự án, người còn lại là nhân viên nhóm.",
+      "Nguồn: Hình ảnh từ pixabay.com © 2016",
+      ""
+    ]
+  },
+  "Slide 6": {
+    "Title": "Người quản lý dự án Agile phải:",
+    "Contents": [
+      "Hiểu các vấn đề kinh doanh và kỹ thuật",
+      "Tạo điều kiện cho nhóm (phân xử chứ không ra lệnh)",
+      "Tránh tình trạng ‘kiệt sức’ của các thành viên trong nhóm (cho phép tốc độ bền vững)",
+      "Nguồn: Hình ảnh từ pixabay.com © 2016",
+      ""
+    ]
+  },
+  "Slide 7": {
+    "Title": "Giao tiếp",
+    "Contents": [
+      "Những điểm cần xem xét:",
+      "Môi trường thuận lợi để giao tiếp tốt",
+      "Các thành viên trong nhóm là những người giao tiếp tốt",
+      "Các nhóm cùng địa điểm, nếu có thể",
+      "Những lần “đứng dậy” hàng ngày",
+      "Hội thảo được hỗ trợ",
+      "Mô hình hóa và tạo mẫu",
+      "Nguồn: Hình ảnh từ pixabay.com © 2016",
+      ""
+    ]
+  },
+  "Slide 8": {
+    "Title": "Thông số điều khiển Atern DSDM",
+    "Contents": [
+      "Nguồn: Hình ảnh từ dsdm.org © 2016",
+      ""
+    ]
+  },
+  "Slide 9": {
+    "Title": "Lập kế hoạch trong DSDM",
+    "Contents": [
+      "Nguồn: Hình ảnh từ dsdm.org © 2016",
+      ""
+    ]
+  },
+  "Slide 10": {
+    "Title": "Rủi ro là gì?",
+    "Contents": [
+      "Rủi ro dự án là điều gì đó có thể xảy ra trong quá trình thực hiện dự án và gây ra tác động bất lợi.",
+      "Nguồn: Hình ảnh từ pixabay.com © 2016",
+      ""
+    ]
+  },
+  "Slide 11": {
+    "Title": "Một quy trình quản lý rủi ro điển hình",
+    "Contents": [
+      "Nguồn: Hình ảnh từ dsdm.org © 2016",
+      ""
+    ]
+  },
+  "Slide 12": {
+    "Title": "Trường hợp DSDM giảm rủi ro",
+    "Contents": [
+      "Các phương pháp tiếp cận truyền thống sử dụng thời gian dự phòng để giảm thiểu rủi ro. Một số dự án Agile sử dụng NDUF (không có thiết kế trước) và các dự án truyền thống sử dụng BDUF (thiết kế lớn trước).",
+      "",
+      "DSDM sử dụng phương pháp EDUF (đủ thiết kế trước). Đó là bởi vì các yêu cầu đôi khi không thể biết trước hoặc có thể thay đổi trong quá trình thực hiện dự án.",
+      ""
+    ]
+  },
+  "Slide 13": {
+    "Title": "Rủi ro đối với các dự án Agile",
+    "Contents": [
+      "Những điểm cần xem xét là:",
+      "",
+      "Vai trò kinh doanh thấp/chắp vá",
+      "Thông số kỹ thuật đầy đủ chi tiết",
+      "Giải pháp mong đợi 100%",
+      "Trao đổi tài nguyên nhóm vào và ra.",
+      ""
+    ]
+  },
+  "Slide 14": {
+    "Title": "Chia thành các nhóm khoảng 6 người. Trong nhóm của bạn liệt kê 20 tính năng bạn cần trong một ngôi nhà.",
+    "Contents": [
+      "Bài 3: Ba tham số kiểm soát chi phí, thời gian và tính năng",
+      "Nguồn: Hình ảnh từ pixabay.com © 2016",
+      ""
+    ]
+  },
+  "Slide 15": {
+    "Title": "Tóm tắt 1",
+    "Contents": [
+      "Quản lý dự án Agile (Phần 1):",
+      "",
+      "Quản lý dự án truyền thống so với quản lý dự án Agile",
+      "Quản lý dự án truyền thống rất cứng nhắc và cản trở tư duy sáng tạo cũng như sự hợp tác chặt chẽ.  Quản lý dự án Agile cho phép tư duy sáng tạo với giao tiếp là trọng tâm của dự án.",
+      ""
+    ]
+  },
+  "Slide 16": {
+    "Title": "Tóm tắt 2",
+    "Contents": [
+      "Các khía cạnh kiểm soát của quản lý dự án Agile",
+      "Rủi ro trong quản lý dự án Agile - Rủi ro được xác định và giám sát cũng như quy trình sắp xếp thời gian trong Quản lý dự án Agile cho phép các tình huống dự phòng được thực hiện linh hoạt hơn.",
+      "Phần 2 của Quản lý dự án Agile, trong Chủ đề 7, sẽ đề cập đến các khía cạnh khác, đặc biệt là Chất lượng và Kiểm tra.",
+      ""
+    ]
+  },
+  "Slide 17": {
+    "Title": "Chủ đề 6 – Quản lý dự án (Phần 1 - Kiểm soát, Rủi ro)",
+    "Contents": [
+      "Có câu hỏi nào không?",
+      ""
+    ]
+  }
+}

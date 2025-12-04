@@ -1,0 +1,160 @@
+Slide 1:
+Title: Phát triển Linh hoạt (Agile Development)
+Contents:
+- Chủ đề 8:
+Các Hội thảo có Người điều phối (Facilitated Workshops)
+
+Slide 2:
+Title: Nội dung bao quát Chủ đề 8
+Contents:
+- Chủ đề này sẽ bao gồm:
+Hội thảo có người điều phối là gì?
+Các loại hội thảo;
+Các vai trò trong hội thảo;
+Lập kế hoạch và động lực;
+Các yếu tố thành công.
+
+Slide 3:
+Title: DSDM - 5 Kỹ thuật Chính
+Contents:
+- Ưu tiên MoSCoW
+
+Mô hình hóa
+
+Các Hội thảo có Người điều phối
+
+Phát triển lặp đi lặp lại
+
+Đóng hộp thời gian (Timeboxing)
+- Source: Image from dsdm.org © 2016
+
+Slide 4:
+Title: Hội thảo có Người điều phối là gì?
+Contents:
+- Là nơi thực hiện một công việc cụ thể và tạo ra một sản phẩm.
+
+Là một kỹ thuật thu thập thông tin và ra quyết định dựa trên nhóm.
+
+Giao tiếp tương tác,
+nhân sự được trao quyền, và một
+người điều phối độc lập.
+
+Slide 5:
+Title: Người Điều phối là gì?
+Contents:
+- Là người giúp đỡ và hỗ trợ.
+Là trọng tài, không phải người chơi.
+Là người đóng góp vào cấu trúc và quy trình (không phải nội dung), để các nhóm có thể hoạt động hiệu quả và đưa ra các quyết định chất lượng cao.
+- Source: Image from pixabay.com © 2016
+
+Slide 6:
+Title: Bài tập Nhóm: Tại sao cần có Hội thảo có Người điều phối?
+Contents:
+- Theo nhóm, thảo luận ngắn gọn BA (3) lợi ích và BA (3) rủi ro của các hội thảo.
+- Source: Image from pixabay.com © 2016
+
+Slide 7:
+Title: Lợi ích của Hội thảo là…
+Contents:
+- Ra quyết định nhanh chóng, chất lượng cao;
+Sự đồng thuận cao hơn;
+Xây dựng tinh thần đồng đội;
+Xây dựng sự đồng lòng;
+Làm rõ các vấn đề.
+
+Slide 8:
+Title: Một vài Hội thảo Điển hình ...
+Contents:
+- Phác thảo Lập kế hoạch Lợi ích Hệ thống
+Thu thập Yêu cầu
+Các Lựa chọn Hệ thống Kỹ thuật
+- Thu thập/Ưu tiên hóa Yêu cầu
+Các Lớp/vai trò/trách nhiệm Người dùng
+Mô hình hóa Dữ liệu/Quy trình
+Lập kế hoạch Phát triển
+Hồi tưởng (Retrospectives)
+Viễn cảnh Tương lai (Future-spectives)
+- Mô hình hóa Chức năng
+Lập kế hoạch Hộp thời gian
+Lập kế hoạch Kiểm thử Chấp nhận
+- Thiết kế
+Tạo mẫu (Prototyping)
+Lập kế hoạch Kiểm thử
+- Hồ sơ Nghiệp vụ
+Thiết lập Phạm vi/Ngữ cảnh
+Giảm thiểu Rủi ro
+- Kế hoạch Đào tạo
+Kế hoạch Chuyển đổi
+Đánh giá Phần tăng dần
+- Source: Image from pixabay.com © 2016
+
+Slide 9:
+Title: Các Vai trò trong Hội thảo
+Contents:
+- Đồng Điều phối
+Hội thảo
+- Source: Images from pixabay.com © 2016
+
+Slide 10:
+Title: Bài tập Nhóm: Lập kế hoạch Hội thảo có Người điều phối
+Contents:
+- 5 khía cạnh nào chúng ta cần lập kế hoạch cho một hội thảo có người điều phối?
+- Source: Image from pixabay.com © 2016
+
+Slide 11:
+Title: Điều hành một Hội thảo
+Contents:
+- Các điểm cần xem xét là:
+
+Định nghĩa (chủ sở hữu, sản phẩm, người tham gia);
+Chuẩn bị cho hội thảo (chương trình nghị sự dựa trên mục tiêu);
+Điều hành phiên hội thảo;
+Xem xét hội thảo;
+Tài liệu cuối cùng - báo cáo hội thảo;
+Xem xét với chủ sở hữu hội thảo.
+
+Slide 12:
+Title: Các Quy tắc Cơ bản của Hội thảo
+Contents:
+- Các điểm cần xem xét là:
+
+Bắt đầu đúng giờ
+Tôn trọng quan điểm của người khác
+Im lặng = đồng ý
+Chỉ một người nói tại một thời điểm
+Duy trì định hướng hội thảo
+Quy tắc 5 phút
+
+Slide 13:
+Title: Hội thảo có phải là Cách tốt nhất không?
+Contents:
+- Source: Image from pixabay.com © 2016
+
+Slide 14:
+Title: Các Yếu tố Thành công của Hội thảo có Người điều phối
+Contents:
+- Các yếu tố thành công bao gồm:
+
+Người điều phối giỏi, được đào tạo cho công việc
+Tính linh hoạt về hình thức nhưng KHÔNG phải mục tiêu
+Sự chuẩn bị
+Giáo dục (phiên chuẩn bị trước hội thảo)
+Các kết quả trước đó được xây dựng
+Giải pháp của người dùng được hỗ trợ, không bị ép buộc
+Xem xét các điểm tốt/xấu
+Phản hồi kết quả cho những người tham gia
+Sự phù hợp của hội thảo với văn hóa tổ chức
+
+Slide 15:
+Title: Tóm tắt
+Contents:
+- Hội thảo có người điều phối là gì?
+Các vai trò trong hội thảo
+Các loại hội thảo
+Lập kế hoạch và động lực
+Các yếu tố thành công
+
+Slide 16:
+Title: Chủ đề 8 – Các Hội thảo có Người điều phối
+Contents:
+- Có câu hỏi nào không?

@@ -1,0 +1,251 @@
+Slide 1:
+Title: Agile Development
+Contents:
+- Topic 1:
+Introduction to the Unit and an Overview of Agile
+
+Slide 2:
+Title: Topic 1: Coverage
+Contents:
+- This first topic is an introduction to the rest of the unit. It will:
+
+Provide an introduction to the structure and content of the Agile Development unit;
+Give the aim, scope and coverage of the unit;
+Introduce the history and key concepts of Agile, in comparison to the waterfall approach;
+Show the structure of DSDM.
+
+Slide 3:
+Title: Topic 1: Agenda
+Contents:
+- In this lecture, we will cover:
+
+Scope of the Agile Development unit
+What is Agile?
+Underpinning Themes
+What is Waterfall?
+What is DSDM?
+Private Study and Self Study Tasks
+Recommended Reading
+
+Slide 4:
+Title: Unit Scope and Coverage
+Contents:
+- The Agile Development unit will:
+
+Provide an introduction to the principles, people, processes and practices of Agile development;
+Prepare students for future trends in software development practices;
+Reinforce understanding of the information systems development process.
+
+Slide 5:
+Title: Unit Aim
+Contents:
+- The Agile Development unit will:
+
+Introduce Agile Development;
+Provide a basic understanding of the main concepts and terminology of Agile;
+Give sufficient understanding of the lifecycle, framework, techniques to equip students to work within an Agile team.
+
+Slide 6:
+Title: Unit Learning Outcomes – 1
+Contents:
+- By the end of the Agile Development unit students will be able to:
+
+Understand the background to Agile development;
+Understand the roles within an Agile development team;
+Understand the various Agile development techniques;
+Understand an Agile development lifecycle;
+
+Slide 7:
+Title: Unit Learning Outcomes – 2
+Contents:
+- Understand the principles associated with an Agile development approach;
+Be able to apply an Agile development approach to a particular project scenario.
+
+Slide 8:
+Title: Structure of the Unit
+Contents:
+- Key points to consider are:
+The lectures and seminars will provide you with the underpinning knowledge you need;
+You should raise any questions you have as they arise at lectures and seminars;
+You will be set self study tasks to complete for each topic;
+You are encouraged to work together as a team to provide mutual support and assistance.
+
+Slide 9:
+Title: Topics - 1
+Contents:
+- Introduction to the unit and an Overview of Agile
+The Agile Approach and Principles
+Modelling
+Roles, Skills and Team Structures
+Lifecycle and Products
+Project Management Considerations (Part 1)
+
+Slide 10:
+Title: Topics - 2
+Contents:
+- Project Management Considerations (Part 2)
+Facilitated Workshops
+Requirements Definition and Prioritisation
+Development and Prototyping
+Estimating and Time boxing
+Unit Summary and Revision Guidance
+
+Each topic is typically 2 hours of lectures and 3 hours of seminars, followed by private study time.
+
+Slide 11:
+Title: Unit Assessment
+Contents:
+- This unit is assessed by an assignment. You should plan to spend roughly 8 hours working on your assignment. You will work on it while you study the unit. The assignment is worth 100% of your overall mark for the unit.
+
+Slide 12:
+Title: Exercise 1
+Contents:
+- Write down FIVE (5) words which you think describe Agile Development.
+
+Slide 13:
+Title: Underpinning Themes of Agile
+Contents:
+- Key points to consider are:
+
+User Involvement
+Iterative Development
+Incremental Development
+Flexibility to embrace change
+Prioritisation
+Collaborative working
+
+Slide 14:
+Title: What is Agile? - 1
+Contents:
+- There is a family of approaches:
+
+DSDM
+Lean
+FDD
+XP
+Scrum
+… and others
+
+Slide 15:
+Title: What is Agile? - 2
+Contents:
+- Collectively, they address:
+
+Engineering best practices
+Leadership philosophy
+Project management framework
+Development framework
+
+Slide 16:
+Title: The Agile Manifesto – 1
+Contents:
+- ‘We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:
+
+Individuals and interactions over processes and tools
+Working software over comprehensive documentation
+Customer collaboration over contract negotiation
+
+Slide 17:
+Title: The Agile Manifesto – 2
+Contents:
+- Responding to change over following a plan.
+
+That is, while there is value in the items on the right, we value the items on the left more.”
+
+
+
+
+Source: www.agilemanifesto.org (2001)
+
+Slide 18:
+Title: Where does Agile come from?
+Contents:
+- In 1956, Herbert D Benington described a process of development at a conference on advanced programming methods for digital computers. In 1970, Winston Royce wrote an article entitled: “Managing the Development of Large Software Systems”.
+
+These ideas formed the basis of what we know as the The Waterfall Model. Agile Development uses the stages from the Waterfall Model, but addresses its inadequacies.
+
+Slide 19:
+Title: What is The Waterfall Model?
+Contents:
+- The Waterfall Model is a sequential development model. It insists on each stage of the development process to be completed before moving on to the next step.
+
+Slide 20:
+Title: Agile is Iterative, Incremental, Evolutionary
+Contents:
+
+Slide 21:
+Title: Advantages of Agile Development
+Contents:
+- Agile Development
+Advantages
+- Rapid
+- Effective
+- Focussed
+- Dynamic
+- User centred
+- Optimised
+
+Slide 22:
+Title: What is DSDM?
+Contents:
+- Dynamic Systems Development Method (DSDM) Agile Project Framework (2014 Onwards)
+
+It an Agile Project Delivery Framework that delivers the right solution at the right time. It is applicable to any kind of project. Key characteristics are:
+
+Focused on business benefit;
+On-time and in budget;
+Quality and rigour;
+Incremental and Collaborative.
+
+Slide 23:
+Title: How does DSDM differ?
+Contents:
+- Traditional Approach
+- DSDM Approach
+- Source: Image from dsdm.org © 2016
+
+Slide 24:
+Title: The Structure of DSDM
+Contents:
+- Source: Image from dsdm.org © 2016
+
+Slide 25:
+Title: The Process
+Contents:
+- Source: Image from dsdm.org © 2016
+
+Slide 26:
+Title: Summary of Topic 1 Coverage
+Contents:
+- This first topic has:
+Provided an introduction to the structure and content of the Agile Development unit;
+Given the aim, scope and coverage of the unit;
+Introduced the history and key concepts of Agile, in comparison to the waterfall approach;
+Shown the structure and process of DSDM Agile Project Framework 2014
+
+Slide 27:
+Title: Self Study Tasks – 1
+Contents:
+- Exercise 1: Familiarisation with DSDM
+You should take the opportunity to familiarise yourself DSDM.  Research the process in greater detail.  Find at least ONE (1) case study documenting how it was applied and make notes relating to what you see as the benefits.
+
+.
+
+Slide 28:
+Title: Self Study Tasks – 2
+Contents:
+- Exercise 2: Research
+Work in a pair or a small group (max 3) to complete this task.
+Focus on researching the following approaches; Scrum, FDD, Lean and XP. These were introduced in this lecture. You should also produce a 50-100 word summary of each approach in your own words, ready for discussion at the seminar session for this topic.
+
+Slide 29:
+Title: Suggested Reading List
+Contents:
+- The DSDM Agile Project Framework. (2014). DSDM Agile Project Framework (2014 Onwards) Handbook. DSDM Consortium https://www.dsdm.org/resources/dsdm-handbooks/the-dsdm-agile-project-framework-2014-onwards (Last accessed 13th September 2016)
+The DSDM Consortium . (2008). DSDM Atern Handbook. 2nd Edition. DSDM Consortium https://www.dsdm.org/resources/dsdm-handbooks/dsdm-atern-handbook-2008 (Last accessed 13th September 2016)
+
+Slide 30:
+Title: Topic 1 – Introduction to the unit and an Overview of Agile
+Contents:
+- Any Questions?
+

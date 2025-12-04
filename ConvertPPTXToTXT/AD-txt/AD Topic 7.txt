@@ -1,0 +1,103 @@
+Slide 1:
+Title: Agile Development
+Contents:
+- Topic 7: Project Management (Part 2 – Quality and Testing)
+
+Slide 2:
+Title: Topic 7 Coverage
+Contents:
+- This topic will cover:Quality and Configuration Management;Testing;
+
+Slide 3:
+Title: What is Quality?
+Contents:
+- “Fitness for Purpose”
+- SolutionQuality
+- Process Quality
+
+Slide 4:
+Title: Quality Assurance in DSDM
+Contents:
+- DSDM Quality Audit focuses on these key areas:Is business involvement sufficient? Is team really empowered?Is life-cycle being followed?Are products being produced?Is feedback from reviews being incorporated?Is backtracking possible?Are priorities being adhered to?Are timeboxes being respected?
+
+Slide 5:
+Title: Quality Management Steps
+Contents:
+- Say what you are going to do.Do it.Demonstrate that you have done it.
+- Source: Image from pixabay.com © 2016
+
+Slide 6:
+Title: Quality Related Activities
+Contents:
+- Points to consider are:Inspection and review against product descriptionsDynamic testingStatic testingReview/demonstration of key prototypes
+
+Slide 7:
+Title: Maintainability versus Cost
+Contents:
+- Senior Management decision at outset:	Maintainability a requirement for the new system, or	  Maintainability is not a problem: short system life, replaced before maintenance an issue, or 	Maintainability secondary to rapid delivery. 	The business will accept cost of re-engineering
+- Source: Image from pixabay.com © 2016
+
+Slide 8:
+Title: Group Exercise: Maintainability Decision
+Contents:
+- In groups, decide which of the 3 maintainability options applies for the case study project.
+
+Slide 9:
+Title: What is Configuration Management - 1?
+Contents:
+- Source: Images from pixabay.com © 2016
+
+Slide 10:
+Title: What is Configuration Management - 2?
+Contents:
+- Configuration management is the process of:Identifying and defining configuration items (CIs) of a system;Controlling release and change of CIs throughout the lifecycle;Recording and reporting status of CIs and change requests;Verifying completeness and correctness of Cis;
+
+Slide 11:
+Title: What is Configuration Management - 3?
+Contents:
+- Change Control: the set of formal procedures which record and enable changes to configuration items.
+- Source: Image from pixabay.com © 2016
+
+Slide 12:
+Title: Why is CM necessary?		Iteration implies change, which must be managedChanges must be reversible - version controlSolution developers need to be confident of right versionWhat is a CM Champion?Tech. Co-ordinator?		Within team
+Contents:
+- Configuration Management
+- Source: Image from pixabay.com © 2016
+
+Slide 13:
+Title: Configuration Management Strategy
+Contents:
+- Baselining: a snapshot at a point in timeContinual integrationBaseline prototypes:Before demonstrationAfter approvalBaseline:Daily?After each item unit-tested?End of development timebox (at minimum)
+- Source: Image from pixabay.com © 2016
+
+Slide 14:
+Title: Metrics in DSDM
+Contents:
+- Points to consider include: Immediate payback in an iterative environment;Why measure?Keep it simple, make it easy;What are we measuring?;Compare measures (need > 1!);Measures drive behaviour.
+
+Slide 15:
+Title: Group Exercise: Metrics
+Contents:
+- Source: Image from pixabay.com © 2016
+
+Slide 16:
+Title: Agile Testing Concepts
+Contents:
+- CollaborativeRepeatablePrioritisedRisk-basedIndependentTest-drivenFail fastEnd-to-End Experience
+- Source: Image from pixabay.com © 2016
+
+Slide 17:
+Title: Group Exercise: Using the Key Techniques in Testing
+Contents:
+- In groups, describe how the below techniquescould help in testing in an Agile (DSDM) project:ModellingMoSCoW PrioritisationFacilitated Workshops
+
+Slide 18:
+Title: Summary of Quality and Testing
+Contents:
+- The topic has covered:QualityWhat is quality?MaintainabilityConfiguration managementBaseliningMetricsTesting
+
+Slide 19:
+Title: Topic 7 – Project Management (Part 2 – Quality and Testing)
+Contents:
+- Any Questions?
+

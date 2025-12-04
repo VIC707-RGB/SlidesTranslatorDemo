@@ -1,0 +1,127 @@
+Slide 1:
+Title: Agile Development
+Contents:
+- Topic 6:
+Project Management (Part 1 - Control, Risk)
+
+Slide 2:
+Title: Topic 6 Coverage
+Contents:
+- This topic will cover:
+Traditional project management compared with Agile project management;
+The control aspects of Agile project management;
+Risk in Agile project management;
+
+Part 2 of Agile Project Management, in Topic 7, will cover other aspects, in particular Quality and Testing.
+
+Slide 3:
+Title: Agile Project Management
+Contents:
+- Major Planning Issues
+Part 1:
+Control
+Risk
+Part 2:
+Configuration Management
+Quality
+Testing
+Metrics
+Maintainability
+
+Slide 4:
+Title: Traditional and Agile Project Management
+Contents:
+- Traditional offers strict adherence to specification; control of resource in order to hit time and budget for the fixed specification.
+- Agile is evolutionary; collaborative; has a ‘no-blame’ user/developer relationship; uses timeboxing to deliver a usable system on time.
+- Source: Image from pixabay.com © 2016
+
+Slide 5:
+Title: Exercise 1: Traditional vs Agile
+Contents:
+- Get into pairs. One of you is the Project Manager, the other one is the team worker.
+- Source: Image from pixabay.com © 2016
+
+Slide 6:
+Title: Agile Project Managers must:
+Contents:
+- Understand the business and technical issues
+Facilitate the team (arbitrate not dictate)
+Avoid ‘burnout’ of team members (allow sustainable pace)
+- Source: Image from pixabay.com © 2016
+
+Slide 7:
+Title: Communication
+Contents:
+- Points to consider:
+An environment conducive to good communication
+Team members who are good communicators
+Co-located teams, where possible
+Daily “stand-ups”
+Facilitated workshops
+Modelling and prototyping
+- Source: Image from pixabay.com © 2016
+
+Slide 8:
+Title: DSDM Atern Control Parameters
+Contents:
+- Source: Image from dsdm.org © 2016
+
+Slide 9:
+Title: Planning in DSDM
+Contents:
+- Source: Image from dsdm.org © 2016
+
+Slide 10:
+Title: What is Risk?
+Contents:
+- A project risk is something that may happen during a project that will have a detrimental effect.
+- Source: Image from pixabay.com © 2016
+
+Slide 11:
+Title: A Typical Risk Management Process
+Contents:
+- Source: Image from dsdm.org © 2016
+
+Slide 12:
+Title: Where DSDM Reduces Risk
+Contents:
+- Traditional approaches use time contingency to reduce risk. Some Agile projects use NDUF (no design up front) and Traditional projects use BDUF (big design up front).
+
+DSDM uses the EDUF (enough design up front) approach. It is because requirements are sometimes unknowable up front or are likely to change during the project.
+
+Slide 13:
+Title: Risks to Agile Projects
+Contents:
+- Points to consider are:
+
+Low/patchy business roles
+Fully-detailed specification
+100% solution expected
+Swapping team resources in and out.
+
+Slide 14:
+Title: Get into groups of about 6. In your groups list 20 features you need in a house.
+Contents:
+- Exercise 3: The three control parameters of cost, time and features
+- Source: Image from pixabay.com © 2016
+
+Slide 15:
+Title: Summary 1
+Contents:
+- Agile Project Management (Part 1):
+
+Traditional project management compared with Agile project management
+Traditional project management is rigid and prevents creative thinking and strong collaboration.  Agile Project Management allows for creative thinking with communication at the heart of the project.
+
+Slide 16:
+Title: Summary 2
+Contents:
+- The control aspects of Agile project management
+Risk in Agile project management - Risks are identified and monitored and the timeboxing process in Agile Project Management allows for contingencies to be implemented more flexibly.
+Part 2 of Agile Project Management, in Topic 7, will cover other aspects, in particular Quality and Testing.
+
+Slide 17:
+Title: Topic 6 – Project Management (Part 1 - Control, Risk)
+Contents:
+- Any Questions?
+

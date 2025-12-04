@@ -1,0 +1,206 @@
+Slide 1:
+Title: Phát triển Linh hoạt (Agile Development)
+Contents:
+- Chủ đề 9:
+Định nghĩa và Ưu tiên Hóa Yêu cầu
+
+Slide 2:
+Title: Nội dung bao quát Chủ đề 9
+Contents:
+- Chủ đề này sẽ bao gồm:
+Yêu cầu là gì?
+Định nghĩa các yêu cầu;
+Yêu cầu trong vòng đời phương pháp tiếp cận Agile;
+Yêu cầu và mô hình hóa;
+Vòng đời Yêu cầu.
+
+Slide 3:
+Title: Bài tập Nhóm: Yêu cầu là gì?
+Contents:
+- Liệt kê càng nhiều từ hoặc cụm từ càng tốt có nghĩa là “yêu cầu”.
+- Source: Image from pixabay.com © 2016
+
+Slide 4:
+Title: Yêu cầu là gì?
+Contents:
+- Nói một cách đơn giản, yêu cầu là một tính năng, một chức năng, một dịch vụ hoặc một ràng buộc. Ví dụ, yêu cầu có thể có nghĩa là:
+
+Tính năng/Chức năng – yếu tố của sản phẩm đã được lên kế hoạch
+Dịch vụ – một dịch vụ mà dự án cần đảm bảo nó cung cấp
+Ràng buộc – điều gì đó sẽ đóng vai trò là rào cản trong quá trình thực hiện dự án mà cần phải được lên kế hoạch và tìm ra các giải pháp thay thế phù hợp.
+
+Slide 5:
+Title: Định nghĩa các Yêu cầu
+Contents:
+- Điều quan trọng là phải định nghĩa một yêu cầu cùng với các tiêu chí chấp nhận của nó dưới dạng các mục tiêu có thể đo lường được ở tất cả các cấp. Điều quan trọng là phải cung cấp cho mỗi yêu cầu một ID duy nhất, và giữ lại các chi tiết sau: Nguồn; Chủ sở hữu; Lợi ích Kinh doanh; và Ưu tiên.
+
+Slide 6:
+Title: Các Yêu cầu Chức năng
+Contents:
+- Yêu cầu chức năng là “cái gì”, không phải “như thế nào”. Điều quan trọng là phải làm cho yêu cầu trở nên SMART: Cụ thể (Specific); Có thể Đo lường (Measurable); Có thể Đạt được (Achievable); Thực tế (Realistic) và Đúng lúc (Timely).
+
+Cũng quan trọng là phải xem xét cách diễn đạt của một yêu cầu chức năng. Ví dụ, “Chúng tôi cần khả năng để …” hoặc “Với tư cách là một … Tôi cần … để …”
+Các yêu cầu chức năng không được xung đột hoặc chồng chéo với các yêu cầu khác.
+
+Slide 7:
+Title: Bài tập Nhóm: Các Yêu cầu Chức năng
+Contents:
+- Trong các nhóm nhỏ, xem xét yêu cầu; “mở một tài khoản ngân hàng cá nhân”, Tạo một số yêu cầu SMART dựa trên điều này từ các góc độ của:
+
+Khách hàng
+Giám đốc ngân hàng
+
+Slide 8:
+Title: Các Yêu cầu Phi Chức năng – 1
+Contents:
+- Các yêu cầu phi chức năng là về “mức độ tốt” chúng ta thực hiện các yêu cầu chức năng. Chúng là các tính năng đảm bảo một sản phẩm hoàn thiện hoạt động hiệu quả và phù hợp với thương hiệu công ty, chẳng hạn như:
+
+Bảo mật
+Khả dụng
+Khả năng di động
+Khả năng bảo trì
+
+Slide 9:
+Title: Các Yêu cầu Phi Chức năng – 2
+Contents:
+- Giao diện bên ngoài
+Các ràng buộc thiết kế
+Hiệu suất
+Thời gian phản hồi
+
+Chúng có thể là yêu cầu toàn cầu hoặc chỉ liên quan đến một yêu cầu chức năng. Có khả năng chúng sẽ cần thêm thời gian trong kế hoạch.
+
+Slide 10:
+Title: Cấu trúc của các Yêu cầu – 1
+Contents:
+- Phân rã Yêu cầu
+Khả thi – Một tập hợp các yêu cầu cấp rất cao được thiết lập.
+
+Nền tảng – Một tập hợp các yêu cầu cấp cao đã được ưu tiên được thiết lập (PRL) và User stories.
+
+Slide 11:
+Title: Cấu trúc của các Yêu cầu – 2
+Contents:
+- Khám phá và Kỹ thuật – Mỗi yêu cầu có thể được phân rã thành các yêu cầu chi tiết hơn, và, tại một thời điểm nào đó, nó có thể không cần phải được viết ra, mà được phát triển như một phần của phát triển lặp đi lặp lại (tạo mẫu).
+
+Slide 12:
+Title: Yêu cầu và Mô hình hóa
+Contents:
+- Xuất báo cáo công suất sử dụng
+- Đặt chỗ
+- Hủy đặt chỗ
+- Sửa đổi đặt chỗ
+- Đặt phòng
+hội nghị
+- Đặt phòng cá nhân
+- Xử lý
+Đặt chỗ
+- R1
+- R1.1.1
+- R1.1.2
+- R1.1.3
+- W
+- M
+- M
+- S
+- C
+- M
+- R1.1
+- R1.2
+- M
+
+Slide 13:
+Title: Yêu cầu trong Vòng đời DSDM
+Contents:
+- Kế hoạch
+Phác thảo
+- Đừng để bị giữ làm con tin bởi các ước tính sớm
+- Kế hoạch
+Phân phối
+- Kế hoạch
+Hộp thời gian
+- Chi tiết
+Yêu cầu
+- Ít hơn
+- Nhiều
+- Ít hơn
+- Thường <100
+yêu cầu
+- Thường >100
+yêu cầu
+- Thường <10
+yêu cầu
+- Độ chính xác
+Ước tính
+- Source: Image from pixabay.com © 2016
+
+Slide 14:
+Title: MoSCoW là gì? – 1
+Contents:
+- Must haves (Phải có) là:
+ 
+Cơ bản đối với hệ thống;
+Không có chúng, hệ thống không thể hoạt động/vô dụng;
+Tập hợp con có thể sử dụng được tối thiểu;
+Được đảm bảo sẽ được phát triển.
+
+Slide 15:
+Title: MoSCoW là gì? – 2
+Contents:
+- Should haves (Nên có) bao gồm:
+ 
+Các yêu cầu quan trọng;
+Lẽ ra là bắt buộc, nhưng có giải pháp thay thế tồn tại;
+Hệ thống vẫn sẽ hữu ích/có thể sử dụng được nếu không có chúng.
+
+Slide 16:
+Title: MoSCoW là gì? – 3
+Contents:
+- Could haves (Có thể có) sẽ bổ sung lợi ích kinh doanh và dễ bị loại bỏ khỏi phần tăng dần này hơn là Should Haves. Won’t haves (Sẽ không có) có thể là các yêu cầu có giá trị nhưng có thể chờ đợi cho đến phần tăng dần sau.
+
+Lưu ý: Tất cả việc ưu tiên hóa đều liên quan đến một mục tiêu dự án rõ ràng.
+
+Slide 17:
+Title: Chia thành các nhóm khoảng 4 người. Xem xét lại bài tập từ Chủ đề 6, nơi bạn đã liệt kê 20 tính năng bạn cần trong một ngôi nhà. Xác định các yêu cầu chức năng và phi chức năng, sau đó ưu tiên chúng bằng cách sử dụng MoSCoW.
+Contents:
+- Bài tập Nhóm: Xác định yêu cầu
+
+Slide 18:
+Title: Vòng đời Yêu cầu
+Contents:
+- Mỗi yêu cầu phải tuân theo:
+
+Khêu gợi (Elicitation) – Hội thảo, xây dựng mô hình, phỏng vấn, quan sát, kịch bản.
+
+Phân tích (Analysis) – Thực tế? Mơ hồ? Tổ hợp các yêu cầu? Phù hợp với doanh nghiệp?
+
+Xác nhận (Validation) – Bản mẫu, đánh giá, mô hình, kiểm thử.
+
+Quản lý (Management) – Khả năng truy xuất nguồn gốc, tính ổn định, quản lý thay đổi.
+
+Slide 19:
+Title: Tóm tắt – 1
+Contents:
+- Yêu cầu là gì?
+Một chức năng, tính năng, dịch vụ hoặc ràng buộc
+
+Yêu cầu chức năng và phi chức năng
+Chức năng = cái gì không phải như thế nào
+Phi chức năng = mức độ tốt
+
+Yêu cầu trong vòng đời DSDM
+Các yêu cầu tăng lên về số lượng và chi tiết trong suốt vòng đời
+
+Slide 20:
+Title: Tóm tắt – 2
+Contents:
+- Yêu cầu và mô hình hóa
+Các yêu cầu được chia nhỏ và trình diễn trong quá trình mô hình hóa
+
+Vòng đời Yêu cầu
+Khêu gợi/Phân tích/Xác nhận/Quản lý
+
+Slide 21:
+Title: Chủ đề 9 – Định nghĩa và Ưu tiên Hóa Yêu cầu
+Contents:
+- Có câu hỏi nào không?

@@ -1,0 +1,208 @@
+Slide 1:
+Title: Agile Development
+Contents:
+- Topic 9:
+Requirements Definition and Prioritisation
+
+Slide 2:
+Title: Topic 9 Coverage
+Contents:
+- This topic will cover:
+What is a requirement?
+Defining the requirements;
+Requirements in the Agile approach lifecycle;
+Requirements and modelling;
+The Requirement Lifecycle.
+
+Slide 3:
+Title: Group Exercise: What is a Requirement?
+Contents:
+- List as many words or phrases as you can that mean “requirement”.
+- Source: Image from pixabay.com © 2016
+
+Slide 4:
+Title: What is a Requirement?
+Contents:
+- In simple terms, a requirement is a feature, a function, a service or a constraint. For example, requirements can mean the following:
+
+Feature/Function – element of the planned product
+Service – a service the project needs to ensure it delivers
+Constraint – something that will act as a barrier during the project that needs to be planned for and suitable work arounds achieved.
+
+Slide 5:
+Title: Defining the Requirements
+Contents:
+- It is important to define a requirement along with its acceptance criteria as measurable targets at all levels. It is vital to give each requirement a unique ID, and keep the following details: Source; Owner; Business Benefit; and Priority.
+
+Slide 6:
+Title: Functional Requirements
+Contents:
+- Functional requirement is “what”, not “how”. It is important to make a requirement SMART: Specific; Measurable; Achievable; Realistic and Timely.
+
+It is also important to consider the wording of a functional requirement. For example, “We need the ability to …” or  “As a … I need… in order to …”.
+Functional requirements should not be in conflict with, or overlap, with other requirements.
+
+Slide 7:
+Title: Group Exercise: Functional Requirements
+Contents:
+- In small groups, consider the requirement; “set up a personal bank account”, Create some SMART requirements based on this from the perspectives of:
+
+The customer
+The bank manager
+
+Slide 8:
+Title: Non-Functional Requirements – 1
+Contents:
+- Non-functional requirements are about “how well” we do the functional requirements. They are features that ensure a finished products work effectively and fits in well with the company brand, such as:
+
+Security
+Availability
+Portability
+Maintainability
+
+Slide 9:
+Title: Non-Functional Requirements – 2
+Contents:
+- External interfaces
+Design constraints
+Performance
+Response time
+
+They may be global or related to just one functional requirement. It is likely that they will require extra time in the plan.
+
+Slide 10:
+Title: Structure of Requirements – 1
+Contents:
+- Requirement Decomposition
+Feasibility – A very high level set of requirements is established.
+
+Foundations – A high level set of prioritised requirements is established (a PRL) and User stories.
+
+Slide 11:
+Title: Structure of Requirements – 2
+Contents:
+- Exploration and Engineering – Each requirement may decompose into more detailed requirements, and, at some point, it may not need to be written down, but evolved as part of iterative development (prototyping).
+
+Slide 12:
+Title: Requirements and Modelling
+Contents:
+- Produce occupancy report
+- Make a reservation
+- Cancel a reservation
+- Amend a reservation
+- Make a conference
+booking
+- Make an individual booking
+- Handle
+Reservations
+- R1
+- R1.1.1
+- R1.1.2
+- R1.1.3
+- W
+- M
+- M
+- S
+- C
+- M
+- R1.1
+- R1.2
+- M
+
+Slide 13:
+Title: Requirements in the DSDM Lifecycle
+Contents:
+- Outline
+Plan
+- Do not be held hostage to early estimates
+- Delivery
+Plan
+- Timebox
+Plan(s)
+- More
+- Requirement
+Detail
+- Less
+- More
+- Less
+- Typically <100
+requirements
+- Typically >100
+requirements
+- Typically <10
+requirements
+- Estimate
+Accuracy
+- Source: Image from pixabay.com © 2016
+
+Slide 14:
+Title: What is MoSCoW? – 1
+Contents:
+- Must haves are:
+ 
+Fundamental to system;
+Without them, system unworkable/useless;
+Minimum usable subset;
+Guaranteed to be developed.
+
+Slide 15:
+Title: What is MoSCoW? – 2
+Contents:
+- Should haves include:
+ 
+Important requirements;
+Would be mandatory, but workaround exists;
+System will still be useful/usable without them.
+
+Slide 16:
+Title: What is MoSCoW? – 3
+Contents:
+- Could haves would add business benefit and are more easily left out of this increment than Should Haves. Won’t haves can be valuable requirements but can wait until a later increment.
+
+Note:  All prioritisation is with respect to a clear project objective.
+
+Slide 17:
+Title: Get into groups of approximately 4. Revisit the exercise from Topic 6 where you listed 20 features your need in a house. Identify the functional and non-functional requirements, and then prioritise them using MoSCoW.
+Contents:
+- Group Exercise: Identifying requirements
+
+Slide 18:
+Title: The Requirement Lifecycle
+Contents:
+- Each requirement must be subject to:
+
+Elicitation – Workshops, model-building, interviews, observation, scenarios.
+
+Analysis – Realistic? Ambiguous? Combination of requirements? Aligned with business?
+
+Validation – Prototypes, reviews, models, testing.
+
+Management – Traceability, stability, change management.
+
+Slide 19:
+Title: Summary – 1
+Contents:
+- What is a requirement?
+A function, feature, service or constraint
+
+Functional and non-functional requirements
+Functional = what not how
+Non-Functional = how well
+
+Requirements in the DSDM lifecycle
+Requirements increase in number and detail throughout the lifecycle
+
+Slide 20:
+Title: Summary – 2
+Contents:
+- Requirements and modelling
+Requirements are broken down and demonstrated during modelling
+
+The Requirement Lifecycle
+Elicitation/Analysis/Validation/Management
+
+Slide 21:
+Title: Topic 9 – Requirements Definition and Prioritisation
+Contents:
+- Any Questions?
+

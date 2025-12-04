@@ -1,0 +1,250 @@
+Slide 1:
+Title: Phát triển Linh hoạt (Agile Development)
+Contents:
+- Chủ đề 1:
+Giới thiệu về Học phần và Tổng quan về Agile
+
+Slide 2:
+Title: Chủ đề 1: Nội dung bao quát
+Contents:
+- Chủ đề đầu tiên này là phần giới thiệu cho toàn bộ học phần. Nó sẽ:
+
+Cung cấp giới thiệu về cấu trúc và nội dung của học phần Phát triển Linh hoạt;
+Đưa ra mục tiêu, phạm vi và nội dung bao quát của học phần;
+Giới thiệu lịch sử và các khái niệm chính của Agile, so sánh với phương pháp thác nước (waterfall approach);
+Trình bày cấu trúc của DSDM.
+
+Slide 3:
+Title: Chủ đề 1: Chương trình
+Contents:
+- Trong buổi học này, chúng ta sẽ đề cập đến:
+
+Phạm vi của học phần Phát triển Linh hoạt
+Agile là gì?
+Các Chủ đề nền tảng
+Mô hình Thác nước (Waterfall) là gì?
+DSDM là gì?
+Nhiệm vụ Tự học và Nghiên cứu cá nhân
+Tài liệu Đọc tham khảo
+
+Slide 4:
+Title: Phạm vi và Nội dung bao quát của Học phần
+Contents:
+- Học phần Phát triển Linh hoạt sẽ:
+
+Cung cấp giới thiệu về các nguyên tắc, con người, quy trình và thực tiễn của phát triển Agile;
+Chuẩn bị cho sinh viên về các xu hướng tương lai trong thực tiễn phát triển phần mềm;
+Củng cố sự hiểu biết về quy trình phát triển hệ thống thông tin.
+
+Slide 5:
+Title: Mục tiêu của Học phần
+Contents:
+- Học phần Phát triển Linh hoạt sẽ:
+
+Giới thiệu Phát triển Linh hoạt;
+Cung cấp hiểu biết cơ bản về các khái niệm và thuật ngữ chính của Agile;
+Đưa ra hiểu biết đầy đủ về vòng đời, khuôn khổ, kỹ thuật để trang bị cho sinh viên làm việc trong một nhóm Agile.
+
+Slide 6:
+Title: Chuẩn đầu ra Học phần – 1
+Contents:
+- Kết thúc học phần Phát triển Linh hoạt, sinh viên sẽ có khả năng:
+
+Hiểu bối cảnh của phát triển Agile;
+Hiểu các vai trò trong một nhóm phát triển Agile;
+Hiểu các kỹ thuật phát triển Agile khác nhau;
+Hiểu vòng đời phát triển Agile;
+
+Slide 7:
+Title: Chuẩn đầu ra Học phần – 2
+Contents:
+- Hiểu các nguyên tắc liên quan đến phương pháp phát triển Agile;
+Có khả năng áp dụng phương pháp phát triển Agile vào một kịch bản dự án cụ thể.
+
+Slide 8:
+Title: Cấu trúc của Học phần
+Contents:
+- Các điểm chính cần lưu ý là:
+Các bài giảng và hội thảo sẽ cung cấp cho bạn kiến thức nền tảng cần thiết;
+Bạn nên đặt bất kỳ câu hỏi nào nảy sinh trong các bài giảng và hội thảo;
+Bạn sẽ được giao các nhiệm vụ tự học để hoàn thành cho mỗi chủ đề;
+Bạn được khuyến khích làm việc cùng nhau như một nhóm để hỗ trợ và giúp đỡ lẫn nhau.
+
+Slide 9:
+Title: Các Chủ đề - 1
+Contents:
+- Giới thiệu về học phần và Tổng quan về Agile
+Phương pháp tiếp cận và Nguyên tắc Agile
+Mô hình hóa
+Vai trò, Kỹ năng và Cấu trúc nhóm
+Vòng đời và Sản phẩm
+Các Vấn đề Quản lý Dự án (Phần 1)
+
+Slide 10:
+Title: Các Chủ đề - 2
+Contents:
+- Các Vấn đề Quản lý Dự án (Phần 2)
+Các Hội thảo có Người điều phối (Facilitated Workshops)
+Định nghĩa và Ưu tiên Yêu cầu
+Phát triển và Tạo mẫu (Prototyping)
+Ước tính và Đóng hộp thời gian (Time boxing)
+Tóm tắt Học phần và Hướng dẫn Ôn tập
+
+Each topic is typically 2 hours of lectures and 3 hours of seminars, followed by private study time.
+
+Slide 11:
+Title: Đánh giá Học phần
+Contents:
+- Học phần này được đánh giá bằng một bài tập lớn. Bạn nên dành khoảng 8 giờ để làm bài tập này. Bạn sẽ làm bài tập trong khi học học phần. Bài tập lớn chiếm 100% điểm tổng thể của bạn cho học phần.
+
+Slide 12:
+Title: Bài tập 1
+Contents:
+- Viết ra NĂM (5) từ mà bạn nghĩ mô tả Phát triển Linh hoạt (Agile Development).
+
+Slide 13:
+Title: Các Chủ đề Nền tảng của Agile
+Contents:
+- Các điểm chính cần lưu ý là:
+
+Sự tham gia của người dùng
+Phát triển lặp đi lặp lại (Iterative Development)
+Phát triển tăng dần (Incremental Development)
+Linh hoạt để đón nhận thay đổi
+Ưu tiên hóa
+Làm việc cộng tác
+
+Slide 14:
+Title: Agile là gì? - 1
+Contents:
+- Có một họ các phương pháp tiếp cận:
+
+DSDM
+Lean
+FDD
+XP
+Scrum
+… và những phương pháp khác
+
+Slide 15:
+Title: Agile là gì? - 2
+Contents:
+- Tập thể, chúng đề cập đến:
+
+Các thực tiễn kỹ thuật tốt nhất
+Triết lý lãnh đạo
+Khuôn khổ quản lý dự án
+Khuôn khổ phát triển
+
+Slide 16:
+Title: Tuyên ngôn Agile – 1
+Contents:
+- ‘Chúng tôi đang khám phá ra những cách tốt hơn để phát triển phần mềm bằng cách thực hiện và giúp đỡ người khác thực hiện. Thông qua công việc này, chúng tôi đã đi đến việc coi trọng:
+
+Cá nhân và sự tương tác hơn là quy trình và công cụ
+Phần mềm hoạt động tốt hơn là tài liệu toàn diện
+Cộng tác với khách hàng hơn là đàm phán hợp đồng
+
+Slide 17:
+Title: Tuyên ngôn Agile – 2
+Contents:
+- Phản hồi với thay đổi hơn là tuân thủ một kế hoạch.
+
+That is, while there is value in the items on the right, we value the items on the left more.”
+
+
+
+
+Source: www.agilemanifesto.org (2001)
+
+Slide 18:
+Title: Agile bắt nguồn từ đâu?
+Contents:
+- Năm 1956, Herbert D Benington mô tả một quy trình phát triển tại một hội nghị về các phương pháp lập trình tiên tiến cho máy tính kỹ thuật số. Năm 1970, Winston Royce đã viết một bài báo có tựa đề: “Quản lý Phát triển các Hệ thống Phần mềm Lớn”.
+
+Những ý tưởng này đã hình thành nên cơ sở của cái mà chúng ta biết đến là The Waterfall Model. Phát triển Agile sử dụng các giai đoạn từ Mô hình Thác nước, nhưng khắc phục những thiếu sót của nó.
+
+Slide 19:
+Title: Mô hình Thác nước là gì?
+Contents:
+- Mô hình Thác nước là một mô hình phát triển tuần tự. Nó yêu cầu mỗi giai đoạn của quy trình phát triển phải được hoàn thành trước khi chuyển sang bước tiếp theo.
+
+Slide 20:
+Title: Agile là Lặp đi lặp lại, Tăng dần, Tiến hóa
+Contents:
+
+Slide 21:
+Title: Ưu điểm của Phát triển Linh hoạt
+Contents:
+- Phát triển Linh hoạt
+Ưu điểm
+- Nhanh chóng
+- Hiệu quả
+- Tập trung
+- Năng động
+- Lấy người dùng làm trung tâm
+- Tối ưu hóa
+
+Slide 22:
+Title: DSDM là gì?
+Contents:
+- Dynamic Systems Development Method (DSDM) - Khuôn khổ Dự án Agile (2014 Onwards)
+
+Đây là một Khuôn khổ Phân phối Dự án Agile cung cấp giải pháp phù hợp vào đúng thời điểm. Nó áp dụng cho bất kỳ loại dự án nào. Các đặc điểm chính là:
+
+Tập trung vào lợi ích kinh doanh;
+Đúng thời hạn và trong ngân sách;
+Chất lượng và sự nghiêm ngặt;
+Tăng dần và Cộng tác.
+
+Slide 23:
+Title: DSDM khác biệt như thế nào?
+Contents:
+- Phương pháp tiếp cận Truyền thống
+- Phương pháp tiếp cận DSDM
+- Source: Image from dsdm.org © 2016
+
+Slide 24:
+Title: Cấu trúc của DSDM
+Contents:
+- Source: Image from dsdm.org © 2016
+
+Slide 25:
+Title: Quy trình
+Contents:
+- Source: Image from dsdm.org © 2016
+
+Slide 26:
+Title: Tóm tắt Nội dung bao quát của Chủ đề 1
+Contents:
+- Chủ đề đầu tiên này đã:
+Cung cấp giới thiệu về cấu trúc và nội dung của học phần Phát triển Linh hoạt;
+Đưa ra mục tiêu, phạm vi và nội dung bao quát của học phần;
+Giới thiệu lịch sử và các khái niệm chính của Agile, so sánh với phương pháp thác nước;
+Trình bày cấu trúc và quy trình của Khuôn khổ Dự án Agile DSDM 2014
+
+Slide 27:
+Title: Nhiệm vụ Tự học – 1
+Contents:
+- Bài tập 1: Làm quen với DSDM
+Bạn nên tận dụng cơ hội để làm quen với DSDM. Nghiên cứu quy trình chi tiết hơn. Tìm ít nhất MỘT (1) nghiên cứu tình huống ghi lại cách nó đã được áp dụng và ghi lại các ghi chú liên quan đến những gì bạn coi là lợi ích.
+
+.
+
+Slide 28:
+Title: Nhiệm vụ Tự học – 2
+Contents:
+- Bài tập 2: Nghiên cứu
+Làm việc theo cặp hoặc nhóm nhỏ (tối đa 3 người) để hoàn thành nhiệm vụ này.
+Tập trung nghiên cứu các phương pháp tiếp cận sau: Scrum, FDD, Lean và XP. Chúng đã được giới thiệu trong buổi học này. Bạn cũng nên lập một bản tóm tắt từ 50-100 từ về mỗi phương pháp theo cách hiểu của riêng bạn, chuẩn bị cho buổi thảo luận tại hội thảo của chủ đề này.
+
+Slide 29:
+Title: Danh sách Đọc được Đề xuất
+Contents:
+- The DSDM Agile Project Framework. (2014). DSDM Agile Project Framework (2014 Onwards) Handbook. DSDM Consortium https://www.dsdm.org/resources/dsdm-handbooks/the-dsdm-agile-project-framework-2014-onwards (Last accessed 13th September 2016)
+The DSDM Consortium . (2008). DSDM Atern Handbook. 2nd Edition. DSDM Consortium https://www.dsdm.org/resources/dsdm-handbooks/dsdm-atern-handbook-2008 (Last accessed 13th September 2016)
+
+Slide 30:
+Title: Chủ đề 1 – Giới thiệu về học phần và Tổng quan về Agile
+Contents:
+- Any Questions?

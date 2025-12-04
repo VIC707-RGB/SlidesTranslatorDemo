@@ -1,0 +1,181 @@
+Slide 1:
+Title: Phát triển Linh hoạt (Agile Development)
+Contents:
+- Chủ đề 7:
+Quản lý Dự án (Phần 2 – Chất lượng và Kiểm thử)
+
+Slide 2:
+Title: Nội dung bao quát Chủ đề 7
+Contents:
+- Chủ đề này sẽ bao gồm:
+
+Quản lý Chất lượng và Cấu hình;
+Kiểm thử;
+
+Slide 3:
+Title: Chất lượng là gì?
+Contents:
+- “Phù hợp với Mục đích” (Fitness for Purpose)
+- Chất lượng
+Giải pháp
+- Chất lượng Quy trình
+
+Slide 4:
+Title: Đảm bảo Chất lượng trong DSDM
+Contents:
+- Kiểm tra Chất lượng DSDM tập trung vào các lĩnh vực chính này:
+
+Sự tham gia của doanh nghiệp có đủ không?
+Nhóm có thực sự được trao quyền không?
+Vòng đời có đang được tuân thủ không?
+Các sản phẩm có đang được tạo ra không?
+Phản hồi từ các đánh giá có được tích hợp không?
+Việc quay lại có thể thực hiện được không?
+Các ưu tiên có đang được tuân thủ không?
+Các hộp thời gian (timeboxes) có đang được tôn trọng không?
+
+Slide 5:
+Title: Các Bước Quản lý Chất lượng
+Contents:
+- Nói những gì bạn sẽ làm.
+
+Thực hiện nó.
+
+Chứng minh rằng bạn đã thực hiện nó.
+- Source: Image from pixabay.com © 2016
+
+Slide 6:
+Title: Các Hoạt động Liên quan đến Chất lượng
+Contents:
+- Các điểm cần xem xét là:
+
+Kiểm tra và đánh giá dựa trên các mô tả sản phẩm
+Kiểm thử động
+Kiểm thử tĩnh
+Đánh giá/trình diễn các bản mẫu quan trọng
+
+Slide 7:
+Title: Khả năng Bảo trì so với Chi phí
+Contents:
+- Quyết định của Quản lý cấp cao ngay từ đầu:
+
+Khả năng bảo trì là một yêu cầu đối với hệ thống mới, hoặc
+	
+Khả năng bảo trì không phải là vấn đề: tuổi thọ hệ thống ngắn, được thay thế trước khi bảo trì trở thành vấn đề, hoặc
+
+Khả năng bảo trì là thứ yếu so với việc phân phối nhanh chóng.
+Doanh nghiệp sẽ chấp nhận chi phí tái kỹ thuật
+- Source: Image from pixabay.com © 2016
+
+Slide 8:
+Title: Bài tập Nhóm: Quyết định Khả năng Bảo trì
+Contents:
+- Theo nhóm, hãy quyết định tùy chọn khả năng bảo trì nào trong 3 tùy chọn áp dụng cho dự án nghiên cứu điển hình.
+
+Slide 9:
+Title: Quản lý Cấu hình là gì - 1?
+Contents:
+- Source: Images from pixabay.com © 2016 [Image related to configuration management]
+
+Slide 10:
+Title: Quản lý Cấu hình là gì - 2?
+Contents:
+- Quản lý cấu hình là quá trình:
+
+Xác định và định nghĩa các mục cấu hình (CIs) của một hệ thống;
+Kiểm soát việc phát hành và thay đổi các CI trong suốt vòng đời;
+Ghi lại và báo cáo trạng thái của các CI và yêu cầu thay đổi;
+Xác minh tính đầy đủ và chính xác của các CI;
+
+Slide 11:
+Title: Quản lý Cấu hình là gì - 3?
+Contents:
+- Kiểm soát Thay đổi (Change Control): là tập hợp các thủ tục chính thức ghi lại và cho phép các thay đổi đối với các mục cấu hình.
+- Source: Image from pixabay.com © 2016
+
+Slide 12:
+Title: Tại sao CM lại cần thiết?
+Lặp lại ngụ ý thay đổi, phải được quản lý
+Các thay đổi phải có thể đảo ngược - kiểm soát phiên bản
+Các nhà phát triển giải pháp cần phải tự tin về phiên bản đúng
+
+CM Champion là gì?
+Điều phối viên Kỹ thuật?
+Trong nhóm
+Contents:
+- Quản lý Cấu hình
+- Source: Image from pixabay.com © 2016
+
+Slide 13:
+Title: Chiến lược Quản lý Cấu hình
+Contents:
+- Thiết lập đường cơ sở (Baselining): một bức ảnh chụp tại một thời điểm
+
+Tích hợp liên tục
+
+Các bản mẫu đường cơ sở:
+Trước khi trình diễn
+Sau khi phê duyệt
+
+Đường cơ sở:
+Hàng ngày?
+Sau khi mỗi mục đã được kiểm thử đơn vị?
+Cuối hộp thời gian phát triển (tối thiểu)
+- Source: Image from pixabay.com © 2016
+
+Slide 14:
+Title: Các Số liệu (Metrics) trong DSDM
+Contents:
+- Các điểm cần xem xét bao gồm:
+
+Hoàn vốn ngay lập tức trong môi trường lặp đi lặp lại;
+Tại sao phải đo lường?
+Giữ nó đơn giản, làm cho nó dễ dàng;
+Chúng ta đang đo lường cái gì?;
+So sánh các phép đo (cần > 1!);
+Các phép đo định hướng hành vi.
+
+Slide 15:
+Title: Bài tập Nhóm: Các Số liệu
+Contents:
+- Source: Image from pixabay.com © 2016
+
+Slide 16:
+Title: Các Khái niệm Kiểm thử Agile
+Contents:
+- Cộng tác
+Có thể lặp lại
+Được ưu tiên
+Dựa trên rủi ro
+Độc lập
+Theo định hướng kiểm thử
+Thất bại nhanh (Fail fast)
+Trải nghiệm Từ đầu đến Cuối (End-to-End Experience)
+- Source: Image from pixabay.com © 2016
+
+Slide 17:
+Title: Bài tập Nhóm: Sử dụng các Kỹ thuật Chính trong Kiểm thử
+Contents:
+- Theo nhóm, mô tả cách các kỹ thuật dưới đây
+có thể giúp ích trong việc kiểm thử trong một dự án Agile (DSDM):
+
+Mô hình hóa
+Ưu tiên MoSCoW
+Các Hội thảo có Người điều phối
+
+Slide 18:
+Title: Tóm tắt về Chất lượng và Kiểm thử
+Contents:
+- Chủ đề đã bao gồm:
+Chất lượng
+Chất lượng là gì?
+Khả năng bảo trì
+Quản lý cấu hình
+Thiết lập đường cơ sở
+Các số liệu
+Kiểm thử
+
+Slide 19:
+Title: Chủ đề 7 – Quản lý Dự án (Phần 2 – Chất lượng và Kiểm thử)
+Contents:
+- Có câu hỏi nào không?

@@ -1,0 +1,126 @@
+Slide 1:
+Title: Phát triển Linh hoạt (Agile Development)
+Contents:
+- Chủ đề 6:
+Quản lý Dự án (Phần 1 - Kiểm soát, Rủi ro)
+
+Slide 2:
+Title: Nội dung bao quát Chủ đề 6
+Contents:
+- Chủ đề này sẽ bao gồm:
+Quản lý dự án truyền thống so với quản lý dự án Agile;
+Các khía cạnh kiểm soát của quản lý dự án Agile;
+Rủi ro trong quản lý dự án Agile;
+
+Phần 2 của Quản lý Dự án Agile, trong Chủ đề 7, sẽ bao gồm các khía cạnh khác, đặc biệt là Chất lượng và Kiểm thử.
+
+Slide 3:
+Title: Quản lý Dự án Agile
+Contents:
+- Các Vấn đề Lập kế hoạch Chính
+Phần 1:
+Kiểm soát
+Rủi ro
+Phần 2:
+Quản lý Cấu hình
+Chất lượng
+Kiểm thử
+Số liệu (Metrics)
+Khả năng bảo trì
+
+Slide 4:
+Title: Quản lý Dự án Truyền thống và Agile
+Contents:
+- Truyền thống cung cấp sự tuân thủ nghiêm ngặt theo đặc tả; kiểm soát nguồn lực để đạt được thời gian và ngân sách cho đặc tả cố định.
+- Agile mang tính tiến hóa; cộng tác; có mối quan hệ người dùng/nhà phát triển 'không đổ lỗi'; sử dụng đóng hộp thời gian để phân phối một hệ thống sử dụng được đúng hạn.
+- Source: Image from pixabay.com © 2016
+
+Slide 5:
+Title: Bài tập 1: Truyền thống vs Agile
+Contents:
+- Chia thành từng cặp. Một trong hai bạn là Quản lý Dự án, người còn lại là thành viên nhóm.
+- Source: Image from pixabay.com © 2016
+
+Slide 6:
+Title: Các Quản lý Dự án Agile phải:
+Contents:
+- Hiểu các vấn đề kinh doanh và kỹ thuật
+Hỗ trợ nhóm (trọng tài chứ không ra lệnh)
+Tránh 'kiệt sức' cho các thành viên trong nhóm (cho phép tốc độ bền vững)
+- Source: Image from pixabay.com © 2016
+
+Slide 7:
+Title: Giao tiếp
+Contents:
+- Các điểm cần xem xét:
+Một môi trường thuận lợi cho giao tiếp tốt
+Các thành viên trong nhóm là những người giao tiếp giỏi
+Các nhóm cùng địa điểm, nếu có thể
+Các cuộc họp "đứng" hàng ngày (Daily stand-ups)
+Các hội thảo có người điều phối
+Mô hình hóa và tạo mẫu
+- Source: Image from pixabay.com © 2016
+
+Slide 8:
+Title: Các Tham số Kiểm soát DSDM Atern
+Contents:
+- Source: Image from dsdm.org © 2016
+
+Slide 9:
+Title: Lập kế hoạch trong DSDM
+Contents:
+- Source: Image from dsdm.org © 2016
+
+Slide 10:
+Title: Rủi ro là gì?
+Contents:
+- Rủi ro dự án là điều gì đó có thể xảy ra trong quá trình thực hiện dự án mà sẽ có tác động bất lợi.
+- Source: Image from pixabay.com © 2016
+
+Slide 11:
+Title: Một Quy trình Quản lý Rủi ro Điển hình
+Contents:
+- Source: Image from dsdm.org © 2016
+
+Slide 12:
+Title: Nơi DSDM Giảm thiểu Rủi ro
+Contents:
+- Các phương pháp tiếp cận truyền thống sử dụng dự phòng thời gian để giảm thiểu rủi ro. Một số dự án Agile sử dụng NDUF (không thiết kế trước) và các dự án Truyền thống sử dụng BDUF (thiết kế lớn trước).
+
+DSDM sử dụng phương pháp tiếp cận EDUF (đủ thiết kế trước). Đó là vì các yêu cầu đôi khi không thể biết trước hoặc có khả năng thay đổi trong quá trình thực hiện dự án.
+
+Slide 13:
+Title: Các Rủi ro đối với Dự án Agile
+Contents:
+- Các điểm cần xem xét là:
+
+Vai trò kinh doanh thấp/rời rạc
+Đặc tả chi tiết đầy đủ
+Kỳ vọng giải pháp 100%
+Thay đổi nguồn lực nhóm liên tục (vào và ra).
+
+Slide 14:
+Title: Chia thành các nhóm khoảng 6 người. Trong nhóm của bạn, hãy liệt kê 20 tính năng bạn cần trong một ngôi nhà.
+Contents:
+- Bài tập 3: Ba tham số kiểm soát về chi phí, thời gian và tính năng
+- Source: Image from pixabay.com © 2016
+
+Slide 15:
+Title: Tóm tắt 1
+Contents:
+- Quản lý Dự án Agile (Phần 1):
+
+Quản lý dự án truyền thống so với quản lý dự án Agile
+Quản lý dự án truyền thống cứng nhắc và ngăn cản tư duy sáng tạo cùng sự cộng tác mạnh mẽ. Quản lý Dự án Agile cho phép tư duy sáng tạo với giao tiếp là trung tâm của dự án.
+
+Slide 16:
+Title: Tóm tắt 2
+Contents:
+- Các khía cạnh kiểm soát của quản lý dự án Agile
+Rủi ro trong quản lý dự án Agile - Các rủi ro được xác định và giám sát và quy trình đóng hộp thời gian trong Quản lý Dự án Agile cho phép thực hiện các phương án dự phòng một cách linh hoạt hơn.
+Phần 2 của Quản lý Dự án Agile, trong Chủ đề 7, sẽ bao gồm các khía cạnh khác, đặc biệt là Chất lượng và Kiểm thử.
+
+Slide 17:
+Title: Chủ đề 6 – Quản lý Dự án (Phần 1 - Kiểm soát, Rủi ro)
+Contents:
+- Có câu hỏi nào không?

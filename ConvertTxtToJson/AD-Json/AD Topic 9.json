@@ -1,0 +1,252 @@
+{
+  "Slide 1": {
+    "Title": "Phát triển linh hoạt",
+    "Contents": [
+      "Chủ đề 9:",
+      "Xác định yêu cầu và ưu tiên",
+      ""
+    ]
+  },
+  "Slide 2": {
+    "Title": "Nội dung chủ đề 9",
+    "Contents": [
+      "Chủ đề này sẽ bao gồm:",
+      "Một yêu cầu là gì?",
+      "Xác định các yêu cầu;",
+      "Các yêu cầu trong vòng đời tiếp cận Agile;",
+      "Yêu cầu và mô hình hóa;",
+      "Vòng đời yêu cầu.",
+      ""
+    ]
+  },
+  "Slide 3": {
+    "Title": "Bài tập nhóm: Yêu cầu là gì?",
+    "Contents": [
+      "Liệt kê càng nhiều từ hoặc cụm từ có nghĩa là “yêu cầu” càng tốt.",
+      "Nguồn: Hình ảnh từ pixabay.com © 2016",
+      ""
+    ]
+  },
+  "Slide 4": {
+    "Title": "Yêu cầu là gì?",
+    "Contents": [
+      "Nói một cách đơn giản, yêu cầu là một tính năng, một chức năng, một dịch vụ hoặc một ràng buộc. Ví dụ: yêu cầu có thể có nghĩa như sau:",
+      "",
+      "Tính năng/Chức năng – yếu tố của sản phẩm được lên kế hoạch",
+      "Dịch vụ – một dịch vụ mà dự án cần để đảm bảo cung cấp",
+      "Ràng buộc – thứ gì đó sẽ đóng vai trò như rào cản trong suốt dự án cần được lên kế hoạch và đạt được các công việc phù hợp.",
+      ""
+    ]
+  },
+  "Slide 5": {
+    "Title": "Xác định các yêu cầu",
+    "Contents": [
+      "Điều quan trọng là phải xác định một yêu cầu cùng với các tiêu chí chấp nhận của nó là những mục tiêu có thể đo lường được ở mọi cấp độ. Điều quan trọng là cung cấp cho mỗi yêu cầu một ID duy nhất và lưu giữ các chi tiết sau: Nguồn; Người sở hữu; Lợi ích kinh doanh; và Ưu tiên.",
+      ""
+    ]
+  },
+  "Slide 6": {
+    "Title": "Yêu cầu chức năng",
+    "Contents": [
+      "Yêu cầu chức năng là “cái gì” chứ không phải “như thế nào”. Điều quan trọng là phải đưa ra yêu cầu SMART: Cụ thể; Có thể đo lường được; Có thể đạt được; Thực tế và kịp thời.",
+      "",
+      "Điều quan trọng nữa là phải xem xét cách diễn đạt của một yêu cầu chức năng. Ví dụ: “Chúng tôi cần khả năng…” hoặc “Là một… tôi cần… để…”.",
+      "Các yêu cầu chức năng không được xung đột hoặc chồng chéo với các yêu cầu khác.",
+      ""
+    ]
+  },
+  "Slide 7": {
+    "Title": "Bài tập nhóm: Yêu cầu chức năng",
+    "Contents": [
+      "Trong các nhóm nhỏ, hãy xem xét yêu cầu; “thiết lập tài khoản ngân hàng cá nhân”, Tạo một số yêu cầu SMART dựa trên điều này từ góc độ:",
+      "",
+      "khách hàng",
+      "Người quản lý ngân hàng",
+      ""
+    ]
+  },
+  "Slide 8": {
+    "Title": "Yêu cầu phi chức năng – 1",
+    "Contents": [
+      "Yêu cầu phi chức năng là về mức độ chúng tôi thực hiện các yêu cầu chức năng. Chúng là những tính năng đảm bảo thành phẩm hoạt động hiệu quả và phù hợp với thương hiệu của công ty, chẳng hạn như:",
+      "",
+      "Bảo vệ",
+      "sẵn có",
+      "Tính di động",
+      "Khả năng bảo trì",
+      ""
+    ]
+  },
+  "Slide 9": {
+    "Title": "Yêu cầu phi chức năng – 2",
+    "Contents": [
+      "Giao diện bên ngoài",
+      "Hạn chế thiết kế",
+      "Hiệu suất",
+      "Thời gian đáp ứng",
+      "",
+      "Chúng có thể mang tính toàn cầu hoặc liên quan đến chỉ một yêu cầu chức năng. Có khả năng là họ sẽ yêu cầu thêm thời gian trong kế hoạch.",
+      ""
+    ]
+  },
+  "Slide 10": {
+    "Title": "Cấu trúc yêu cầu – 1",
+    "Contents": [
+      "Phân tách yêu cầu",
+      "Tính khả thi – Một bộ yêu cầu ở mức rất cao được thiết lập.",
+      "",
+      "Nền tảng – Một tập hợp các yêu cầu ưu tiên ở mức độ cao được thiết lập (PRL) và Câu chuyện của người dùng.",
+      ""
+    ]
+  },
+  "Slide 11": {
+    "Title": "Cấu trúc yêu cầu – 2",
+    "Contents": [
+      "Thăm dò và Kỹ thuật - Mỗi yêu cầu có thể phân tách thành các yêu cầu chi tiết hơn và tại một thời điểm nào đó, nó có thể không cần phải viết ra mà được phát triển như một phần của quá trình phát triển lặp lại (tạo nguyên mẫu).",
+      ""
+    ]
+  },
+  "Slide 12": {
+    "Title": "Yêu cầu và mô hình hóa",
+    "Contents": [
+      "Lập báo cáo tỷ lệ sử dụng phòng",
+      "Đặt chỗ trước",
+      "Hủy đặt chỗ",
+      "Sửa đổi đặt chỗ",
+      "Thực hiện một hội nghị",
+      "đặt phòng",
+      "Đặt chỗ riêng lẻ",
+      "Xử lý",
+      "Đặt chỗ",
+      "R1",
+      "R1.1.1",
+      "R1.1.2",
+      "R1.1.3",
+      "W",
+      "M",
+      "M",
+      "S",
+      "C",
+      "M",
+      "R1.1",
+      "R1.2",
+      "M",
+      ""
+    ]
+  },
+  "Slide 13": {
+    "Title": "Các yêu cầu trong Vòng đời DSDM",
+    "Contents": [
+      "phác thảo",
+      "Kế hoạch",
+      "Đừng bị bắt làm con tin cho những ước tính ban đầu",
+      "Vận chuyển",
+      "Kế hoạch",
+      "Hộp thời gian",
+      "(Các) kế hoạch",
+      "Hơn",
+      "Yêu cầu",
+      "Chi tiết",
+      "Ít hơn",
+      "Hơn",
+      "Ít hơn",
+      "Thông thường <100",
+      "yêu cầu",
+      "Thông thường >100",
+      "yêu cầu",
+      "Thông thường <10",
+      "yêu cầu",
+      "Ước lượng",
+      "Sự chính xác",
+      "Nguồn: Hình ảnh từ pixabay.com © 2016",
+      ""
+    ]
+  },
+  "Slide 14": {
+    "Title": "MoSCoW là gì? – 1",
+    "Contents": [
+      "Phải có là:",
+      "",
+      "Cơ bản cho hệ thống;",
+      "Không có chúng, hệ thống không thể hoạt động được/vô dụng;",
+      "Tập hợp con tối thiểu có thể sử dụng được;",
+      "Đảm bảo sẽ được phát triển.",
+      ""
+    ]
+  },
+  "Slide 15": {
+    "Title": "MoSCoW là gì? – 2",
+    "Contents": [
+      "Nên có bao gồm:",
+      "",
+      "Yêu cầu quan trọng;",
+      "Sẽ là bắt buộc, nhưng vẫn có cách giải quyết;",
+      "Hệ thống sẽ vẫn hữu ích/có thể sử dụng được nếu không có chúng.",
+      ""
+    ]
+  },
+  "Slide 16": {
+    "Title": "MoSCoW là gì? – 3",
+    "Contents": [
+      "Những cái có thể có sẽ bổ sung thêm lợi ích kinh doanh và dễ dàng bị loại khỏi mức tăng này hơn những cái Nên có. Sẽ không có có thể là yêu cầu có giá trị nhưng có thể đợi đến lần tăng sau.",
+      "",
+      "Lưu ý: Tất cả các ưu tiên đều liên quan đến mục tiêu dự án rõ ràng.",
+      ""
+    ]
+  },
+  "Slide 17": {
+    "Title": "Chia thành các nhóm khoảng 4 người. Xem lại bài tập ở Chủ đề 6 nơi bạn liệt kê 20 tính năng mà bạn cần trong một ngôi nhà. Xác định các yêu cầu chức năng và phi chức năng, sau đó ưu tiên chúng bằng MoSCoW.",
+    "Contents": [
+      "Bài tập nhóm: Xác định yêu cầu",
+      ""
+    ]
+  },
+  "Slide 18": {
+    "Title": "Vòng đời yêu cầu",
+    "Contents": [
+      "Mỗi yêu cầu phải tuân theo:",
+      "",
+      "Gợi ý – Hội thảo, xây dựng mô hình, phỏng vấn, quan sát, kịch bản.",
+      "",
+      "Phân tích – Thực tế? mơ hồ? Sự kết hợp của các yêu cầu? Phù hợp với kinh doanh?",
+      "",
+      "Xác nhận – Nguyên mẫu, đánh giá, mô hình, thử nghiệm.",
+      "",
+      "Quản lý - Truy xuất nguồn gốc, ổn định, quản lý thay đổi.",
+      ""
+    ]
+  },
+  "Slide 19": {
+    "Title": "Tóm tắt – 1",
+    "Contents": [
+      "Một yêu cầu là gì?",
+      "Một chức năng, tính năng, dịch vụ hoặc hạn chế",
+      "",
+      "Yêu cầu chức năng và phi chức năng",
+      "Chức năng = cái gì không như thế nào",
+      "Không có chức năng = tốt như thế nào",
+      "",
+      "Các yêu cầu trong vòng đời DSDM",
+      "Yêu cầu tăng về số lượng và chi tiết trong suốt vòng đời",
+      ""
+    ]
+  },
+  "Slide 20": {
+    "Title": "Tóm tắt – 2",
+    "Contents": [
+      "Yêu cầu và mô hình hóa",
+      "Các yêu cầu được chia nhỏ và thể hiện trong quá trình lập mô hình",
+      "",
+      "Vòng đời yêu cầu",
+      "Kích thích/Phân tích/Xác nhận/Quản lý",
+      ""
+    ]
+  },
+  "Slide 21": {
+    "Title": "Chủ đề 9 – Định nghĩa và ưu tiên các yêu cầu",
+    "Contents": [
+      "Có câu hỏi nào không?",
+      ""
+    ]
+  }
+}

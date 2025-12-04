@@ -1,0 +1,354 @@
+{
+  "Slide 1": {
+    "Title": "Phát triển linh hoạt",
+    "Contents": [
+      "Chủ đề 12:",
+      "Hướng dẫn tóm tắt và sửa đổi",
+      ""
+    ]
+  },
+  "Slide 2": {
+    "Title": "Nội dung chủ đề 12",
+    "Contents": [
+      "Chủ đề này sẽ bao gồm:",
+      "Xem xét các yếu tố chính của các chủ đề được đề cập bao gồm:",
+      "Agile là gì?",
+      "Thác nước là gì?",
+      "Cấu trúc và triết lý của DSDM;",
+      "Các phương pháp thực hành như Lập mô hình và Hộp thời gian.",
+      ""
+    ]
+  },
+  "Slide 3": {
+    "Title": "Kết quả học tập của đơn vị",
+    "Contents": [
+      "Đến cuối học phần, học viên sẽ có thể:",
+      "Hiểu nền tảng của phát triển Agile",
+      "Hiểu các vai trò trong nhóm phát triển Agile",
+      "Hiểu các kỹ thuật phát triển Agile khác nhau",
+      "Hiểu vòng đời phát triển Agile",
+      "Hiểu các nguyên tắc liên quan đến phương pháp phát triển Agile",
+      "Có thể áp dụng phương pháp phát triển Agile vào một kịch bản dự án cụ thể",
+      ""
+    ]
+  },
+  "Slide 4": {
+    "Title": ".",
+    "Contents": [
+      "Viết ra 7 khái niệm chính về phát triển Agile mà bạn đã học được trong học phần này.",
+      "",
+      "Bạn có 4 phút.",
+      "Bài tập - 7 khái niệm chính của tôi về phát triển linh hoạt…",
+      ""
+    ]
+  },
+  "Slide 5": {
+    "Title": "Agile là gì? - 1",
+    "Contents": [
+      "Một nhóm các phương pháp tiếp cận:",
+      "DSDM",
+      "Độ nghiêng",
+      "FDD",
+      "XP",
+      "Scrum",
+      "… và những người khác",
+      ""
+    ]
+  },
+  "Slide 6": {
+    "Title": "Agile là gì? - 2",
+    "Contents": [
+      "Họ cùng nhau giải quyết:",
+      "Thực tiễn tốt nhất về kỹ thuật",
+      "Triết lý lãnh đạo",
+      "Khung quản lý dự án",
+      "Khung phát triển",
+      ""
+    ]
+  },
+  "Slide 7": {
+    "Title": "Tuyên ngôn Agile",
+    "Contents": [
+      "\"Chúng tôi đang khám phá những cách tốt hơn để phát triển phần mềm bằng cách thực hiện nó và giúp đỡ những người khác làm điều đó. Thông qua công việc này, chúng tôi đã nhận ra giá trị:",
+      "",
+      "Các cá nhân và sự tương tác qua các quy trình và công cụ",
+      "Phần mềm làm việc trên tài liệu toàn diện",
+      "Hợp tác của khách hàng thông qua đàm phán hợp đồng",
+      "Đáp lại sự thay đổi theo kế hoạch",
+      "Nghĩa là, mặc dù những món đồ ở bên phải có giá trị nhưng chúng tôi lại coi trọng những món đồ ở bên trái hơn”.",
+      "www.agilemanfesto.org (2001)",
+      ""
+    ]
+  },
+  "Slide 8": {
+    "Title": "Mô hình thác nước là gì?",
+    "Contents": [
+      "Mô hình thác nước là mô hình phát triển tuần tự.",
+      "Nó nhấn mạnh vào từng giai đoạn của quá trình phát triển phải được hoàn thành trước khi chuyển sang bước tiếp theo.",
+      ""
+    ]
+  },
+  "Slide 9": {
+    "Title": "DSDM là gì?",
+    "Contents": [
+      "Khung dự án Agile Phương pháp phát triển hệ thống động (DSDM) (2014 trở đi)",
+      "Cung cấp giải pháp phù hợp vào đúng thời điểm",
+      "Bất kỳ loại dự án",
+      "Tập trung vào lợi ích doanh nghiệp",
+      "Đúng thời gian và trong ngân sách",
+      "Chất lượng và sự nghiêm ngặt",
+      "Tăng dần",
+      "hợp tác",
+      ""
+    ]
+  },
+  "Slide 10": {
+    "Title": "Yêu cầu linh hoạt",
+    "Contents": [
+      "© Hiệp hội DSDM 2016",
+      ""
+    ]
+  },
+  "Slide 11": {
+    "Title": "Cấu trúc của DSDM",
+    "Contents": [
+      "Hình ảnh từ dsdm.org © 2016",
+      ""
+    ]
+  },
+  "Slide 12": {
+    "Title": ".",
+    "Contents": [
+      "Chia thành nhóm 4 người",
+      "Bạn có 10 phút để nghĩ ra 10 câu hỏi để hỏi các nhóm khác",
+      "Các câu hỏi phải mang tính nguyên tử, không phải là câu hỏi kết hợp và chỉ nên có một câu trả lời",
+      "Bài tập nhóm - Tại sao DSDM là một cách tiếp cận Agile mạnh mẽ và được xác định rõ ràng?",
+      ""
+    ]
+  },
+  "Slide 13": {
+    "Title": "Triết học",
+    "Contents": [
+      "phải phù hợp với các mục tiêu chiến lược được xác định rõ ràng",
+      "phải tập trung vào việc sớm mang lại lợi ích thực sự cho doanh nghiệp",
+      "Bất kỳ dự án nào…",
+      "© Hiệp hội DSDM 2016",
+      ""
+    ]
+  },
+  "Slide 14": {
+    "Title": "8 nguyên tắc của DSDM",
+    "Contents": [
+      "1. Tập trung vào nhu cầu kinh doanh",
+      "2. Giao hàng đúng hẹn",
+      "3. Cộng tác",
+      "4. Không bao giờ thỏa hiệp về chất lượng",
+      "5. Xây dựng từng bước từ nền tảng vững chắc",
+      "6. Phát triển lặp đi lặp lại",
+      "7. Giao tiếp liên tục và rõ ràng",
+      "8. Thể hiện sự kiểm soát",
+      "© Hiệp hội DSDM 2016",
+      ""
+    ]
+  },
+  "Slide 15": {
+    "Title": "Vòng đời DSDM",
+    "Contents": [
+      "© Hiệp hội DSDM 2016",
+      ""
+    ]
+  },
+  "Slide 16": {
+    "Title": "Vai trò và trách nhiệm của nhóm",
+    "Contents": [
+      "Nhóm dự án:",
+      "Người quản lý dự án",
+      "Nhà tài trợ kinh doanh",
+      "Điều phối viên kỹ thuật",
+      "Tầm nhìn kinh doanh",
+      "Trưởng nhóm",
+      "Nhóm phát triển giải pháp:",
+      "Đại sứ kinh doanh",
+      "Nhà phát triển giải pháp",
+      "Nhà phân tích kinh doanh",
+      "Người kiểm tra giải pháp",
+      "Hỗ trợ bên ngoài:",
+      "Cố vấn kinh doanh",
+      "Người hướng dẫn hội thảo",
+      "Nguồn: Hình ảnh từ dsdm.org © 2016",
+      ""
+    ]
+  },
+  "Slide 17": {
+    "Title": "Tổng quan về sản phẩm",
+    "Contents": [
+      "Nguồn: Hình ảnh từ dsdm.org © 2016",
+      "Cam = Tập trung vào kinh doanh,",
+      "Màu xanh lá cây = các yếu tố đóng góp cho Giải pháp",
+      "Màu xanh = Lợi ích quản lý/kiểm soát dự án.",
+      "Các sản phẩm có chữ ‘G’ cũng có thể đóng vai trò trong quy trình quản trị",
+      ""
+    ]
+  },
+  "Slide 18": {
+    "Title": "DSDM - 5 kỹ thuật chính",
+    "Contents": [
+      "Ưu tiên MoSCoW",
+      "",
+      "Làm người mẫu",
+      "",
+      "Hội thảo được hỗ trợ",
+      "",
+      "Phát triển lặp lại",
+      "",
+      "Hộp thời gian",
+      "© Hiệp hội DSDM 2016",
+      ""
+    ]
+  },
+  "Slide 19": {
+    "Title": "Ưu tiên",
+    "Contents": [
+      "DSDM sử dụng mô hình ưu tiên MoSCoW.",
+      "",
+      "Tập trung khoảng 60% dự án vào các yêu cầu 'Phải có' và khoảng 20% ​​vào các yêu cầu 'Có thể có'.",
+      "© Hiệp hội DSDM 2016",
+      ""
+    ]
+  },
+  "Slide 20": {
+    "Title": "Thực hành: Làm mẫu",
+    "Contents": [
+      "Nhiều ngành sử dụng mô hình (và nguyên mẫu) để:",
+      "thiết lập các yêu cầu",
+      "xác nhận kỳ vọng",
+      "kiểm tra khả năng đạt được mục tiêu",
+      "",
+      "Ví dụ về các mô hình:",
+      "bảng phân cảnh",
+      "sơ đồ",
+      "mô hình quy mô (nguyên mẫu)",
+      "phần mềm làm việc (nguyên mẫu)",
+      ""
+    ]
+  },
+  "Slide 21": {
+    "Title": "Hội thảo được tạo điều kiện là gì?",
+    "Contents": [
+      "Nơi thực hiện một công việc cụ thể,",
+      "và một sản phẩm được sản xuất.",
+      "",
+      "Kỹ thuật thu thập thông tin và ra quyết định dựa trên nhóm",
+      "",
+      "Giao tiếp tương tác",
+      "Nhân sự được trao quyền",
+      "Người hướng dẫn độc lập",
+      ""
+    ]
+  },
+  "Slide 22": {
+    "Title": "Phát triển lặp lại",
+    "Contents": [
+      "Đây là một kỹ thuật quan trọng để phát triển",
+      "",
+      "từ một ý tưởng cấp cao",
+      "",
+      "đến một sản phẩm được giao",
+      "",
+      "tăng dần",
+      "Nguồn: Hình ảnh từ pixabay.com © 2016 và dsdm.org © 2016",
+      ""
+    ]
+  },
+  "Slide 23": {
+    "Title": "Kế hoạch hộp thời gian",
+    "Contents": [
+      "Nguồn: Hình ảnh từ dsdm.org © 2016",
+      ""
+    ]
+  },
+  "Slide 24": {
+    "Title": "Hộp thời gian là gì?",
+    "Contents": [
+      "Hộp thời gian là một khoảng thời gian cố định, khi kết thúc khoảng thời gian đó một mục tiêu đã được đáp ứng.",
+      "",
+      "Thời gian sẵn có quyết định công việc đã hoàn thành",
+      "",
+      "Mục đích của hộp thời gian là làm cho điều gì đó trở nên hữu ích",
+      "",
+      "Hộp thời gian tập trung vào sản phẩm, không tập trung vào nhiệm vụ",
+      ""
+    ]
+  },
+  "Slide 25": {
+    "Title": "Hướng dẫn thêm: DSDM",
+    "Contents": [
+      ""
+    ]
+  },
+  "Slide 26": {
+    "Title": "Quản lý dự án linh hoạt",
+    "Contents": [
+      "Các vấn đề quy hoạch lớn",
+      "Phần 1:",
+      "Điều khiển",
+      "Rủi ro",
+      "Phần 2:",
+      "Quản lý cấu hình",
+      "Chất lượng",
+      "Kiểm tra",
+      "Số liệu",
+      "Khả năng bảo trì",
+      ""
+    ]
+  },
+  "Slide 27": {
+    "Title": "Chất lượng là gì?",
+    "Contents": [
+      "“Tập thể dục có mục đích”",
+      "Giải pháp",
+      "Chất lượng",
+      "Chất lượng quy trình",
+      ""
+    ]
+  },
+  "Slide 28": {
+    "Title": "Yêu cầu là gì?",
+    "Contents": [
+      "Nói một cách đơn giản, yêu cầu là:",
+      "",
+      "Tính năng",
+      "Chức năng",
+      "Dịch vụ",
+      "ràng buộc",
+      ""
+    ]
+  },
+  "Slide 29": {
+    "Title": "Đồng ý với những gì bạn tin rằng bạn có thể làm được –",
+    "Contents": [
+      "ước tính",
+      "Đặt mục tiêu thực tế!",
+      "Nguồn: Hình ảnh từ pixabay.com © 2016",
+      ""
+    ]
+  },
+  "Slide 30": {
+    "Title": "Bản tóm tắt",
+    "Contents": [
+      "Đơn vị Phát triển Agile có:",
+      "",
+      "Cung cấp phần giới thiệu về các nguyên tắc, con người, quy trình và thực tiễn phát triển Agile",
+      "Chuẩn bị cho sinh viên những xu hướng tương lai trong thực hành phát triển phần mềm",
+      "Tăng cường sự hiểu biết về quá trình phát triển hệ thống thông tin",
+      ""
+    ]
+  },
+  "Slide 31": {
+    "Title": "Chủ đề 12 – Tóm tắt bài học",
+    "Contents": [
+      "Có câu hỏi nào không?",
+      ""
+    ]
+  }
+}

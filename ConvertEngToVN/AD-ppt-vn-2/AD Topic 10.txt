@@ -1,0 +1,138 @@
+Slide 1:
+Title: Phát triển Linh hoạt (Agile Development)
+Contents:
+- Chủ đề 10:
+Phát triển Lặp lại và Tạo mẫu (Prototyping)
+
+Slide 2:
+Title: Nội dung bao quát Chủ đề 10
+Contents:
+- Chủ đề này sẽ bao gồm:
+Phát triển Lặp lại
+Tạo mẫu
+Các Chiến lược Phát triển Tiến hóa
+
+Slide 3:
+Title: DSDM - 5 Kỹ thuật Chính
+Contents:
+- Ưu tiên MoSCoW
+
+Mô hình hóa
+
+Các Hội thảo có Người điều phối
+
+Phát triển Lặp lại
+
+Đóng hộp thời gian (Timeboxing)
+- Source: Image from dsdm.org © 2016
+
+Slide 4:
+Title: Phát triển Lặp lại
+Contents:
+- Đây là một kỹ thuật chính để phát triển từ một ý tưởng cấp cao thành một sản phẩm được bàn giao theo hướng tăng dần
+- Source: Image from pixabay.com © 2016 and dsdm.org © 2016
+
+Slide 5:
+Title: Chu trình Phát triển Lặp lại
+Contents:
+- Các chu trình phát triển lặp lại thường ngắn – tính bằng ngày hoặc thậm chí hàng giờ!
+- Source: Image from dsdm.org © 2016
+
+Slide 6:
+Title: Phát triển Lặp lại trong một Hộp thời gian
+Contents:
+- Source: Image from dsdm.org © 2016
+
+Slide 7:
+Title: Các Góc độ cho Phát triển Lặp lại
+Contents:
+- Các điểm cần xem xét bao gồm:
+
+Chức năng – các yếu tố ‘cái gì?’ không phải ‘như thế nào?’ của một dự án
+Khả năng sử dụng – nhu cầu người dùng và giao diện người dùng
+Phi chức năng – các yếu tố ‘tốt như thế nào?’ của một dự án
+
+Slide 8:
+Title: Bản mẫu (Prototype) là gì? – 1
+Contents:
+- Một bản mẫu là:
+
+Một phần chưa hoàn chỉnh của giải pháp tổng thể;
+Được sử dụng để tìm hiểu thêm về những gì được yêu cầu;
+Mang tính tiến hóa (phát triển thành giải pháp cuối cùng) hoặc dùng một lần (vứt bỏ);
+Tạo mẫu tiến hóa là phương tiện phát triển giải pháp như một tập hợp các phần tăng dần, và học thông qua thực hành
+
+Slide 9:
+Title: Bản mẫu là gì? – 2
+Contents:
+- Mục đích là xây dựng thứ gì đó hữu hình, có giá trị và hoạt động được càng sớm càng tốt.
+- Source: Image from pixabay.com © 2016
+
+Slide 10:
+Title: Một vài Ý tưởng cho việc Tạo mẫu
+Contents:
+- Source: Image from pixabay.com © 2016
+
+Slide 11:
+Title: Bài tập Nhóm – Yêu cầu là gì?
+Contents:
+- Tôi cần bốn tình nguyện viên…
+- Source: Image from pixabay.com © 2016
+
+Slide 12:
+Title: Phát triển Lặp lại - Góc độ Chức năng
+Contents:
+- Các điểm cần xem xét:
+Tập trung vào chức năng;
+Nhà phát triển trình diễn các yêu cầu chức năng kinh doanh;
+Điều này kiểm tra sự hiểu biết của nhà phát triển về yêu cầu người dùng;
+Xác nhận ‘xây dựng đúng giải pháp’
+- Source: Image from pixabay.com © 2016
+
+Slide 13:
+Title: Phát triển Lặp lại - Góc độ Khả năng sử dụng
+Contents:
+- Các điểm cần xem xét:
+
+Tập trung vào giao diện người dùng
+Minh họa tính dễ sử dụng của giải pháp
+Người dùng kiểm tra tính dễ sử dụng của giải pháp
+- Source: Image from pixabay.com © 2016
+
+Slide 14:
+Title: Phát triển Lặp lại –
+Góc độ Phi Chức năng
+Contents:
+- Nó tập trung vào các khía cạnh phi chức năng (thời gian phản hồi, bảo mật, v.v.). Một nhà phát triển giải pháp kiểm tra xem giải pháp có đáp ứng các yêu cầu phi chức năng hay không.
+- Source: Image from pixabay.com © 2016
+
+Slide 15:
+Title: Bản mẫu Năng lực/Kỹ thuật
+Contents:
+- Nó tập trung vào các tùy chọn thiết kế kỹ thuật và chức năng. Tại đây, một nhà phát triển giải pháp kiểm tra phương pháp tiếp cận thiết kế và/hoặc công cụ phát triển.
+- Đây thường là một Architectural Spike (Đột phá Kiến trúc) hoặc Proof of Concept (Bằng chứng Khái niệm).
+- Source: Image from pixabay.com © 2016
+
+Slide 16:
+Title: Các Chiến lược Phát triển Tiến hóa –
+Các Phương pháp tiếp cận Dọc, Ngang & Kết hợp
+Contents:
+- Source: Image from dsdm.org © 2016
+
+Slide 17:
+Title: Tóm tắt – 1
+Contents:
+- Ở đây, chúng ta đã xem xét các vấn đề về phát triển lặp lại, tạo mẫu và các chiến lược phát triển tiến hóa. Dưới đây là phác thảo của từng thuật ngữ:
+
+Phát triển Lặp lại – quá trình xác định; lập kế hoạch; phát triển và xem xét giải pháp. Phát triển lặp lại cho phép phát triển nhanh hơn và là một trong 5 kỹ thuật chính được sử dụng trong phát triển Agile.
+
+Slide 18:
+Title: Tóm tắt – 2
+Contents:
+- Tạo mẫu – các công cụ để trình diễn các yếu tố của giải pháp nhằm cho phép phát triển lặp lại phù hợp với nhu cầu người dùng.
+Các Chiến lược Phát triển Tiến hóa – cách thức quản lý phát triển lặp lại để đảm bảo mỗi lớp của kiến trúc giải pháp được giải quyết trong quá trình phát triển lặp lại.
+
+Slide 19:
+Title: Chủ đề 10 – Phát triển Lặp lại và Tạo mẫu
+Contents:
+- Có câu hỏi nào không?

@@ -1,0 +1,139 @@
+Slide 1:
+Title: Agile Development
+Contents:
+- Topic 10:
+Iterative Development and Prototyping
+
+Slide 2:
+Title: Topic 10 Coverage
+Contents:
+- This topic will cover:
+Iterative Development
+Prototyping
+Evolutionary Development Strategies
+
+Slide 3:
+Title: DSDM - 5 Key Techniques
+Contents:
+- MoSCoW Prioritisation
+
+Modelling
+
+Facilitated Workshops
+
+Iterative Development
+
+Timeboxing
+- Source: Image from dsdm.org © 2016
+
+Slide 4:
+Title: Iterative Development
+Contents:
+- This is a key technique to evolve from a high level idea to a delivered product incrementally
+- Source: Image from pixabay.com © 2016 and dsdm.org © 2016
+
+Slide 5:
+Title: The Iterative Development Cycle
+Contents:
+- Iterative development cycles are typically short – days or even hours!
+- Source: Image from dsdm.org © 2016
+
+Slide 6:
+Title: Iterative Development in a Timebox
+Contents:
+- Source: Image from dsdm.org © 2016
+
+Slide 7:
+Title: Perspectives for Iterative Development
+Contents:
+- Points to consider include:
+
+Functional – the ‘what?’ not ‘how?’ elements of a project
+Usability – the users needs and the user interface
+Non-functional – the ‘how well?’ elements of a project
+
+Slide 8:
+Title: What is a Prototype? – 1
+Contents:
+- A prototype is:
+
+An incomplete part of the total solution;
+Used to learn more about what is required;
+Evolutionary (evolving into the final solution) or disposable;
+Evolutionary prototyping is the means of developing the solution as a set of increments, and learning by doing
+
+Slide 9:
+Title: What is a Prototype? – 2
+Contents:
+- The intent is to build something visible, valuable and working as soon as possible.
+- Source: Image from pixabay.com © 2016
+
+Slide 10:
+Title: A Few Ideas for Prototyping
+Contents:
+- Source: Image from pixabay.com © 2016
+
+Slide 11:
+Title: Group Exercise – What is a Requirement?
+Contents:
+- I need four volunteers…
+- Source: Image from pixabay.com © 2016
+
+Slide 12:
+Title: Iterative Development - Functional Perspective
+Contents:
+- Points to consider:
+Focuses on functionality;
+Developer demonstrates functional business requirements;
+This checks developer’s understanding of user requirements;
+Confirms ‘building the right solution’
+- Source: Image from pixabay.com © 2016
+
+Slide 13:
+Title: Iterative Development - Usability Perspective
+Contents:
+- Points to consider:
+
+Focuses on user interface
+Illustrates solution ease of use
+User tests ease of use of the solution
+- Source: Image from pixabay.com © 2016
+
+Slide 14:
+Title: Iterative Development –
+Non-Functional Perspective
+Contents:
+- It focuses on non-functional aspects (response time, security etc.) A solution developer tests that the solution meets non-functional requirements.
+- Source: Image from pixabay.com © 2016
+
+Slide 15:
+Title: Capability/Technique Prototype
+Contents:
+- It focuses on technical design options and functionality. Here, a solution developer tests design approach and/or development tool.
+- This is often an Architectural Spike or Proof of Concept.
+- Source: Image from pixabay.com © 2016
+
+Slide 16:
+Title: Evolutionary Development Strategies –
+Vertical, Horizontal & Combined Approaches
+Contents:
+- Source: Image from dsdm.org © 2016
+
+Slide 17:
+Title: Summary – 1
+Contents:
+- Here, we have considered the issues of iterative development, prototyping and evolutionary development strategies. Below is an outline of each term:
+
+Iterative Development – the process of identifying; planning; evolving and reviewing the solution.  Iterative development allows for faster development and is one of the 5 key techniques used in Agile development.
+
+Slide 18:
+Title: Summary – 2
+Contents:
+- Prototyping – tools to demonstrate elements of the solution to allow for iterative development in-line with the users needs.
+Evolutionary Development Strategies – the way in which iterative development is managed to ensure each layer of the solution architecture is addressed during iterative development.
+
+Slide 19:
+Title: Topic 10 – Iterative Development and Prototyping
+Contents:
+- Any Questions?
+

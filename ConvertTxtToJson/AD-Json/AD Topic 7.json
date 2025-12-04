@@ -1,0 +1,215 @@
+{
+  "Slide 1": {
+    "Title": "Phát triển linh hoạt",
+    "Contents": [
+      "Chủ đề 7:",
+      "Quản lý dự án (Phần 2 – Chất lượng và Kiểm tra)",
+      ""
+    ]
+  },
+  "Slide 2": {
+    "Title": "Nội dung chủ đề 7",
+    "Contents": [
+      "Chủ đề này sẽ bao gồm:",
+      "",
+      "Quản lý chất lượng và cấu hình;",
+      "Kiểm tra;",
+      ""
+    ]
+  },
+  "Slide 3": {
+    "Title": "Chất lượng là gì?",
+    "Contents": [
+      "“Tập thể dục có mục đích”",
+      "Giải pháp",
+      "Chất lượng",
+      "Chất lượng quy trình",
+      ""
+    ]
+  },
+  "Slide 4": {
+    "Title": "Đảm bảo chất lượng trong DSDM",
+    "Contents": [
+      "Kiểm tra chất lượng DSDM tập trung vào các lĩnh vực chính sau:",
+      "",
+      "Sự tham gia của doanh nghiệp có đủ không?",
+      "Nhóm có thực sự được trao quyền?",
+      "Vòng đời có được tuân theo không?",
+      "Sản phẩm có đang được sản xuất không?",
+      "Phản hồi từ các bài đánh giá có được đưa vào không?",
+      "Có thể quay lại được không?",
+      "Các ưu tiên có được tuân thủ không?",
+      "Các hộp thời gian có được tôn trọng không?",
+      ""
+    ]
+  },
+  "Slide 5": {
+    "Title": "Các bước quản lý chất lượng",
+    "Contents": [
+      "Nói những gì bạn sẽ làm.",
+      "",
+      "Làm đi.",
+      "",
+      "Hãy chứng minh rằng bạn đã làm được điều đó.",
+      "Nguồn: Hình ảnh từ pixabay.com © 2016",
+      ""
+    ]
+  },
+  "Slide 6": {
+    "Title": "Hoạt động liên quan đến chất lượng",
+    "Contents": [
+      "Những điểm cần xem xét là:",
+      "",
+      "Kiểm tra và đánh giá so với mô tả sản phẩm",
+      "Thử nghiệm động",
+      "Kiểm tra tĩnh",
+      "Xem xét/trình diễn các nguyên mẫu chính",
+      ""
+    ]
+  },
+  "Slide 7": {
+    "Title": "Khả năng bảo trì so với chi phí",
+    "Contents": [
+      "Quyết định của lãnh đạo cấp cao ngay từ đầu:",
+      "",
+      "Khả năng bảo trì là một yêu cầu đối với hệ thống mới, hoặc",
+      "",
+      "Khả năng bảo trì không phải là vấn đề: tuổi thọ hệ thống ngắn, được thay thế trước khi bảo trì, hoặc",
+      "",
+      "Khả năng bảo trì thứ cấp để giao hàng nhanh chóng.",
+      "Doanh nghiệp sẽ chấp nhận chi phí tái thiết kế",
+      "Nguồn: Hình ảnh từ pixabay.com © 2016",
+      ""
+    ]
+  },
+  "Slide 8": {
+    "Title": "Bài tập nhóm: Quyết định về khả năng bảo trì",
+    "Contents": [
+      "Trong các nhóm, hãy quyết định lựa chọn nào trong số 3 phương án bảo trì áp dụng cho dự án nghiên cứu điển hình.",
+      ""
+    ]
+  },
+  "Slide 9": {
+    "Title": "Quản lý cấu hình - 1 là gì?",
+    "Contents": [
+      "Nguồn: Hình ảnh từ pixabay.com © 2016",
+      ""
+    ]
+  },
+  "Slide 10": {
+    "Title": "Quản lý cấu hình - 2 là gì?",
+    "Contents": [
+      "Quản lý cấu hình là quá trình:",
+      "",
+      "Xác định và xác định các mục cấu hình (CI) của hệ thống;",
+      "Kiểm soát việc phát hành và thay đổi các TCTD trong suốt vòng đời;",
+      "Ghi lại và báo cáo trạng thái của TCTD và các yêu cầu thay đổi;",
+      "Xác minh tính đầy đủ và chính xác của Cis;",
+      ""
+    ]
+  },
+  "Slide 11": {
+    "Title": "Quản lý cấu hình - 3 là gì?",
+    "Contents": [
+      "Kiểm soát thay đổi: tập hợp các thủ tục chính thức ghi lại và cho phép thay đổi các mục cấu hình.",
+      "Nguồn: Hình ảnh từ pixabay.com © 2016",
+      ""
+    ]
+  },
+  "Slide 12": {
+    "Title": "Tại sao CM lại cần thiết?",
+    "Contents": [
+      "Quản lý cấu hình",
+      "Nguồn: Hình ảnh từ pixabay.com © 2016",
+      ""
+    ]
+  },
+  "Slide 13": {
+    "Title": "Chiến lược quản lý cấu hình",
+    "Contents": [
+      "Baseline: ảnh chụp nhanh tại một thời điểm",
+      "",
+      "Tích hợp liên tục",
+      "",
+      "Nguyên mẫu cơ bản:",
+      "Trước cuộc biểu tình",
+      "Sau khi phê duyệt",
+      "",
+      "Đường cơ sở:",
+      "Hằng ngày?",
+      "Sau mỗi mục được kiểm tra đơn vị?",
+      "Hộp thời gian kết thúc phát triển (tối thiểu)",
+      "Nguồn: Hình ảnh từ pixabay.com © 2016",
+      ""
+    ]
+  },
+  "Slide 14": {
+    "Title": "Số liệu trong DSDM",
+    "Contents": [
+      "Các điểm cần xem xét bao gồm:",
+      "",
+      "Hoàn vốn ngay lập tức trong môi trường lặp đi lặp lại;",
+      "Tại sao đo lường?",
+      "Giữ nó đơn giản, làm cho nó dễ dàng;",
+      "Chúng ta đang đo lường cái gì?;",
+      "So sánh các thước đo (cần > 1!);",
+      "Đo lường hành vi lái xe.",
+      ""
+    ]
+  },
+  "Slide 15": {
+    "Title": "Bài tập nhóm: Số liệu",
+    "Contents": [
+      "Nguồn: Hình ảnh từ pixabay.com © 2016",
+      ""
+    ]
+  },
+  "Slide 16": {
+    "Title": "Khái niệm thử nghiệm linh hoạt",
+    "Contents": [
+      "hợp tác",
+      "Có thể lặp lại",
+      "Được ưu tiên",
+      "Dựa trên rủi ro",
+      "Độc lập",
+      "Lái thử",
+      "Thất bại nhanh chóng",
+      "Trải nghiệm từ đầu đến cuối",
+      "Nguồn: Hình ảnh từ pixabay.com © 2016",
+      ""
+    ]
+  },
+  "Slide 17": {
+    "Title": "Bài tập nhóm: Sử dụng các kỹ thuật chính trong kiểm thử",
+    "Contents": [
+      "Làm việc theo nhóm, mô tả các kỹ thuật dưới đây",
+      "có thể giúp thử nghiệm trong dự án Agile (DSDM):",
+      "",
+      "Làm người mẫu",
+      "Ưu tiên MoSCoW",
+      "Hội thảo được hỗ trợ",
+      ""
+    ]
+  },
+  "Slide 18": {
+    "Title": "Tóm tắt về chất lượng và thử nghiệm",
+    "Contents": [
+      "Chủ đề đã bao gồm:",
+      "Chất lượng",
+      "Chất lượng là gì?",
+      "Khả năng bảo trì",
+      "Quản lý cấu hình",
+      "Đường cơ sở",
+      "Số liệu",
+      "Kiểm tra",
+      ""
+    ]
+  },
+  "Slide 19": {
+    "Title": "Chủ đề 7 – Quản lý dự án (Phần 2 – Chất lượng và thử nghiệm)",
+    "Contents": [
+      "Có câu hỏi nào không?",
+      ""
+    ]
+  }
+}

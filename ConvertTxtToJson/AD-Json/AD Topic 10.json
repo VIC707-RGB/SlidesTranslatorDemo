@@ -1,0 +1,177 @@
+{
+  "Slide 1": {
+    "Title": "Phát triển linh hoạt",
+    "Contents": [
+      "Chủ đề 10:",
+      "Phát triển lặp lại và tạo nguyên mẫu",
+      ""
+    ]
+  },
+  "Slide 2": {
+    "Title": "Nội dung chủ đề 10",
+    "Contents": [
+      "Chủ đề này sẽ bao gồm:",
+      "Phát triển lặp lại",
+      "nguyên mẫu",
+      "Chiến lược phát triển tiến hóa",
+      ""
+    ]
+  },
+  "Slide 3": {
+    "Title": "DSDM - 5 kỹ thuật chính",
+    "Contents": [
+      "Ưu tiên MoSCoW",
+      "",
+      "Làm người mẫu",
+      "",
+      "Hội thảo được hỗ trợ",
+      "",
+      "Phát triển lặp lại",
+      "",
+      "Hộp thời gian",
+      "Nguồn: Hình ảnh từ dsdm.org © 2016",
+      ""
+    ]
+  },
+  "Slide 4": {
+    "Title": "Phát triển lặp lại",
+    "Contents": [
+      "Đây là một kỹ thuật quan trọng để phát triển dần dần từ một ý tưởng cấp cao thành một sản phẩm được phân phối",
+      "Nguồn: Hình ảnh từ pixabay.com © 2016 và dsdm.org © 2016",
+      ""
+    ]
+  },
+  "Slide 5": {
+    "Title": "Chu kỳ phát triển lặp đi lặp lại",
+    "Contents": [
+      "Chu kỳ phát triển lặp đi lặp lại thường ngắn – vài ngày hoặc thậm chí vài giờ!",
+      "Nguồn: Hình ảnh từ dsdm.org © 2016",
+      ""
+    ]
+  },
+  "Slide 6": {
+    "Title": "Phát triển lặp lại trong hộp thời gian",
+    "Contents": [
+      "Nguồn: Hình ảnh từ dsdm.org © 2016",
+      ""
+    ]
+  },
+  "Slide 7": {
+    "Title": "Quan điểm cho sự phát triển lặp lại",
+    "Contents": [
+      "Các điểm cần xem xét bao gồm:",
+      "",
+      "Chức năng – các yếu tố ‘cái gì?’ chứ không phải ‘như thế nào?’ của một dự án",
+      "Khả năng sử dụng – nhu cầu của người dùng và giao diện người dùng",
+      "Phi chức năng – các yếu tố ‘tốt thế nào?’ của một dự án",
+      ""
+    ]
+  },
+  "Slide 8": {
+    "Title": "Nguyên mẫu là gì? – 1",
+    "Contents": [
+      "Một nguyên mẫu là:",
+      "",
+      "Một phần không đầy đủ của giải pháp tổng thể;",
+      "Được sử dụng để tìm hiểu thêm về những gì được yêu cầu;",
+      "Tiến hóa (tiến hóa thành giải pháp cuối cùng) hoặc dùng một lần;",
+      "Nguyên mẫu tiến hóa là phương tiện phát triển giải pháp như một tập hợp các bước tăng dần và học hỏi bằng cách thực hiện",
+      ""
+    ]
+  },
+  "Slide 9": {
+    "Title": "Nguyên mẫu là gì? – 2",
+    "Contents": [
+      "Mục đích là xây dựng thứ gì đó hữu hình, có giá trị và hoạt động càng sớm càng tốt.",
+      "Nguồn: Hình ảnh từ pixabay.com © 2016",
+      ""
+    ]
+  },
+  "Slide 10": {
+    "Title": "Một vài ý tưởng cho việc tạo nguyên mẫu",
+    "Contents": [
+      "Nguồn: Hình ảnh từ pixabay.com © 2016",
+      ""
+    ]
+  },
+  "Slide 11": {
+    "Title": "Bài tập nhóm – Yêu cầu là gì?",
+    "Contents": [
+      "Tôi cần bốn tình nguyện viên…",
+      "Nguồn: Hình ảnh từ pixabay.com © 2016",
+      ""
+    ]
+  },
+  "Slide 12": {
+    "Title": "Phát triển lặp lại - Quan điểm chức năng",
+    "Contents": [
+      "Những điểm cần xem xét:",
+      "Tập trung vào chức năng;",
+      "Nhà phát triển thể hiện các yêu cầu kinh doanh chức năng;",
+      "Điều này kiểm tra sự hiểu biết của nhà phát triển về yêu cầu của người dùng;",
+      "Khẳng định ‘xây dựng giải pháp phù hợp’",
+      "Nguồn: Hình ảnh từ pixabay.com © 2016",
+      ""
+    ]
+  },
+  "Slide 13": {
+    "Title": "Phát triển lặp lại - Quan điểm khả năng sử dụng",
+    "Contents": [
+      "Những điểm cần xem xét:",
+      "",
+      "Tập trung vào giao diện người dùng",
+      "Minh họa giải pháp dễ sử dụng",
+      "Người dùng kiểm tra mức độ dễ sử dụng của giải pháp",
+      "Nguồn: Hình ảnh từ pixabay.com © 2016",
+      ""
+    ]
+  },
+  "Slide 14": {
+    "Title": "Phát triển lặp đi lặp lại –",
+    "Contents": [
+      "Nó tập trung vào các khía cạnh phi chức năng (thời gian phản hồi, bảo mật, v.v.). Nhà phát triển giải pháp sẽ kiểm tra xem giải pháp đó có đáp ứng các yêu cầu phi chức năng hay không.",
+      "Nguồn: Hình ảnh từ pixabay.com © 2016",
+      ""
+    ]
+  },
+  "Slide 15": {
+    "Title": "Nguyên mẫu năng lực/kỹ thuật",
+    "Contents": [
+      "Nó tập trung vào các tùy chọn thiết kế kỹ thuật và chức năng. Tại đây, nhà phát triển giải pháp sẽ thử nghiệm phương pháp thiết kế và/hoặc công cụ phát triển.",
+      "Đây thường là một bước đột phá về kiến ​​trúc hoặc bằng chứng về khái niệm.",
+      "Nguồn: Hình ảnh từ pixabay.com © 2016",
+      ""
+    ]
+  },
+  "Slide 16": {
+    "Title": "Chiến lược phát triển tiến hóa –",
+    "Contents": [
+      "Nguồn: Hình ảnh từ dsdm.org © 2016",
+      ""
+    ]
+  },
+  "Slide 17": {
+    "Title": "Tóm tắt – 1",
+    "Contents": [
+      "Ở đây, chúng ta đã xem xét các vấn đề về phát triển lặp đi lặp lại, tạo nguyên mẫu và các chiến lược phát triển tiến hóa. Dưới đây là tóm tắt của từng thuật ngữ:",
+      "",
+      "Phát triển lặp lại – quá trình xác định; lập kế hoạch; phát triển và xem xét giải pháp.  Phát triển lặp cho phép phát triển nhanh hơn và là một trong 5 kỹ thuật chính được sử dụng trong phát triển Agile.",
+      ""
+    ]
+  },
+  "Slide 18": {
+    "Title": "Tóm tắt – 2",
+    "Contents": [
+      "Tạo mẫu – công cụ thể hiện các yếu tố của giải pháp cho phép phát triển lặp lại phù hợp với nhu cầu của người dùng.",
+      "Chiến lược phát triển tiến hóa – cách quản lý việc phát triển lặp lại để đảm bảo từng lớp của kiến ​​trúc giải pháp được giải quyết trong quá trình phát triển lặp lại.",
+      ""
+    ]
+  },
+  "Slide 19": {
+    "Title": "Chủ đề 10 – Phát triển lặp lại và tạo nguyên mẫu",
+    "Contents": [
+      "Có câu hỏi nào không?",
+      ""
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "Slide 1": {
+    "Title": "Phát triển linh hoạt",
+    "Contents": [
+      "Chủ đề 11:",
+      "Ước tính và đóng khung thời gian",
+      ""
+    ]
+  },
+  "Slide 2": {
+    "Title": "Nội dung chủ đề 11",
+    "Contents": [
+      "Chủ đề này sẽ bao gồm:",
+      "Làm thế nào để chúng tôi ước tính?",
+      "Quá trình ước tính",
+      "Ước tính trong Vòng đời DSDM",
+      "Hộp thời gian là gì?",
+      "Lập kế hoạch dự án",
+      ""
+    ]
+  },
+  "Slide 3": {
+    "Title": "DSDM - 5 kỹ thuật chính",
+    "Contents": [
+      "Ưu tiên MoSCoW",
+      "",
+      "Làm người mẫu",
+      "",
+      "Hội thảo được hỗ trợ",
+      "",
+      "Phát triển lặp lại",
+      "",
+      "Hộp thời gian",
+      "Nguồn: Hình ảnh từ dsdm.org © 2016",
+      ""
+    ]
+  },
+  "Slide 4": {
+    "Title": "Làm việc này riêng lẻ, không cần thảo luận...",
+    "Contents": [
+      "Bài tập nhóm - Ước lượng",
+      "Nguồn: Hình ảnh từ pixabay.com © 2016",
+      ""
+    ]
+  },
+  "Slide 5": {
+    "Title": "Bài tập nhóm - Ước lượng",
+    "Contents": [
+      "Nguồn: Hình ảnh từ pixabay.com © 2016",
+      "Bạn đã nghĩ gì vậy?",
+      ""
+    ]
+  },
+  "Slide 6": {
+    "Title": "Làm điều này riêng lẻ, không có thảo luận.",
+    "Contents": [
+      "Bài tập nhóm 2 - Ước lượng",
+      "Nguồn: Hình ảnh từ pixabay.com © 2016",
+      ""
+    ]
+  },
+  "Slide 7": {
+    "Title": "Quá trình ước tính",
+    "Contents": [
+      "Có một số bước riêng biệt:",
+      "",
+      "Ước tính nỗ lực cần thiết",
+      "Điều chỉnh nỗ lực cho các yếu tố môi trường",
+      "Xác định các sản phẩm và sự phụ thuộc lẫn nhau của chúng",
+      "Lên kế hoạch phân phối sản phẩm và phân bổ nguồn lực",
+      "Điều chỉnh lịch trình dựa trên những hạn chế đã biết",
+      "Nguồn: Hình ảnh từ pixabay.com © 2016",
+      ""
+    ]
+  },
+  "Slide 8": {
+    "Title": "Các yếu tố ảnh hưởng đến ước tính",
+    "Contents": [
+      "Quy mô nhiệm vụ",
+      "Độ phức tạp",
+      "Yêu cầu chất lượng",
+      "Năng suất của con người",
+      "Sự sẵn có của tài nguyên",
+      "Kinh nghiệm của người",
+      "Nguồn: Hình ảnh từ pixabay.com © 2016",
+      ""
+    ]
+  },
+  "Slide 9": {
+    "Title": "Ai ước tính?",
+    "Contents": [
+      "Nhóm ước tính!",
+      "Nguồn: Hình ảnh từ pixabay.com © 2016",
+      ""
+    ]
+  },
+  "Slide 10": {
+    "Title": "Các phương pháp ước lượng - 1",
+    "Contents": [
+      "Các phương pháp ước tính có thể từ trên xuống hoặc từ dưới lên và có thể bao gồm:",
+      "Dựa trên nhiệm vụ",
+      "Dựa trên sản phẩm",
+      "Thuật toán",
+      "Phi thuật toán",
+      "Tương tự",
+      "Đánh giá của chuyên gia",
+      "Tỷ lệ tiêu chuẩn",
+      ""
+    ]
+  },
+  "Slide 11": {
+    "Title": "Các phương pháp ước lượng - 2",
+    "Contents": [
+      "Có nhiều cách khác nhau để xác định ước tính.  Điều quan trọng là phải sử dụng nhiều phương pháp và thường sẽ cần nhiều phương pháp kết hợp để xác định các ước tính thực tế.",
+      ""
+    ]
+  },
+  "Slide 12": {
+    "Title": "Tại sao ước tính sai?",
+    "Contents": [
+      "Thiếu kinh nghiệm ước lượng",
+      "Làm điều gì đó chưa từng được thực hiện trước đây",
+      "Kỹ thuật không phù hợp",
+      "Giả định lạc quan",
+      "Người ước tính sai",
+      "Thiếu thông tin",
+      "",
+      "Các ước tính có thể sai lệch một chút, nhưng nếu chúng không được tiếp cận một cách hiệu quả thì có thể có sai số lớn.",
+      ""
+    ]
+  },
+  "Slide 13": {
+    "Title": "Ước tính cải thiện",
+    "Contents": [
+      "Nguồn: Hình ảnh từ dsdm.org © 2016",
+      ""
+    ]
+  },
+  "Slide 14": {
+    "Title": "Ước tính trong Vòng đời DSDM",
+    "Contents": [
+      "phác thảo",
+      "Kế hoạch",
+      "Vận chuyển",
+      "Kế hoạch",
+      "Hộp thời gian",
+      "(Các) kế hoạch",
+      "Hơn",
+      "Yêu cầu",
+      "Chi tiết",
+      "Ước lượng",
+      "Sự chính xác",
+      "Ít hơn",
+      "Hơn",
+      "Ít hơn",
+      "Thông thường <10",
+      "yêu cầu",
+      "Thông thường <100",
+      "yêu cầu",
+      "Thông thường >100",
+      "yêu cầu",
+      "Nguồn: Hình ảnh từ dsdm.org © 2016",
+      ""
+    ]
+  },
+  "Slide 15": {
+    "Title": "Đồng ý với những gì bạn tin rằng bạn có thể làm được –",
+    "Contents": [
+      "ước tính",
+      "Đặt mục tiêu thực tế!",
+      "Nguồn: Hình ảnh từ pixabay.com © 2016",
+      ""
+    ]
+  },
+  "Slide 16": {
+    "Title": "Hộp thời gian là gì?",
+    "Contents": [
+      "Hộp thời gian là một khoảng thời gian cố định, khi kết thúc khoảng thời gian đó một mục tiêu đã được đáp ứng.",
+      "",
+      "",
+      "Thời gian sẵn có quyết định công việc đã hoàn thành",
+      "",
+      "Mục đích của hộp thời gian là làm cho điều gì đó trở nên hữu ích",
+      "",
+      "Hộp thời gian tập trung vào sản phẩm, không tập trung vào nhiệm vụ",
+      ""
+    ]
+  },
+  "Slide 17": {
+    "Title": "“Những người sáng tạo ở nhiều tầng lớp xã hội đều có thời hạn.",
+    "Contents": [
+      "James Martin",
+      "Tư duy về hộp thời gian",
+      "Nguồn: Hình ảnh từ pixabay.com © 2016",
+      ""
+    ]
+  },
+  "Slide 18": {
+    "Title": "Kế hoạch giao hàng",
+    "Contents": [
+      "Nguồn: Hình ảnh từ dsdm.org © 2016",
+      ""
+    ]
+  },
+  "Slide 19": {
+    "Title": "Kích thước của hộp thời gian phát triển",
+    "Contents": [
+      "Nó nên lớn đến mức nào?",
+      "",
+      "2 – 6 tuần",
+      "Nguồn: Hình ảnh từ pixabay.com © 2016",
+      ""
+    ]
+  },
+  "Slide 20": {
+    "Title": "Hộp thời gian",
+    "Contents": [
+      "Nỗ lực ước tính trong phần 'Phải có' không bao giờ được vượt quá 75% (ngoại trừ việc viết lại các hệ thống được ghi chép đầy đủ).",
+      "Theo nguyên tắc chung, trong các hộp thời gian trong khoảng tăng:",
+      ""
+    ]
+  },
+  "Slide 21": {
+    "Title": "Kế hoạch phác thảo được tạo trong tính khả thi",
+    "Contents": [
+      "Lập kế hoạch dự án",
+      ""
+    ]
+  },
+  "Slide 22": {
+    "Title": "Kế hoạch hộp thời gian",
+    "Contents": [
+      "Nguồn: Hình ảnh từ dsdm.org © 2016",
+      ""
+    ]
+  },
+  "Slide 23": {
+    "Title": "Lập kế hoạch khung thời gian - một gợi ý",
+    "Contents": [
+      "Những gì chúng ta cần biết…",
+      "NHẬN DẠNG",
+      "MoSCoW",
+      "Kích cỡ",
+      "Ai",
+      "(Tài nguyên)",
+      "phụ thuộc",
+      "Tên yêu cầu",
+      ""
+    ]
+  },
+  "Slide 24": {
+    "Title": "Tóm tắt – 1",
+    "Contents": [
+      "Trong bài giảng này, chúng tôi đã xem xét:",
+      "",
+      "Làm thế nào để chúng tôi ước tính? - Các bài tập trên lớp cho phép chúng tôi xem xét cách chúng tôi ước tính và lý do tại sao các chuyên gia phải chịu trách nhiệm",
+      "Quá trình ước tính - chúng tôi đã xem xét tầm quan trọng của việc thực hiện các bước đã định; xem xét các yếu tố ảnh hưởng; làm việc với họ như một nhóm và đảm bảo bạn sử dụng nhiều cách tiếp cận.",
+      ""
+    ]
+  },
+  "Slide 25": {
+    "Title": "Tóm tắt – 2",
+    "Contents": [
+      "Lập kế hoạch cho dự án – chúng tôi đã xem xét một phương pháp được đề xuất để đảm bảo rằng tất cả các yếu tố cần thiết đều được đề cập trong quá trình lập kế hoạch cho một bước tăng mới",
+      ""
+    ]
+  },
+  "Slide 26": {
+    "Title": "Chủ đề 11 – Ước tính và đóng khung thời gian",
+    "Contents": [
+      "Có câu hỏi nào không?",
+      ""
+    ]
+  }
+}

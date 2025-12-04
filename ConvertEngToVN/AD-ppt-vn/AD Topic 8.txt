@@ -1,0 +1,161 @@
+Slide 1:
+Title: Agile Development
+Contents:
+- Topic 8:
+Facilitated Workshops
+
+Slide 2:
+Title: Topic 8 Coverage
+Contents:
+- This topic will cover:
+What is a facilitated workshop?
+Workshop types;
+Workshop roles;
+Planning and dynamics;
+Success factors.
+
+Slide 3:
+Title: DSDM - 5 Key Techniques
+Contents:
+- MoSCoW Prioritisation
+
+Modelling
+
+Facilitated Workshops
+
+Iterative Development
+
+Timeboxing
+- Source: Image from dsdm.org © 2016
+
+Slide 4:
+Title: What is a Facilitated Workshop?
+Contents:
+- A place where a specific job is done and a product produced.
+
+A team-based information gathering and decision making technique.
+
+Interactive communication,
+empowered personnel, and an
+independent facilitator.
+
+Slide 5:
+Title: What is a Facilitator?
+Contents:
+- A helper and enabler.
+A referee, not a player.
+One who contributes to structure and process (not content), so that groups can function effectively, and make high-quality decisions.
+- Source: Image from pixabay.com © 2016
+
+Slide 6:
+Title: Group Exercise: Why have Facilitated Workshops?
+Contents:
+- In groups, briefly discuss THREE (3) advantages and THREE (3) risks of workshops.
+- Source: Image from pixabay.com © 2016
+
+Slide 7:
+Title: Workshop Benefits are…
+Contents:
+- Rapid, high quality decision-making;
+Greater buy-in;
+Building team spirit;
+Building consensus;
+Clarification of issues.
+
+Slide 8:
+Title: A Few Typical Workshops ...
+Contents:
+- Outline Planning Systems Benefits
+Requirements Gathering
+Technical Systems Options
+- Requirements Gathering/Prioritisation
+User Classes/ roles/ responsibilities
+Data/ Process modelling
+Development planning
+Retrospectives
+Future-spectives
+- Functional Modelling
+Timebox Planning
+Acceptance Test Planning
+- Design
+Prototyping
+Test Planning
+- Business Case
+Scope/Context setting
+Risk Mitigation
+- Training Plans
+Cut-over plans
+Increment review
+- Source: Image from pixabay.com © 2016
+
+Slide 9:
+Title: Workshop Roles
+Contents:
+- Workshop
+Co-Facilitator
+- Source: Images from pixabay.com © 2016
+
+Slide 10:
+Title: Group Exercise: Planning Facilitated Workshops
+Contents:
+- What 5 aspects do we need to plan for a facilitated workshop?
+- Source: Image from pixabay.com © 2016
+
+Slide 11:
+Title: Running a Workshop
+Contents:
+- Points to consider are:
+
+Definition (owner, product, participants);
+Prepare for workshop (objective-driven agenda);
+Run workshop session;
+Review workshop;
+Final document - workshop report;
+Review with workshop owner.
+
+Slide 12:
+Title: Workshop Ground Rules
+Contents:
+- Points to consider are:
+
+Start on time
+Respect other people’s views
+Silence = agreement
+Only one speaker at a time
+Maintain workshop direction
+5 minute rule
+
+Slide 13:
+Title: Is a Workshop the Best Way?
+Contents:
+- Source: Image from pixabay.com © 2016
+
+Slide 14:
+Title: Facilitated Workshop Success Factors
+Contents:
+- Success factors include:
+
+Good facilitator, trained for the job
+Flexibility of format but NOT objectives
+Preparation
+Education (preparation session before workshop)
+Earlier results built in
+User solution facilitated, not forced
+Review of good/bad points
+Feedback of results to participants
+Suitability of workshops to organisational culture
+
+Slide 15:
+Title: Summary
+Contents:
+- What is a facilitated workshop?
+Workshop roles
+Workshop types
+Planning and dynamics
+Success factors
+
+Slide 16:
+Title: Topic 8 – Facilitated Workshops
+Contents:
+- Any Questions?
+

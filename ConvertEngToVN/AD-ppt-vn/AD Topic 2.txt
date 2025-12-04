@@ -1,0 +1,206 @@
+Slide 1:
+Title: Agile Development
+Contents:
+- Topic 2:
+Approach and Principles
+
+Slide 2:
+Title: Topic 2 Coverage
+Contents:
+- This topic will cover:
+The Agile Manifesto;
+What is meant by DSDM Atern;
+The structure of DSDM Atern;
+The philosophy and principles of DSDM Atern;
+When to use DSDM Atern.
+
+Slide 3:
+Title: The Agile Manifesto
+Contents:
+- www.agilemanifesto.org (2001)
+- We are uncovering better ways of developing software by doing it and helping others do it.
+Through this work we have come to value:
+Individuals and interactions over processes and tools
+Working software over comprehensive documentation
+Customer collaboration over contract negotiation
+Responding to change over following a plan
+That is, while there is value in the items on the right, we value the items on the left more
+
+Slide 4:
+Title: What is DSDM?
+Contents:
+- It is an Agile Project Delivery Framework that delivers the right solution at the right time. Features include:
+
+Any kind of project
+Focused on business benefit
+On-time and in budget
+Quality and rigour
+Incremental
+Collaborative
+
+Slide 5:
+Title: DSDM – The History
+Contents:
+- The 1994/5 Dynamic Systems Development Method (DSDM) was written as a Framework for Business Centred Development. It focuses on delivering on time and in budget, as well as keeping quality.
+
+It brought together best practices from the combined experience of DSDM Consortium members, including many “blue-chip” companies. It was vendor-independent and became a standard, worldwide.
+
+Slide 6:
+Title: The History of DSDM
+Contents:
+- DSDM Consortium formed
+DSDM V1 (V2 1995)
+- Agile Manifesto signed
+2001
+(DSDM = signatory)
+- DSDM
+V3
+- DSDM V4 (2002)
+Published online V4.1 (2003)
+- DSDM V4.2 Published Online
+- DSDM made
+free to view
+free to use
+- DSDM Atern
+V5
+- DSDM Agile Project Management Framework
+V6
+
+Slide 7:
+Title: The Structure of DSDM
+Contents:
+- Source: Image from dsdm.org © 2016
+
+Slide 8:
+Title: The Philosophy
+Contents:
+- Any project must be aligned to clearly defined strategic goals;
+Any project must focus upon early delivery of real benefits to the business.
+- Two important points to consider are:
+
+Slide 9:
+Title: Are prepared to deliver a fit for purpose solution
+Contents:
+- Understand the business objectives
+- Are empowered to an appropriate level
+- Accept that change is inevitable
+- Collaborate to converge on the best possible solution, in agreed timescale, according business priorities
+- This is best achieved when key stakeholders …
+- The Philosophy - 2
+
+Slide 10:
+Title: …Not just software!
+Contents:
+
+Slide 11:
+Title: The Benefits of DSDM
+Contents:
+- The advantages of DSDM are:
+
+User ownership of the system is more likely
+Reduced risk of building the wrong system
+The final system is more likely to meet the users’ real business requirements
+Users will be better trained
+Deployment is more likely to go smoothly
+
+Slide 12:
+Title: The 80/20 Approach
+Contents:
+- Fundamental Assumption:
+Nothing is built perfectly first time,
+but 80% of the solution can be produced
+in 20% of the time it would take to produce
+the total solution.
+
+Slide 13:
+Title: A Question of Balance
+Contents:
+- Speed
+- Risk Reduction
+
+Slide 14:
+Title: Components of a Business Solution
+Contents:
+
+Slide 15:
+Title: Flexible Requirements
+Contents:
+- Source: Image from dsdm.org © 2016
+
+Slide 16:
+Title: Prioritisation
+Contents:
+- DSDM uses the MoSCoW prioritisation model.
+
+Concentrating approximately 60% of the project on the ‘Must Have’ requirements, and around 20% on the ‘Could Have’ requirements.
+- Source: Image from dsdm.org © 2016
+
+Slide 17:
+Title: The 8 Principles of DSDM
+Contents:
+- Source: Image from dsdm.org © 2016
+- 1. Focus on business need
+- 2. Deliver on time
+- 3. Collaborate
+- 4. Never compromise of quality
+- 5. Build incrementally from firm foundations
+- 6. Develop iteratively
+- 7. Communicate continuously and clearly
+- 8. Demonstrate control
+
+Slide 18:
+Title: DSDM - 5 Key Techniques
+Contents:
+- MoSCoW Prioritisation
+
+Modelling
+
+Facilitated Workshops
+
+Iterative Development
+
+Timeboxing
+- Source: Image from dsdm.org © 2016
+
+Slide 19:
+Title: Instrumental Success Factors (ISFs) - Reducing the risk
+Contents:
+
+Slide 20:
+Title: Clearly defined user group
+Contents:
+- What Kind of Projects?
+- Visible functionality
+- Not computationally complex
+or complexity can be
+decomposed or isolated
+- Can be
+Broken down
+- Time constrained
+- Requirements
+can be prioritised
+- Requirements are not
+too detailed
+or fixed
+- Project Approach
+Questionnaire
+
+Slide 21:
+Title: Summary of DSDM – 1
+Contents:
+- DSDM is an Agile Project Delivery Framework that delivers the correct solution at the right time. The correct business solution is delivered because:
+The Project team and other significant stakeholders remain focused on the business outcome;
+Delivery is on time, which permits an early return on investment and reduced risk;
+All people involved with the project work collaboratively to deliver the optimum solution;
+
+Slide 22:
+Title: Summary of DSDM – 2
+Contents:
+- Work is prioritised according to business need and the ability of users to accommodate changes;
+DSDM does not compromise quality.
+
+Slide 23:
+Title: Topic 2 – Approach and Principles
+Contents:
+- Any Questions?
+

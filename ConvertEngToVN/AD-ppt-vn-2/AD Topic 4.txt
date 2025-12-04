@@ -1,0 +1,134 @@
+Slide 1:
+Title: Phát triển Linh hoạt (Agile Development)
+Contents:
+- Chủ đề 4:
+Vai trò, Kỹ năng và Cấu trúc Nhóm
+
+Slide 2:
+Title: Nội dung bao quát Chủ đề 4
+Contents:
+- Chủ đề này sẽ bao gồm:
+Các nhóm làm việc như thế nào?
+Quy mô và phong cách nhóm
+Các vai trò và trách nhiệm Agile
+
+Slide 3:
+Title: Bài tập Nhóm - Các Nhóm làm việc như thế nào?
+Contents:
+- Bây giờ các bạn sẽ được chia thành các nhóm.
+Khi đã vào nhóm, các bạn cần quyết định tên nhóm và đưa ra ít nhất ba điều mà bạn cảm thấy cần biết để làm việc hiệu quả với tư cách là một nhóm.
+
+Slide 4:
+Title: Bài tập Nhóm - Các Nhóm làm việc như thế nào?
+Contents:
+- Bây giờ bạn cần tìm ra điều gì đó độc đáo về nhóm của mình.
+Vẽ một hình tròn và chia nó thành 4 góc phần tư và dán nhãn như hình.
+Điền vào bảng này theo nhóm để xác định những điểm chung mà các bạn có.
+- Công việc
+- Gia đình
+- Sở thích
+- Thể thao
+- Bạn có thể tìm thấy điều gì đó độc đáo về nhóm của mình không?
+
+Slide 5:
+Title: Các Nhóm Agile DSDM
+Contents:
+- Các nhóm Agile là:
+
+Tự quản lý
+Nhỏ
+Bao gồm người dùng và nhà phát triển với trách nhiệm ngang nhau
+Có thể được tái cấu trúc nếu nhóm không hoạt động hiệu quả
+Được củng cố bởi phương pháp tiếp cận thành công của nhóm/văn hóa không đổ lỗi
+
+Slide 6:
+Title: Vai trò và Trách nhiệm của Nhóm
+Contents:
+- Nhóm Dự án:
+Quản lý Dự án
+Nhà tài trợ Kinh doanh
+Điều phối viên Kỹ thuật
+Người có Tầm nhìn Kinh doanh
+Trưởng nhóm
+Nhóm Phát triển Giải pháp:
+Đại sứ Kinh doanh
+Nhà phát triển Giải pháp
+Nhà phân tích Kinh doanh
+Người kiểm thử Giải pháp
+Hỗ trợ Bên ngoài:
+Cố vấn Kinh doanh
+Người điều phối Hội thảo
+- Source: Image from dsdm.org © 2016 
+
+Slide 7:
+Title: Các Vai trò cấp Dự án
+Contents:
+- Source: Image from dsdm.org © 2016 
+
+Slide 8:
+Title: Các Vai trò của Nhóm Phát triển Giải pháp
+Contents:
+- Source: Image from dsdm.org © 2016 
+
+Slide 9:
+Title: Nhiều Nhóm
+Contents:
+- Thậm chí có thể có nhiều nhóm nhỏ hơn trong nhóm Phát triển Giải pháp chính.
+- Source: Image from dsdm.org © 2016 [Image illustrating multiple smaller teams within the main Solution Development Team]
+
+Slide 10:
+Title: Các Vai trò Chuyên gia – 1
+Contents:
+- Các Chuyên gia có thể được mời đến khi cần thiết, bao gồm nhưng không giới hạn ở:
+
+Tư vấn kinh doanh
+Tư vấn kỹ thuật
+Chuyên gia về các yếu tố con người
+Quản lý cấu hình
+Quản lý chất lượng
+
+Slide 11:
+Title: Các Vai trò Chuyên gia – 2
+Contents:
+- Tích hợp hệ thống
+Điều phối viên hoạt động
+Chuyên gia hỗ trợ và bảo trì
+
+Slide 12:
+Title: Tóm tắt về Vai trò, Kỹ năng và Trách nhiệm – 1
+Contents:
+- Các nhóm làm việc như thế nào?
+Tự quản lý
+Bình đẳng
+Với sự giao tiếp
+
+Slide 13:
+Title: Tóm tắt về Vai trò, Kỹ năng và Trách nhiệm – 2
+Contents:
+- Quy mô và phong cách nhóm
+Sẽ khác nhau tùy theo từng dự án
+Có khả năng làm việc trong các nhóm nhỏ đóng góp vào dự án tổng thể
+
+Slide 14:
+Title: Tóm tắt về Vai trò, Kỹ năng và Trách nhiệm – 3
+Contents:
+- Các vai trò và trách nhiệm Agile:
+
+Quản lý Dự án
+Nhà tài trợ Kinh doanh
+Điều phối viên Kỹ thuật
+Người có Tầm nhìn Kinh doanh
+Trưởng nhóm
+Đại sứ Kinh doanh
+
+Slide 15:
+Title: Tóm tắt về Vai trò, Kỹ năng và Trách nhiệm – 4
+Contents:
+- Nhà phát triển Giải pháp
+Nhà phân tích Kinh doanh
+Người kiểm thử Giải pháp
+
+Slide 16:
+Title: Chủ đề 4 – Vai trò, Kỹ năng và Cấu trúc Nhóm
+Contents:
+- Có câu hỏi nào không?

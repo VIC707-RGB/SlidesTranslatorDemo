@@ -1,0 +1,87 @@
+Slide 1:
+Title: Agile Development
+Contents:
+- Topic 4: Roles, Skills and Team Structures
+
+Slide 2:
+Title: Topic 4 Coverage
+Contents:
+- This topic will cover:How do teams work?Team size and styleAgile roles and responsibilities
+
+Slide 3:
+Title: Group Exercise - How do Teams Work?
+Contents:
+- You are now going to be put into groups.Once in your groups you need to decide on a group name and come up with at least three things that you feel you would need to know to work effectively as a team.
+
+Slide 4:
+Title: Group Exercise - How do Teams Work?
+Contents:
+- You now need to find out something unique about your group.Draw a circle and split in into 4 quadrants and label them as shown.Fill this in as a group to identify things you have in common.
+- Job
+- Family
+- Hobbies
+- Sport
+- Can you find something that is unique about your group?
+
+Slide 5:
+Title: DSDM Agile Teams
+Contents:
+- Agile teams are: Self-directedSmallComposed of users and developers with equal responsibilitySubject to re-structuring if team is not working Underpinned by a team success approach/no blame culture
+
+Slide 6:
+Title: Team Roles and Responsibilities
+Contents:
+- Project team:Project ManagerBusiness SponsorTechnical Co-OrdinatorBusiness VisionaryTeam LeaderSolution Development Team:Business AmbassadorSolution DeveloperBusiness AnalystSolution TesterExternal Support:Business AdvisorWorkshop Facilitator
+- Source: Image from dsdm.org © 2016
+
+Slide 7:
+Title: Project-level Roles
+Contents:
+- Source: Image from dsdm.org © 2016
+
+Slide 8:
+Title: Solution Development Team Roles
+Contents:
+- Source: Image from dsdm.org © 2016
+
+Slide 9:
+Title: Multiple Teams
+Contents:
+- There may even be multiple smaller teams within the main Solution Development team.
+- Source: Image from dsdm.org © 2016
+
+Slide 10:
+Title: Specialist Roles – 1
+Contents:
+- Specialists may be brought in as required, including but not restricted to:Business consultantsTechnical consultantsSpecialist in human factorsConfiguration managerQuality manager
+
+Slide 11:
+Title: Specialist Roles – 2
+Contents:
+- Systems integrator	Operations co-ordinator	Support and maintenance specialists
+
+Slide 12:
+Title: Summary of Roles, Skills and Responsibilities – 1
+Contents:
+- How do teams work?Self-directedAs equalsWith communication
+
+Slide 13:
+Title: Summary of Roles, Skills and Responsibilities – 2
+Contents:
+- Team size and styleWill vary from project to project Likely to work in small teams feeding into the overall project
+
+Slide 14:
+Title: Summary of Roles, Skills and Responsibilities – 3
+Contents:
+- Agile roles and responsibilities: Project ManagerBusiness SponsorTechnical Co-OrdinatorBusiness VisionaryTeam LeaderBusiness Ambassador
+
+Slide 15:
+Title: Summary of Roles, Skills and Responsibilities – 4
+Contents:
+- Solution DeveloperBusiness AnalystSolution Tester
+
+Slide 16:
+Title: Topic 4 – Roles, Skills and Team Structures
+Contents:
+- Any Questions?
+

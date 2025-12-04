@@ -1,0 +1,204 @@
+Slide 1:
+Title: Agile Development
+Contents:
+- Topic 3:
+Modelling
+
+Slide 2:
+Title: Topic 3 Coverage
+Contents:
+- This topic will cover:
+Meanings and examples of modelling;
+Modelling perspectives;
+Modelling within the lifecycle;
+Modelling tips.
+
+Slide 3:
+Title: DSDM - 5 Key Techniques
+Contents:
+- MoSCoW Prioritisation
+
+Modelling
+
+Facilitated Workshops
+
+Iterative Development
+
+Timeboxing
+- Source: Image from dsdm.org © 2016
+
+Slide 4:
+Title: A model is often a diagram. So, what diagrams do you know/use in a development project?
+Contents:
+- Exercise 1
+
+Slide 5:
+Title: What is a Model? - 1
+Contents:
+- A model is:
+
+A description or analogy (to help visualise something that cannot be directly observed);
+A small but precise replica of an item or product;
+A pattern or figure of an item or product to be created.
+
+Slide 6:
+Title: What is a Model? - 2
+Contents:
+- Many industries use models (and prototypes) to establish requirements, confirm expectations and test the achievability of objectives. Examples of models include: storyboards; diagrams; scale models (prototypes); and working software (prototypes).
+
+Slide 7:
+Title: Modelling Perspectives
+Contents:
+- WHAT –  The information
+HOW – The functions, features and processes
+WHERE – The locations at which the business operates
+WHO – The people: customers, users, stakeholders
+WHEN –The events of importance (times and scheduling)
+WHY – The business objectives and strategy
+- Source: Image from dsdm.org © 2016
+
+Slide 8:
+Title: Modelling – User Perspective
+Contents:
+- WHEN:
+System Events
+- WHAT:
+Data and
+Relationships
+- HOW:
+Processes, Inputs, Outputs
+- Technology may have its own:
+- WHAT?
+Data
+- WHY
+Rationale
+- WHAT
+Business
+Procedures
+- WHO
+People
+and Tasks
+- Source: Image from pixabay.com © 2016
+
+Slide 9:
+Title: In small groups, one person describes a journey using words only. The others (independently) try to draw the route. How close is the picture to the description?
+Contents:
+- Exercise 2
+
+Slide 10:
+Title: Modelling within the Lifecycle
+Contents:
+- Engineering/Development
+Technology and Component Models
+Solution Development Team
+- Foundations
+High Level System Models
+Business Sponsor
+Business Visionary
+Technical Co-ordinator
+- Deployment
+Functioning, Tested,
+Documented System
+End Users
+Operations
+- Exploration/Design
+Detailed System Models
+Solution Development Team
+- Source: Image from dsdm.org © 2016
+
+Slide 11:
+Title: Some User-centred Techniques - 1
+Contents:
+- User Analysis
+
+
+
+Usability Analysis
+
+
+
+Task Modelling
+
+
+
+Task Scenario Definition
+(& Use Cases)
+- identify user population for the proposed system (job roles, skill levels)
+
+determine characteristics of user interface (non-functional requirements)
+
+identify business events (user tasks)
+
+
+identify instances of task execution for a user
+- Source: Image from pixabay.com © 2016
+dsdm.org@2016
+
+Slide 12:
+Title: Some User-centred Techniques - 2
+Contents:
+- User Conceptual Modelling
+(user object modelling)
+
+
+
+GUI Design
+			
+
+		
+
+User Interface Prototyping
+- provide a map of the  system from the users’ perspective
+
+
+user interface to support identified tasks
+
+
+provide animated view of proposed system
+- Source: Image from pixabay.com © 2016
+
+Slide 13:
+Title: The 8 Principles of DSDM
+Contents:
+- Focus on business need
+Deliver on time
+Collaborate
+Never compromise quality
+Build incrementally from foundations
+Develop iteratively
+Communicate continuously and clearly
+Demonstrate control
+
+Slide 14:
+Title: Exercise 3
+Contents:
+- In small groups of no more than 4, prepare a short presentation to last no more than TWO (2) mins
+to link modelling to the 8 principles of DSDM.
+
+Slide 15:
+Title: Modelling Tips
+Contents:
+- Key points to consider are:
+
+It is easily understood by user and developer;
+It supports the process of incremental refinement;
+Models produced must enhance communication;
+It must fit easily within the Agile framework.
+
+Slide 16:
+Title: Summary of Modelling
+Contents:
+- What is modelling?
+It is a visualisation process to build focus within a project.
+Modelling perspectives
+When, Why, What, Who, Where and How?
+Modelling within the lifecycle
+Used at all stages by differing stakeholders for varied reasons to ensure project objectives are met.
+Modelling tips
+Make it count! Modelling needs to be easy to understand and fit within all aspects of the life cycle.  It will greatly enhance communication.
+
+Slide 17:
+Title: Topic 3 – Modelling
+Contents:
+- Any Questions?
+

@@ -1,0 +1,134 @@
+Slide 1:
+Title: Phát triển Linh hoạt (Agile Development)
+Contents:
+- Chủ đề 5:
+Vòng đời và Sản phẩm
+
+Slide 2:
+Title: Nội dung bao quát Chủ đề 5
+Contents:
+- Chủ đề này sẽ bao gồm:
+Vòng đời
+Các giai đoạn
+Các sản phẩm
+
+Slide 3:
+Title: Vòng đời DSDM - 1
+Contents:
+- Source: Image from dsdm.org © 2016 
+
+[Image of the DSDM process]
+
+
+Slide 4:
+Title: Bài tập 1
+Contents:
+- Bây giờ các bạn sẽ được chia thành các nhóm 7 người. Khi đã vào nhóm, tất cả các bạn cần chọn một vai trò:
+
+Nhà phân tích
+Nhà thiết kế
+Nhà phát triển
+Người kiểm thử
+Người kiểm thử chấp nhận người dùng
+Người triển khai
+QA/Người giữ thời gian
+- Mỗi đội sẽ làm việc cạnh tranh trực tiếp với các đội khác
+
+Slide 5:
+Title: Bài tập 1
+Contents:
+- Lần 1: Theo Phương pháp Thác nước (The Waterfall Way)
+
+Được bấm giờ bởi người giữ thời gian, các đồng xu đầu tiên được nhà phân tích lật tất cả thành mặt "ngửa" (heads), và được chuyển theo lô cho nhà thiết kế.
+Nhà thiết kế lật tất cả chúng thành mặt "sấp" (tails) và chuyển chúng theo lô cho nhà phát triển, và cứ tiếp tục như vậy cho đến khi người triển khai đã hoàn thành lượt của mình và hô "Dừng".
+Tại thời điểm này, người giữ thời gian ghi lại thời gian trên bảng trắng/flipchart. Người giữ thời gian không lật đồng xu nào mà đóng vai trò kiểm soát chất lượng để đảm bảo không có gian lận.
+
+Slide 6:
+Title: Bài tập 1
+Contents:
+- Lần 2: Theo Phương pháp Agile (The Agile Way)
+
+Lần này, các vai trò vẫn hoạt động theo cùng một cách, nhưng ngay khi một đồng xu được lật xong, nó có thể được chuyển cho vai trò tiếp theo, thay vì chờ đợi hoàn thành một lô.
+Người giữ thời gian vẫn theo dõi chất lượng và bấm giờ sự kiện, và ghi lại thời gian như trước khi người triển khai hô 'Dừng!'
+
+Slide 7:
+Title: Khả thi (Feasibility)
+Contents:
+- Cấu hình Vòng đời DSDM - 2
+- Source: Image from dsdm.org © 2016 
+
+[Image of the Feasibility phase within the DSDM lifecycle]
+
+
+Slide 8:
+Title: Khả thi (Feasibility)
+Contents:
+- Vòng đời DSDM - 3
+- Source: Image from dsdm.org © 2016 
+
+Slide 9:
+Title: Cấu trúc Sản phẩm của Vòng đời DSDM
+Contents:
+- Trọng tâm
+Kinh doanh
+- Trọng tâm
+Giải pháp
+- Trọng tâm
+Quản lý
+- Tiền dự án
+- Khả thi
+- Nền tảng
+- Khám phá
+- Triển khai
+- Kỹ thuật
+- Hậu dự án
+
+Slide 10:
+Title: Tổng quan về Sản phẩm
+Contents:
+- Source: Image from dsdm.org © 2016 [Image illustrating the structure of DSDM Lifecycle Products]
+- Màu Cam = Tập trung vào Kinh doanh,
+Màu Xanh lá = Các yếu tố đóng góp vào Giải pháp
+Màu Xanh dương = Quan tâm đến quản lý/kiểm soát Dự án.
+Các Sản phẩm có chữ ‘G’ cũng có thể đóng vai trò trong các quy trình quản trị
+
+Slide 11:
+Title: Tóm tắt về Vòng đời và Sản phẩm – 1
+Contents:
+- Các điểm cần lưu ý là:
+
+Vòng đời – Được thiết kế theo Agile, nó có thể được thay đổi và điều chỉnh để đáp ứng nhu cầu phát triển cụ thể của dự án.
+Các giai đoạn – Mỗi giai đoạn của vòng đời sẽ bao gồm việc đáp ứng các mục tiêu đã đặt ra, những mục tiêu này sẽ tác động đến các giai đoạn khác.
+
+Slide 12:
+Title: Tóm tắt về Vòng đời và Sản phẩm – 2
+Contents:
+- Các sản phẩm – Khi dự án tiến triển, sẽ có các sản phẩm được tạo ra, cuối cùng là tài liệu, chẳng hạn như; Điều khoản tham chiếu (Terms of reference), Hồ sơ nghiệp vụ (Business Case), Định nghĩa Kiến trúc Giải pháp (Solution Architecture Definition), Định nghĩa Phương pháp tiếp cận Phát triển (Development Approach Definition), Kế hoạch Phân phối (Delivery Plan), Đánh giá Khả thi (Feasibility Assessment), v.v.
+
+Slide 13:
+Title: Tóm tắt về Vòng đời và Sản phẩm – 3
+Contents:
+- Tổng quan về sản phẩm
+Điều khoản tham chiếu – Các yêu cầu cấp cao chi phối giai đoạn khả thi
+Hồ sơ nghiệp vụ – Công cụ tiến hóa để cho phép lập tài liệu về nhu cầu kinh doanh
+Định nghĩa Kiến trúc Giải pháp – Các đặc điểm kỹ thuật thiết kế cấp cao tiến hóa
+
+Slide 14:
+Title: Tóm tắt về Vòng đời và Sản phẩm – 4
+Contents:
+- Tổng quan về sản phẩm
+Định nghĩa Phương pháp tiếp cận Phát triển – Các định nghĩa cấp cao liên quan đến quy trình, con người, tài nguyên cần thiết cho giai đoạn thiết kế
+Kế hoạch Phân phối – Lịch trình cấp cao tiến hóa
+Đánh giá Khả thi – Được sử dụng như một sản phẩm mốc quan trọng để cung cấp cái nhìn tổng quan về các sản phẩm đang tiến hóa khác
+
+Slide 15:
+Title: Sản phẩm SCRUM = Hiện vật (Artefacts)
+Contents:
+- Các hiện vật (sản phẩm) của SCRUM
+Product Backlog – Đây cuối cùng là một danh sách đầy đủ các yêu cầu, nhưng không bao giờ hoàn chỉnh. Quản lý Sản phẩm sẽ liên tục xem xét lại và bổ sung vào danh sách này.
+Sprint Backlog – SCRUM sử dụng chu kỳ ‘Sprint’ như DSDM sử dụng Timeboxes. Sprint Backlogs là các yêu cầu cho mỗi Sprint, cuối cùng tạo nên một phần tăng dần (increment) duy nhất.
+
+Slide 16:
+Title: Chủ đề 5 – Vòng đời và Sản phẩm
+Contents:
+- Có câu hỏi nào không?

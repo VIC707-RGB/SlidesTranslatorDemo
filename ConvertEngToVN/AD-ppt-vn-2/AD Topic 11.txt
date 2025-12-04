@@ -1,0 +1,244 @@
+Slide 1:
+Title: Phát triển Linh hoạt (Agile Development)
+Contents:
+- Chủ đề 11:
+Ước tính và Đóng hộp thời gian (Timeboxing)
+
+Slide 2:
+Title: Nội dung bao quát Chủ đề 11
+Contents:
+- Chủ đề này sẽ bao gồm:
+Chúng ta ước tính như thế nào?
+Quy trình ước tính
+Ước tính trong Vòng đời DSDM
+Đóng hộp thời gian là gì?
+Lập kế hoạch dự án
+
+Slide 3:
+Title: DSDM - 5 Kỹ thuật Chính
+Contents:
+- Ưu tiên MoSCoW
+
+Mô hình hóa
+
+Các Hội thảo có Người điều phối
+
+Phát triển Lặp lại
+
+Đóng hộp thời gian
+- Source: Image from dsdm.org © 2016
+
+Slide 4:
+Title: Làm việc này cá nhân, không thảo luận ...
+Ước tính bạn sẽ mất bao lâu để xây cho tôi một bức tường.
+Contents:
+- Bài tập Nhóm - Ước tính
+- Source: Image from pixabay.com © 2016
+
+Slide 5:
+Title: Bài tập Nhóm - Ước tính
+Contents:
+- Source: Image from pixabay.com © 2016
+- Bạn đã nghĩ đến điều gì?
+
+Slide 6:
+Title: Làm việc này cá nhân, không thảo luận.
+Ước tính tôi sẽ mất bao lâu để lái xe từ…
+Contents:
+- Bài tập Nhóm 2 - Ước tính
+- Source: Image from pixabay.com © 2016
+
+Slide 7:
+Title: Quy trình Ước tính
+Contents:
+- Có một số bước riêng biệt:
+
+Ước tính nỗ lực cần thiết
+Điều chỉnh nỗ lực cho các yếu tố môi trường
+Xác định các sản phẩm và sự phụ thuộc lẫn nhau của chúng
+Lên lịch phân phối sản phẩm và phân bổ nguồn lực
+Điều chỉnh lịch trình theo các ràng buộc đã biết
+- Source: Image from pixabay.com © 2016
+
+Slide 8:
+Title: Các Yếu tố Ảnh hưởng đến Ước tính
+Contents:
+- Kích thước nhiệm vụ
+Độ phức tạp
+Chất lượng yêu cầu
+Năng suất của con người
+Sự sẵn có của nguồn lực
+Kinh nghiệm của con người
+- Source: Image from pixabay.com © 2016
+
+Slide 9:
+Title: Ai Ước tính?
+Contents:
+- Nhóm ước tính!
+- Source: Image from pixabay.com © 2016
+
+Slide 10:
+Title: Các Phương pháp tiếp cận Ước tính - 1
+Contents:
+- Các phương pháp tiếp cận ước tính có thể là từ trên xuống hoặc từ dưới lên và có thể bao gồm:
+Dựa trên nhiệm vụ
+Dựa trên sản phẩm
+Thuật toán
+Phi thuật toán
+Tương tự
+Đánh giá chuyên gia
+Tỷ lệ tiêu chuẩn
+
+Slide 11:
+Title: Các Phương pháp tiếp cận Ước tính - 2
+Contents:
+- Có nhiều cách khác nhau để xác định ước tính. Điều quan trọng là sử dụng nhiều hơn một phương pháp tiếp cận, và thường sẽ yêu cầu nhiều phương pháp tiếp cận kết hợp để xác định ước tính thực tế.
+
+Slide 12:
+Title: Tại sao các Ước tính lại Sai?
+Contents:
+- Thiếu kinh nghiệm ước tính
+Làm điều gì đó chưa từng được làm trước đây
+Các kỹ thuật không đầy đủ
+Các giả định quá lạc quan
+Sai người đưa ra ước tính
+Thiếu thông tin
+
+Các ước tính có thể sai lệch một biên độ nhỏ, nhưng nếu chúng không được tiếp cận một cách hiệu quả, có thể có một biên độ lỗi lớn.
+
+Slide 13:
+Title: Các Ước tính Cải thiện
+Contents:
+- Source: Image from dsdm.org © 2016
+
+Slide 14:
+Title: Ước tính trong Vòng đời DSDM
+Contents:
+- Kế hoạch
+Phác thảo
+- Kế hoạch
+Phân phối
+- Kế hoạch
+Hộp thời gian
+- Chi tiết
+Yêu cầu
+- Độ chính xác
+Ước tính
+- Ít hơn
+- Nhiều
+- Ít hơn
+- Thường <10
+yêu cầu
+- Thường <100
+yêu cầu
+- Thường >100
+yêu cầu
+- Source: Image from dsdm.org © 2016
+
+Slide 15:
+Title: Đồng ý với những gì bạn tin rằng mình có thể làm –
+
+
+
+
+
+
+
+
+
+Sau đó giữ đúng cam kết của bạn!
+Contents:
+- Ước tính
+- Đặt mục tiêu thực tế!
+- Source: Image from pixabay.com © 2016
+
+Slide 16:
+Title: Đóng hộp thời gian (Timebox) là gì?
+Contents:
+- Đóng hộp thời gian là một khoảng thời gian cố định, mà khi kết thúc, một mục tiêu đã được đáp ứng.
+
+
+Thời gian có sẵn chi phối công việc được thực hiện
+
+Mục đích của đóng hộp thời gian là tạo ra một thứ gì đó hữu ích
+
+Đóng hộp thời gian tập trung vào sản phẩm, không tập trung vào nhiệm vụ
+
+Slide 17:
+Title: “Những người sáng tạo trong nhiều lĩnh vực cuộc sống đều có một thời hạn.
+Một người viết tạp chí, nhà sản xuất truyền hình hoặc nhà phát triển hội thảo
+tạo ra tài liệu cho một ngày nhất định ...
+
+
+
+
+
+
+... Dù điều gì xảy ra đi nữa,
+họ không được phép thất bại trong việc đáp ứng thời hạn.”
+Contents:
+- James Martin
+- Tư duy cho Đóng hộp thời gian
+- Source: Image from pixabay.com © 2016
+
+Slide 18:
+Title: Kế hoạch Phân phối
+Contents:
+- Source: Image from dsdm.org © 2016
+
+Slide 19:
+Title: Kích thước của Hộp thời gian Phát triển
+Contents:
+- Nó nên lớn đến mức nào?
+
+2 – 6 tuần
+- Source: Image from pixabay.com © 2016
+
+Slide 20:
+Title: Đóng hộp thời gian
+Contents:
+- Nỗ lực ước tính trong ‘Must Haves’ không bao giờ được vượt quá 75% (trừ trong các lần viết lại của các hệ thống đã được tài liệu hóa tốt).
+- Theo nguyên tắc chung, trong các hộp thời gian trong một phần tăng dần:
+
+Slide 21:
+Title: Kế hoạch Phác thảo được tạo trong Khả thi
+Kế hoạch Phân phối được tạo trong Nền tảng, hiển thị các hộp thời gian trong phần tăng dần
+Các Kế hoạch Hộp thời gian hiển thị các hoạt động chi tiết trong các hộp thời gian, để giám sát tiến độ trong các hộp thời gian
+Kế hoạch Triển khai được 'phác thảo' trong Kế hoạch Phác thảo và Phân phối, được tạo trong quá trình Khám phá và Kỹ thuật
+Contents:
+- Lập kế hoạch Dự án
+
+Slide 22:
+Title: Các Kế hoạch Hộp thời gian
+Contents:
+- Source: Image from dsdm.org © 2016
+
+Slide 23:
+Title: Lập kế hoạch Hộp thời gian - một đề xuất
+Contents:
+- Những gì chúng ta cần biết …
+- ID
+- MoSCoW
+- Kích thước
+- Ai
+(Nguồn lực)
+- Phụ thuộc
+- Tên Yêu cầu
+
+Slide 24:
+Title: Tóm tắt – 1
+Contents:
+- Trong buổi học này, chúng ta đã xem xét:
+
+Chúng ta ước tính như thế nào? - Các bài tập trên lớp cho phép chúng ta xem xét cách chúng ta ước tính và tại sao các chuyên gia nên chịu trách nhiệm
+Quy trình ước tính – chúng ta đã xem xét tầm quan trọng của việc trải qua các bước đã định; xem xét các yếu tố ảnh hưởng; làm việc theo nhóm và đảm bảo bạn sử dụng nhiều hơn một phương pháp tiếp cận.
+
+Slide 25:
+Title: Tóm tắt – 2
+Contents:
+- Lập kế hoạch dự án – chúng ta đã xem xét một cách đề xuất để đảm bảo rằng tất cả các yếu tố cần thiết được đề cập trong quá trình lập kế hoạch cho một phần tăng dần mới
+
+Slide 26:
+Title: Chủ đề 11 – Ước tính và Đóng hộp thời gian
+Contents:
+- Có câu hỏi nào không?

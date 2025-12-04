@@ -1,0 +1,300 @@
+Slide 1:
+Title: Agile Development
+Contents:
+- Topic 12:
+Summary and Revision Guidance
+
+Slide 2:
+Title: Topic 12 Coverage
+Contents:
+- This topic will cover:
+Reviewing the key elements of the topics covered including:
+What is Agile?
+What is Waterfall?
+The structure and philosophy of DSDM;
+Practices such as Modelling and Timeboxing.
+
+Slide 3:
+Title: Unit Learning Outcomes
+Contents:
+- By the end of the unit, students will be able to:
+Understand the background to Agile development
+Understand the roles within an Agile development team
+Understand the various Agile development techniques
+Understand an Agile development lifecycle
+Understand the principles associated with an Agile development approach
+Be able to apply an Agile development approach to a particular project scenario
+
+Slide 4:
+Title: .
+Contents:
+- Write down the 7 key concepts of Agile development that you have learnt during this module.
+
+You have 4 minutes.
+- Exercise - My 7 key Concepts of Agile Development…
+
+Slide 5:
+Title: What is Agile? - 1
+Contents:
+- A family of approaches:
+DSDM
+Lean
+FDD
+XP
+Scrum
+… and others
+
+Slide 6:
+Title: What is Agile? - 2
+Contents:
+- Collectively they address:
+Engineering best practices
+Leadership philosophy
+Project management framework
+Development framework
+
+Slide 7:
+Title: The Agile Manifesto
+Contents:
+- “We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:
+
+Individuals and interactions over processes and tools
+Working software over comprehensive documentation
+Customer collaboration over contract negotiation
+Responding to change over following a plan
+That is, while there is value in the items on the right, we value the items on the left more.”
+www.agilemanifesto.org (2001)
+
+Slide 8:
+Title: What is The Waterfall Model?
+Contents:
+- The Waterfall Model is a sequential development model.
+It insists on each stage of the development process to be completed before moving on to the next step.
+
+Slide 9:
+Title: What is DSDM?
+Contents:
+- Dynamic Systems Development Method (DSDM) Agile Project Framework (2014 Onwards)
+Delivers the right solution at the right time
+Any kind of project
+Focused on business benefit
+On-time and in budget
+Quality and rigour
+Incremental
+Collaborative
+
+Slide 10:
+Title: Flexible Requirements
+Contents:
+- © DSDM Consortium 2016
+
+Slide 11:
+Title: The Structure of DSDM
+Contents:
+- Image from dsdm.org © 2016
+
+Slide 12:
+Title: .
+Contents:
+- Get into groups of 4
+You have 10 mins to come up with 10 questions to ask the other groups
+The questions should be atomic, not a combined question, and should have just one answer
+- Group Exercise - Why is DSDM a robust and well-defined Agile approach?
+
+Slide 13:
+Title: The Philosophy
+Contents:
+- must be aligned to clearly defined strategic goals
+must focus upon early delivery of real benefits to the business
+- Any project …
+- © DSDM Consortium 2016
+
+Slide 14:
+Title: The 8 Principles of DSDM
+Contents:
+- 1. Focus on business need
+- 2. Deliver on time
+- 3. Collaborate
+- 4. Never compromise of quality
+- 5. Build incrementally from firm foundations
+- 6. Develop iteratively
+- 7. Communicate continuously and clearly
+- 8. Demonstrate control
+- © DSDM Consortium 2016
+
+Slide 15:
+Title: The DSDM Lifecycle
+Contents:
+- © DSDM Consortium 2016
+
+Slide 16:
+Title: Team Roles and Responsibilities
+Contents:
+- Project team:
+Project Manager
+Business Sponsor
+Technical Co-Ordinator
+Business Visionary
+Team Leader
+Solution Development Team:
+Business Ambassador
+Solution Developer
+Business Analyst
+Solution Tester
+External Support:
+Business Advisor
+Workshop Facilitator
+- Source: Image from dsdm.org © 2016
+
+Slide 17:
+Title: Product Overview
+Contents:
+- Source: Image from dsdm.org © 2016
+- Orange = Business focused,
+Green = elements that contribute to the Solution
+Blue =  Project management/ control interests.
+Products with a  ‘G’ may also play a part in governance processes
+
+Slide 18:
+Title: DSDM - 5 Key Techniques
+Contents:
+- MoSCoW Prioritisation
+
+Modelling
+
+Facilitated Workshops
+
+Iterative Development
+
+Timeboxing
+- © DSDM Consortium 2016
+
+Slide 19:
+Title: Prioritisation
+Contents:
+- DSDM uses the MoSCoW prioritisation model.
+
+Concentrating approximately 60% of the project on the ‘Must Have’ requirements, and around 20% on the ‘Could Have’ requirements.
+- © DSDM Consortium 2016
+
+Slide 20:
+Title: Practices: Modelling
+Contents:
+- Many industries use models (and prototypes) to:
+establish requirements
+confirm expectations
+test the achievability of objectives
+
+Examples of models:
+storyboards
+diagrams
+scale models (prototypes)
+working software (prototypes)
+
+Slide 21:
+Title: What is a Facilitated Workshop?
+Contents:
+- A place where a specific job is done,
+and a product produced.
+
+A team-based information gathering and decision making technique
+
+Interactive communication
+Empowered personnel
+Independent facilitator
+
+Slide 22:
+Title: Iterative Development
+Contents:
+- This is a key technique to evolve
+
+from a high level idea
+
+to a delivered product
+
+incrementally
+- Source: Image from pixabay.com © 2016 and dsdm.org © 2016
+
+Slide 23:
+Title: Timebox Plans
+Contents:
+- Source: Image from dsdm.org © 2016
+
+Slide 24:
+Title: What is a Timebox?
+Contents:
+- A timebox is a fixed period of time, at the end of which an objective has been met.
+
+The time available dictates work done
+
+The aim of a timebox is to make something useful
+
+A timebox is product-focused, not task-focused
+
+Slide 25:
+Title: Further Guidance: DSDM
+Contents:
+
+Slide 26:
+Title: Agile Project Management
+Contents:
+- Major Planning Issues
+Part 1:
+Control
+Risk
+Part 2:
+Configuration Management
+Quality
+Testing
+Metrics
+Maintainability
+
+Slide 27:
+Title: What is Quality?
+Contents:
+- “Fitness for Purpose”
+- Solution
+Quality
+- Process Quality
+
+Slide 28:
+Title: What is a Requirement?
+Contents:
+- In simple terms, a requirement is a:
+
+Feature
+Function
+Service
+Constraint
+
+Slide 29:
+Title: Agree to what you believe you can do –
+
+
+
+
+
+
+
+
+
+Then honour your commitments!
+Contents:
+- Estimating
+- Set realistic objectives!
+- Source: Image from pixabay.com © 2016
+
+Slide 30:
+Title: Summary
+Contents:
+- The Agile Development unit has:
+
+Provided an introduction to the principles, people, processes and practices of Agile development
+Prepared students for future trends in software development practices
+Reinforced understanding of the information systems development process
+
+Slide 31:
+Title: Topic 12 – Unit Summary
+Contents:
+- Any Questions?
+

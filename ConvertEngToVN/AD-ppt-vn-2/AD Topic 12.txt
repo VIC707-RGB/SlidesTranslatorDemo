@@ -1,0 +1,305 @@
+Slide 1:
+Title: Phát triển Linh hoạt (Agile Development)
+Contents:
+- Chủ đề 12:
+Tóm tắt và Hướng dẫn Ôn tập
+
+Slide 2:
+Title: Nội dung bao quát Chủ đề 12
+Contents:
+- Chủ đề này sẽ bao gồm:
+Xem xét các yếu tố chính của các chủ đề đã được đề cập, bao gồm:
+Agile là gì?
+Mô hình Thác nước (Waterfall) là gì?
+Cấu trúc và triết lý của DSDM;
+Các thực hành như Mô hình hóa và Đóng hộp thời gian.
+
+Slide 3:
+Title: Kết quả Học tập của Học phần
+Contents:
+- Khi kết thúc học phần, sinh viên sẽ có khả năng:
+Hiểu bối cảnh của phát triển Agile
+Hiểu các vai trò trong một nhóm phát triển Agile
+Hiểu các kỹ thuật phát triển Agile khác nhau
+Hiểu vòng đời phát triển Agile
+Hiểu các nguyên tắc liên quan đến phương pháp tiếp cận phát triển Agile
+Có khả năng áp dụng phương pháp tiếp cận phát triển Agile vào một kịch bản dự án cụ thể
+
+Slide 4:
+Title: .
+Contents:
+- Viết ra 7 khái niệm chính của phát triển Agile mà bạn đã học được trong học phần này.
+
+Bạn có 4 phút.
+- Bài tập - 7 Khái niệm chính của Phát triển Agile của tôi…
+
+Slide 5:
+Title: Agile là gì? - 1
+Contents:
+- Một tập hợp các phương pháp tiếp cận:
+DSDM
+Lean
+FDD
+XP
+Scrum
+… và các phương pháp khác
+
+Slide 6:
+Title: Agile là gì? - 2
+Contents:
+- Chung quy lại chúng đề cập đến:
+Các thực hành kỹ thuật tốt nhất
+Triết lý lãnh đạo
+Khuôn khổ quản lý dự án
+Khuôn khổ phát triển
+
+Slide 7:
+Title: Tuyên ngôn Agile
+Contents:
+- “Chúng tôi đang khám phá ra những cách tốt hơn để phát triển phần mềm bằng cách thực hiện và giúp đỡ người khác thực hiện. Thông qua công việc này, chúng tôi đã đi đến việc coi trọng:
+
+Cá nhân và sự tương tác hơn là quy trình và công cụ
+Phần mềm hoạt động tốt hơn là tài liệu toàn diện
+Cộng tác với khách hàng hơn là đàm phán hợp đồng
+Phản hồi với thay đổi hơn là tuân thủ một kế hoạch
+Nghĩa là, mặc dù các mục bên phải có giá trị, chúng tôi coi trọng các mục bên trái hơn.”
+www.agilemanifesto.org (2001)
+
+Slide 8:
+Title: Mô hình Thác nước (The Waterfall Model) là gì?
+Contents:
+- Mô hình Thác nước là một mô hình phát triển tuần tự.
+Nó yêu cầu mỗi giai đoạn của quá trình phát triển phải được hoàn thành trước khi chuyển sang bước tiếp theo.
+
+Slide 9:
+Title: DSDM là gì?
+Contents:
+- Khuôn khổ Dự án Agile Phương pháp Phát triển Hệ thống Động (DSDM) (Từ năm 2014 trở đi)
+Cung cấp giải pháp phù hợp vào đúng thời điểm
+Bất kỳ loại dự án nào
+Tập trung vào lợi ích kinh doanh
+Đúng thời hạn và trong ngân sách
+Chất lượng và sự nghiêm ngặt
+Tăng dần
+Cộng tác
+
+Slide 10:
+Title: Yêu cầu Linh hoạt
+Contents:
+- © DSDM Consortium 2016
+
+Slide 11:
+Title: Cấu trúc của DSDM
+Contents:
+- Image from dsdm.org © 2016 
+
+[Image of the structure of DSDM]
+
+
+Slide 12:
+Title: .
+Contents:
+- Chia thành các nhóm 4 người
+Bạn có 10 phút để đưa ra 10 câu hỏi để hỏi các nhóm khác
+Các câu hỏi nên là câu đơn, không phải câu hỏi kết hợp, và chỉ nên có một câu trả lời
+- Bài tập Nhóm - Tại sao DSDM là một phương pháp tiếp cận Agile vững chắc và được xác định rõ ràng?
+
+Slide 13:
+Title: Triết lý
+Contents:
+- phải phù hợp với các mục tiêu chiến lược được xác định rõ ràng
+phải tập trung vào việc cung cấp sớm các lợi ích thực tế cho doanh nghiệp
+- Bất kỳ dự án nào …
+- © DSDM Consortium 2016
+
+Slide 14:
+Title: 8 Nguyên tắc của DSDM
+Contents:
+- 1. Tập trung vào nhu cầu kinh doanh
+- 2. Phân phối đúng thời hạn
+- 3. Cộng tác
+- 4. Không bao giờ thỏa hiệp về chất lượng
+- 5. Xây dựng tăng dần từ nền tảng vững chắc
+- 6. Phát triển lặp đi lặp lại
+- 7. Giao tiếp liên tục và rõ ràng
+- 8. Chứng minh quyền kiểm soát
+- © DSDM Consortium 2016
+
+Slide 15:
+Title: Vòng đời DSDM
+Contents:
+- © DSDM Consortium 2016 
+
+[Image of the DSDM process]
+
+
+Slide 16:
+Title: Vai trò và Trách nhiệm của Nhóm
+Contents:
+- Nhóm Dự án:
+Quản lý Dự án
+Nhà tài trợ Kinh doanh
+Điều phối viên Kỹ thuật
+Người có Tầm nhìn Kinh doanh
+Trưởng nhóm
+Nhóm Phát triển Giải pháp:
+Đại sứ Kinh doanh
+Nhà phát triển Giải pháp
+Nhà phân tích Kinh doanh
+Người kiểm thử Giải pháp
+Hỗ trợ Bên ngoài:
+Cố vấn Kinh doanh
+Người điều phối Hội thảo
+- Source: Image from dsdm.org © 2016 
+
+Slide 17:
+Title: Tổng quan về Sản phẩm
+Contents:
+- Source: Image from dsdm.org © 2016 [Image illustrating the structure of DSDM Lifecycle Products]
+- Màu Cam = Tập trung vào Kinh doanh,
+Màu Xanh lá = Các yếu tố đóng góp vào Giải pháp
+Màu Xanh dương = Quan tâm đến quản lý/kiểm soát Dự án.
+Các Sản phẩm có chữ ‘G’ cũng có thể đóng vai trò trong các quy trình quản trị
+
+Slide 18:
+Title: DSDM - 5 Kỹ thuật Chính
+Contents:
+- Ưu tiên MoSCoW
+
+Mô hình hóa
+
+Các Hội thảo có Người điều phối
+
+Phát triển Lặp lại
+
+Đóng hộp thời gian
+- © DSDM Consortium 2016
+
+Slide 19:
+Title: Ưu tiên hóa
+Contents:
+- DSDM sử dụng mô hình ưu tiên MoSCoW.
+
+Tập trung khoảng 60% dự án vào các yêu cầu ‘Must Have’ (Phải có), và khoảng 20% vào các yêu cầu ‘Could Have’ (Có thể có).
+- © DSDM Consortium 2016
+
+Slide 20:
+Title: Các Thực hành: Mô hình hóa
+Contents:
+- Nhiều ngành công nghiệp sử dụng các mô hình (và bản mẫu) để:
+thiết lập yêu cầu
+xác nhận kỳ vọng
+kiểm tra khả năng đạt được mục tiêu
+
+Các ví dụ về mô hình:
+bảng phân cảnh (storyboards)
+sơ đồ
+mô hình tỷ lệ (bản mẫu)
+phần mềm hoạt động (bản mẫu)
+
+Slide 21:
+Title: Hội thảo có Người điều phối là gì?
+Contents:
+- Là nơi một công việc cụ thể được thực hiện,
+và một sản phẩm được tạo ra.
+
+Là một kỹ thuật thu thập thông tin và ra quyết định dựa trên nhóm
+
+Giao tiếp tương tác
+Nhân sự được trao quyền
+Người điều phối độc lập
+
+Slide 22:
+Title: Phát triển Lặp lại
+Contents:
+- Đây là một kỹ thuật chính để phát triển
+
+từ một ý tưởng cấp cao
+
+thành một sản phẩm được bàn giao
+
+tăng dần
+- Source: Image from pixabay.com © 2016 and dsdm.org © 2016
+
+Slide 23:
+Title: Các Kế hoạch Hộp thời gian
+Contents:
+- Source: Image from dsdm.org © 2016
+
+Slide 24:
+Title: Đóng hộp thời gian là gì?
+Contents:
+- Đóng hộp thời gian là một khoảng thời gian cố định, mà khi kết thúc, một mục tiêu đã được đáp ứng.
+
+Thời gian có sẵn chi phối công việc được thực hiện
+
+Mục đích của đóng hộp thời gian là tạo ra một thứ gì đó hữu ích
+
+Đóng hộp thời gian tập trung vào sản phẩm, không tập trung vào nhiệm vụ
+
+Slide 25:
+Title: Hướng dẫn Thêm: DSDM
+Contents:
+
+Slide 26:
+Title: Quản lý Dự án Agile
+Contents:
+- Các Vấn đề Lập kế hoạch Chính
+Phần 1:
+Kiểm soát
+Rủi ro
+Phần 2:
+Quản lý Cấu hình
+Chất lượng
+Kiểm thử
+Số liệu (Metrics)
+Khả năng bảo trì
+
+Slide 27:
+Title: Chất lượng là gì?
+Contents:
+- “Phù hợp với Mục đích” (Fitness for Purpose)
+- Chất lượng
+Giải pháp
+- Chất lượng Quy trình
+
+Slide 28:
+Title: Yêu cầu là gì?
+Contents:
+- Nói một cách đơn giản, yêu cầu là một:
+
+Tính năng
+Chức năng
+Dịch vụ
+Ràng buộc
+
+Slide 29:
+Title: Đồng ý với những gì bạn tin rằng mình có thể làm –
+
+
+
+
+
+
+
+
+
+Sau đó giữ đúng cam kết của bạn!
+Contents:
+- Ước tính
+- Đặt mục tiêu thực tế!
+- Source: Image from pixabay.com © 2016
+
+Slide 30:
+Title: Tóm tắt
+Contents:
+- Học phần Phát triển Agile đã:
+
+Cung cấp phần giới thiệu về các nguyên tắc, con người, quy trình và thực hành của phát triển Agile
+Chuẩn bị cho sinh viên các xu hướng tương lai trong các thực hành phát triển phần mềm
+Củng cố sự hiểu biết về quy trình phát triển hệ thống thông tin
+
+Slide 31:
+Title: Chủ đề 12 – Tóm tắt Học phần
+Contents:
+- Có câu hỏi nào không?

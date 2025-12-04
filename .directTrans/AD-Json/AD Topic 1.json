@@ -1,0 +1,313 @@
+{
+  "Slide 1": {
+    "Title": "Phát triển linh hoạt",
+    "Contents": [
+      "Chủ đề 1:",
+      "Giới thiệu về Đơn vị và Tổng quan về Agile",
+      ""
+    ]
+  },
+  "Slide 2": {
+    "Title": "Chủ đề 1: Bảo hiểm",
+    "Contents": [
+      "Chủ đề đầu tiên này là phần giới thiệu về phần còn lại của bài học. Nó sẽ:",
+      "",
+      "Giới thiệu về cấu trúc và nội dung của đơn vị Phát triển Agile;",
+      "Đưa ra mục tiêu, phạm vi và phạm vi bao phủ của đơn vị;",
+      "Giới thiệu lịch sử và các khái niệm chính của Agile, so sánh với phương pháp tiếp cận thác nước;",
+      "Hiển thị cấu trúc của DSDM.",
+      ""
+    ]
+  },
+  "Slide 3": {
+    "Title": "Chủ đề 1: Chương trình nghị sự",
+    "Contents": [
+      "Trong bài giảng này, chúng tôi sẽ đề cập đến:",
+      "",
+      "Phạm vi của đơn vị Phát triển Agile",
+      "Agile là gì?",
+      "Chủ đề nền tảng",
+      "Thác nước là gì?",
+      "DSDM là gì?",
+      "Nhiệm vụ tự học và tự học",
+      "Đề xuất đọc",
+      ""
+    ]
+  },
+  "Slide 4": {
+    "Title": "Phạm vi và phạm vi bảo hiểm của đơn vị",
+    "Contents": [
+      "Đơn vị Phát triển Agile sẽ:",
+      "",
+      "Cung cấp phần giới thiệu về các nguyên tắc, con người, quy trình và thực tiễn phát triển Agile;",
+      "Chuẩn bị cho sinh viên những xu hướng tương lai trong thực hành phát triển phần mềm;",
+      "Củng cố sự hiểu biết về quá trình phát triển hệ thống thông tin.",
+      ""
+    ]
+  },
+  "Slide 5": {
+    "Title": "Mục tiêu đơn vị",
+    "Contents": [
+      "Đơn vị Phát triển Agile sẽ:",
+      "",
+      "Giới thiệu Phát triển Agile;",
+      "Cung cấp sự hiểu biết cơ bản về các khái niệm và thuật ngữ chính của Agile;",
+      "Cung cấp đủ hiểu biết về vòng đời, khuôn khổ, kỹ thuật để trang bị cho sinh viên làm việc trong nhóm Agile.",
+      ""
+    ]
+  },
+  "Slide 6": {
+    "Title": "Kết quả học tập của đơn vị – 1",
+    "Contents": [
+      "Khi kết thúc đơn vị Phát triển Agile, sinh viên sẽ có thể:",
+      "",
+      "Hiểu nền tảng của phát triển Agile;",
+      "Hiểu các vai trò trong nhóm phát triển Agile;",
+      "Hiểu các kỹ thuật phát triển Agile khác nhau;",
+      "Hiểu vòng đời phát triển Agile;",
+      ""
+    ]
+  },
+  "Slide 7": {
+    "Title": "Kết quả học tập của đơn vị – 2",
+    "Contents": [
+      "Hiểu các nguyên tắc liên quan đến phương pháp phát triển Agile;",
+      "Có thể áp dụng phương pháp phát triển Agile vào một kịch bản dự án cụ thể.",
+      ""
+    ]
+  },
+  "Slide 8": {
+    "Title": "Cấu trúc của đơn vị",
+    "Contents": [
+      "Những điểm chính cần xem xét là:",
+      "Các bài giảng và hội thảo sẽ cung cấp cho bạn những kiến ​​thức nền tảng mà bạn cần;",
+      "Bạn nên nêu ra bất kỳ câu hỏi nào bạn có khi chúng nảy sinh tại các bài giảng và hội thảo;",
+      "Bạn sẽ được giao nhiệm vụ tự học để hoàn thành cho từng chủ đề;",
+      "Bạn được khuyến khích làm việc cùng nhau như một nhóm để hỗ trợ và giúp đỡ lẫn nhau.",
+      ""
+    ]
+  },
+  "Slide 9": {
+    "Title": "Chủ đề - 1",
+    "Contents": [
+      "Giới thiệu đơn vị và Tổng quan về Agile",
+      "Phương pháp tiếp cận và nguyên tắc Agile",
+      "Làm người mẫu",
+      "Vai trò, Kỹ năng và Cơ cấu Nhóm",
+      "Vòng đời và sản phẩm",
+      "Những cân nhắc về quản lý dự án (Phần 1)",
+      ""
+    ]
+  },
+  "Slide 10": {
+    "Title": "Chủ đề - 2",
+    "Contents": [
+      "Những cân nhắc về quản lý dự án (Phần 2)",
+      "Hội thảo được hỗ trợ",
+      "Xác định yêu cầu và ưu tiên",
+      "Phát triển và tạo mẫu",
+      "Ước tính và Thời gian",
+      "Hướng dẫn tóm tắt và sửa đổi bài học",
+      "",
+      "Mỗi chủ đề thường có 2 giờ giảng và 3 giờ hội thảo, sau đó là thời gian học riêng.",
+      ""
+    ]
+  },
+  "Slide 11": {
+    "Title": "Đánh giá đơn vị",
+    "Contents": [
+      "Đơn vị này được đánh giá bằng một bài tập. Bạn nên lên kế hoạch dành khoảng 8 giờ để làm bài tập của mình. Bạn sẽ làm việc đó trong khi học bài này. Bài tập có giá trị 100% tổng số điểm của bạn cho đơn vị.",
+      ""
+    ]
+  },
+  "Slide 12": {
+    "Title": "Bài tập 1",
+    "Contents": [
+      "Viết ra NĂM (5) từ mà bạn nghĩ mô tả Phát triển Agile.",
+      ""
+    ]
+  },
+  "Slide 13": {
+    "Title": "Chủ đề nền tảng của Agile",
+    "Contents": [
+      "Những điểm chính cần xem xét là:",
+      "",
+      "Sự tham gia của người dùng",
+      "Phát triển lặp lại",
+      "Phát triển gia tăng",
+      "Linh hoạt để đón nhận sự thay đổi",
+      "Ưu tiên",
+      "Hợp tác làm việc",
+      ""
+    ]
+  },
+  "Slide 14": {
+    "Title": "Agile là gì? - 1",
+    "Contents": [
+      "Có một nhóm các cách tiếp cận:",
+      "",
+      "DSDM",
+      "Độ nghiêng",
+      "FDD",
+      "XP",
+      "Scrum",
+      "… và những người khác",
+      ""
+    ]
+  },
+  "Slide 15": {
+    "Title": "Agile là gì? - 2",
+    "Contents": [
+      "Nói chung, họ giải quyết:",
+      "",
+      "Thực tiễn tốt nhất về kỹ thuật",
+      "Triết lý lãnh đạo",
+      "Khung quản lý dự án",
+      "Khung phát triển",
+      ""
+    ]
+  },
+  "Slide 16": {
+    "Title": "Tuyên ngôn Agile – 1",
+    "Contents": [
+      "‘Chúng tôi đang khám phá những cách phát triển phần mềm tốt hơn bằng cách thực hiện nó và giúp đỡ những người khác làm điều đó. \u000bThông qua công việc này, chúng tôi đã đạt được giá trị:",
+      "",
+      "Các cá nhân và sự tương tác qua các quy trình và công cụ",
+      "Phần mềm làm việc trên tài liệu toàn diện",
+      "Hợp tác của khách hàng thông qua đàm phán hợp đồng",
+      ""
+    ]
+  },
+  "Slide 17": {
+    "Title": "Tuyên ngôn Agile – 2",
+    "Contents": [
+      "Đáp lại sự thay đổi theo kế hoạch.",
+      "",
+      "Nghĩa là, mặc dù những món đồ ở bên phải có giá trị nhưng chúng tôi lại coi trọng những món đồ ở bên trái hơn”.",
+      "",
+      "",
+      "",
+      "",
+      "Nguồn: www.agilemanifesto.org (2001)",
+      ""
+    ]
+  },
+  "Slide 18": {
+    "Title": "Agile đến từ đâu?",
+    "Contents": [
+      "Năm 1956, Herbert D Benington đã mô tả quá trình phát triển tại hội nghị về các phương pháp lập trình nâng cao cho máy tính kỹ thuật số. Năm 1970, Winston Royce viết một bài báo có tựa đề: “Quản lý sự phát triển của các hệ thống phần mềm lớn”.",
+      "",
+      "Những ý tưởng này đã hình thành nên nền tảng của cái mà chúng ta gọi là Mô hình Thác nước. Phát triển Agile sử dụng các giai đoạn từ Mô hình thác nước nhưng giải quyết những bất cập của nó.",
+      ""
+    ]
+  },
+  "Slide 19": {
+    "Title": "Mô hình thác nước là gì?",
+    "Contents": [
+      "Mô hình thác nước là mô hình phát triển tuần tự. Nó nhấn mạnh vào từng giai đoạn của quá trình phát triển phải được hoàn thành trước khi chuyển sang bước tiếp theo.",
+      ""
+    ]
+  },
+  "Slide 20": {
+    "Title": "Agile là lặp đi lặp lại, tăng dần, tiến hóa",
+    "Contents": [
+      ""
+    ]
+  },
+  "Slide 21": {
+    "Title": "Ưu điểm của phát triển Agile",
+    "Contents": [
+      "Phát triển linh hoạt",
+      "Thuận lợi",
+      "Nhanh",
+      "Hiệu quả",
+      "Tập trung",
+      "Năng động",
+      "Người dùng làm trung tâm",
+      "Tối ưu hóa",
+      ""
+    ]
+  },
+  "Slide 22": {
+    "Title": "DSDM là gì?",
+    "Contents": [
+      "Khung dự án Agile Phương pháp phát triển hệ thống động (DSDM) (2014 trở đi)",
+      "",
+      "Đó là Khung phân phối dự án Agile cung cấp giải pháp phù hợp vào đúng thời điểm. Nó có thể áp dụng cho bất kỳ loại dự án nào. Các đặc điểm chính là:",
+      "",
+      "Tập trung vào lợi ích kinh doanh;",
+      "Đúng thời gian và trong ngân sách;",
+      "Chất lượng và sự nghiêm ngặt;",
+      "Tăng dần và hợp tác.",
+      ""
+    ]
+  },
+  "Slide 23": {
+    "Title": "DSDM khác nhau như thế nào?",
+    "Contents": [
+      "Cách tiếp cận truyền thống",
+      "Phương pháp tiếp cận DSDM",
+      "Nguồn: Hình ảnh từ dsdm.org © 2016",
+      ""
+    ]
+  },
+  "Slide 24": {
+    "Title": "Cấu trúc của DSDM",
+    "Contents": [
+      "Nguồn: Hình ảnh từ dsdm.org © 2016",
+      ""
+    ]
+  },
+  "Slide 25": {
+    "Title": "Quy trình",
+    "Contents": [
+      "Nguồn: Hình ảnh từ dsdm.org © 2016",
+      ""
+    ]
+  },
+  "Slide 26": {
+    "Title": "Tóm tắt nội dung chủ đề 1",
+    "Contents": [
+      "Chủ đề đầu tiên này có:",
+      "Giới thiệu về cấu trúc và nội dung của đơn vị Phát triển Agile;",
+      "Căn cứ vào mục tiêu, phạm vi và phạm vi hoạt động của đơn vị;",
+      "Giới thiệu lịch sử và các khái niệm chính của Agile, so sánh với phương pháp tiếp cận thác nước;",
+      "Hiển thị cấu trúc và quy trình của DSDM Agile Project Framework 2014",
+      ""
+    ]
+  },
+  "Slide 27": {
+    "Title": "Nhiệm vụ tự học – 1",
+    "Contents": [
+      "Bài tập 1: Làm quen với DSDM",
+      "Bạn nên tận dụng cơ hội để làm quen với DSDM.  Nghiên cứu quá trình chi tiết hơn.  Tìm ít nhất MỘT (1) nghiên cứu điển hình ghi lại cách áp dụng nó và ghi chú liên quan đến những gì bạn thấy là lợi ích.",
+      "",
+      ".",
+      ""
+    ]
+  },
+  "Slide 28": {
+    "Title": "Nhiệm vụ tự học – 2",
+    "Contents": [
+      "Bài tập 2: Nghiên cứu",
+      "Làm việc theo cặp hoặc nhóm nhỏ (tối đa 3) để hoàn thành nhiệm vụ này.",
+      "Tập trung nghiên cứu các hướng tiếp cận sau; Scrum, FDD, Lean và XP. Những điều này đã được giới thiệu trong bài giảng này. Bạn cũng nên viết một bản tóm tắt 50-100 từ về từng phương pháp bằng lời của mình, sẵn sàng để thảo luận tại buổi hội thảo về chủ đề này.",
+      ""
+    ]
+  },
+  "Slide 29": {
+    "Title": "Danh sách đọc được đề xuất",
+    "Contents": [
+      "Khung dự án Agile DSDM. (2014). Cẩm nang Khung dự án Agile DSDM (2014 trở đi). Hiệp hội DSDM https://www.dsdm.org/resources/dsdm-handbooks/the-dsdm-agile-project-framework-2014-onwards (Truy cập lần cuối vào ngày 13 tháng 9 năm 2016)",
+      "Hiệp hội DSDM. (2008). Sổ tay DSDM Atern. Phiên bản thứ 2. Hiệp hội DSDM https://www.dsdm.org/resources/dsdm-handbooks/dsdm-atern-handbook-2008 (Truy cập lần cuối vào ngày 13 tháng 9 năm 2016)",
+      ""
+    ]
+  },
+  "Slide 30": {
+    "Title": "Chủ đề 1 – Giới thiệu bài và Tổng quan về Agile",
+    "Contents": [
+      "Có câu hỏi nào không?",
+      ""
+    ]
+  }
+}

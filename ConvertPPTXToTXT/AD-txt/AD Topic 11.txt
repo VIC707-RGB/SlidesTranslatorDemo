@@ -1,0 +1,161 @@
+Slide 1:
+Title: Agile Development
+Contents:
+- Topic 11: Estimating and Timeboxing
+
+Slide 2:
+Title: Topic 11 Coverage
+Contents:
+- This topic will cover:How do we estimate?The estimating processEstimating in the DSDM LifecycleWhat is a timebox?Planning the project
+
+Slide 3:
+Title: DSDM - 5 Key Techniques
+Contents:
+- MoSCoW Prioritisation Modelling Facilitated Workshops Iterative Development Timeboxing
+- Source: Image from dsdm.org © 2016
+
+Slide 4:
+Title: Do this individually, with no discussion ...Estimate how long it would take for you to build me a wall.
+Contents:
+- Group Exercise - Estimating
+- Source: Image from pixabay.com © 2016
+
+Slide 5:
+Title: Group Exercise - Estimating
+Contents:
+- Source: Image from pixabay.com © 2016
+- What did you have in mind?
+
+Slide 6:
+Title: Do this individually, with no discussion.Estimate how long it would take for me to drive from…
+Contents:
+- Group Exercise 2 - Estimating
+- Source: Image from pixabay.com © 2016
+
+Slide 7:
+Title: The Estimating Process
+Contents:
+- There are a number of distinct steps:Estimate the effort requiredAdjust the effort for environmental factorsIdentify the products and their inter-dependenciesSchedule the product deliveries and allocate resourceAdjust the schedule in the light of known constraints
+- Source: Image from pixabay.com © 2016
+
+Slide 8:
+Title: Factors Affecting an Estimate
+Contents:
+- Size of task Complexity  Quality required Productivity of people Availability of resource Experience of people
+- Source: Image from pixabay.com © 2016
+
+Slide 9:
+Title: Who Estimates?
+Contents:
+- The team estimates!
+- Source: Image from pixabay.com © 2016
+
+Slide 10:
+Title: The Estimating Approaches - 1
+Contents:
+- Estimating approaches can be both top-down or bottom up and may include:  Task based  Product based  Algorithmic  Non-algorithmic  Analogy  Expert judgement  Standard ratios
+
+Slide 11:
+Title: The Estimating Approaches - 2
+Contents:
+- There are many different ways to identify estimates.  It is important to use more than one approach, and often will require many combined approaches to identify realistic estimates.
+
+Slide 12:
+Title: Why Are Estimates Wrong?
+Contents:
+- Inexperience of estimating Doing something that has not been done before Inadequate techniques Optimistic assumptions  Wrong person making estimates Lack of informationEstimates can be wrong by a small margin, but if they are not approached effectively there could be a large margin of error.
+
+Slide 13:
+Title: Estimates Improve
+Contents:
+- Source: Image from dsdm.org © 2016
+
+Slide 14:
+Title: Estimating in the DSDM Lifecycle
+Contents:
+- Outline Plan
+- Delivery Plan
+- Timebox Plan(s)
+- More
+- RequirementDetail
+- Estimate Accuracy
+- Less
+- More
+- Less
+- Typically <10requirements
+- Typically <100requirements
+- Typically >100requirements
+- Source: Image from dsdm.org © 2016
+
+Slide 15:
+Title: Agree to what you believe you can do –Then honour your commitments!
+Contents:
+- Estimating
+- Set realistic objectives!
+- Source: Image from pixabay.com © 2016
+
+Slide 16:
+Title: What is a Timebox?
+Contents:
+- A timebox is a fixed period of time, at the end of which an objective has been met.The time available dictates work doneThe aim of a timebox is to make something usefulA timebox is product-focused, not task-focused
+
+Slide 17:
+Title: “Creative people in many walks of life have a deadline.  A magazine writer, television producer or seminar developer creates material for a certain date ...  ... Whatever else happens,they must not fail to meet the deadline.”
+Contents:
+- James Martin
+- The Mindset for Timeboxing
+- Source: Image from pixabay.com © 2016
+
+Slide 18:
+Title: The Delivery Plan
+Contents:
+- Source: Image from dsdm.org © 2016
+
+Slide 19:
+Title: Size of a Development Timebox
+Contents:
+- How large should it be?2 – 6 weeks
+- Source: Image from pixabay.com © 2016
+
+Slide 20:
+Title: Timeboxing
+Contents:
+- The estimated effort in the ‘Must Haves’ should never be above 75% (except in rewrites of well-documented systems).
+- As a rule of thumb, within timeboxes within an increment:
+
+Slide 21:
+Title: Outline Plan created in FeasibilityDelivery Plan created in Foundations, showing timeboxes within the incrementTimebox Plans showing detailed activities within timeboxes, to monitor progress within timeboxesDeployment Plan ‘outlined’ in Outline and Delivery Plans, created during Exploration and Engineering
+Contents:
+- Planning The Project
+
+Slide 22:
+Title: Timebox Plans
+Contents:
+- Source: Image from dsdm.org © 2016
+
+Slide 23:
+Title: Timebox Planning - a suggestion
+Contents:
+- What we need to know …
+- ID
+- MoSCoW
+- Size
+- Who (Resources)
+- Dependency
+- Requirement Name
+
+Slide 24:
+Title: Summary – 1
+Contents:
+- In this lecture, we looked at:How do we estimate? - The class exercises allowed us to consider how we estimate and why experts should be responsibleThe estimating process – we looked at how it is important to go through set steps; consider the affecting factors; work on them as a team and to ensure you use more than one approach.
+
+Slide 25:
+Title: Summary – 2
+Contents:
+- Planning the project – we looked at a suggested way to ensure that all the elements necessary are covered during the planning for a new increment
+
+Slide 26:
+Title: Topic 11 – Estimating and Timeboxing
+Contents:
+- Any Questions?
+

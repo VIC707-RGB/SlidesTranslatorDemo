@@ -1,0 +1,240 @@
+{
+  "Slide 1": {
+    "Title": "Phát triển linh hoạt",
+    "Contents": [
+      "Chủ đề 3:",
+      "Làm người mẫu",
+      ""
+    ]
+  },
+  "Slide 2": {
+    "Title": "Nội dung chủ đề 3",
+    "Contents": [
+      "Chủ đề này sẽ bao gồm:",
+      "Ý nghĩa và ví dụ về mô hình hóa;",
+      "Quan điểm mô hình hóa;",
+      "Lập mô hình trong vòng đời;",
+      "Lời khuyên về mô hình hóa.",
+      ""
+    ]
+  },
+  "Slide 3": {
+    "Title": "DSDM - 5 kỹ thuật chính",
+    "Contents": [
+      "Ưu tiên MoSCoW",
+      "",
+      "Làm người mẫu",
+      "",
+      "Hội thảo được hỗ trợ",
+      "",
+      "Phát triển lặp lại",
+      "",
+      "Hộp thời gian",
+      "Nguồn: Hình ảnh từ dsdm.org © 2016",
+      ""
+    ]
+  },
+  "Slide 4": {
+    "Title": "Một mô hình thường là một sơ đồ. Vậy bạn biết/sử dụng sơ đồ nào trong một dự án phát triển?",
+    "Contents": [
+      "Bài tập 1",
+      ""
+    ]
+  },
+  "Slide 5": {
+    "Title": "Mô hình là gì? - 1",
+    "Contents": [
+      "Một mô hình là:",
+      "",
+      "Mô tả hoặc so sánh (để giúp hình dung điều gì đó không thể quan sát trực tiếp);",
+      "Một bản sao nhỏ nhưng chính xác của một mặt hàng hoặc sản phẩm;",
+      "Một mẫu hoặc hình của một vật phẩm hoặc sản phẩm sẽ được tạo ra.",
+      ""
+    ]
+  },
+  "Slide 6": {
+    "Title": "Mô hình là gì? - 2",
+    "Contents": [
+      "Nhiều ngành sử dụng mô hình (và nguyên mẫu) để thiết lập các yêu cầu, xác nhận kỳ vọng và kiểm tra khả năng đạt được mục tiêu. Ví dụ về các mô hình bao gồm: bảng phân cảnh; sơ đồ; mô hình quy mô (nguyên mẫu); và phần mềm làm việc (nguyên mẫu).",
+      ""
+    ]
+  },
+  "Slide 7": {
+    "Title": "Quan điểm mô hình hóa",
+    "Contents": [
+      "CÁI GÌ – Thông tin",
+      "CÁCH – Các chức năng, tính năng và quy trình",
+      "WHERE – Địa điểm nơi doanh nghiệp hoạt động",
+      "WHO – Con người: khách hàng, người dùng, các bên liên quan",
+      "KHI NÀO –Các sự kiện quan trọng (thời gian và lịch trình)",
+      "TẠI SAO – Mục tiêu và chiến lược kinh doanh",
+      "Nguồn: Hình ảnh từ dsdm.org © 2016",
+      ""
+    ]
+  },
+  "Slide 8": {
+    "Title": "Mô hình hóa – Góc nhìn người dùng",
+    "Contents": [
+      "KHI:",
+      "Sự kiện hệ thống",
+      "CÁI GÌ:",
+      "Dữ liệu và",
+      "Mối quan hệ",
+      "LÀM SAO:",
+      "Quy trình, đầu vào, đầu ra",
+      "Công nghệ có thể có cái riêng của nó:",
+      "CÁI GÌ?",
+      "dữ liệu",
+      "TẠI SAO",
+      "Cơ sở lý luận",
+      "CÁI GÌ",
+      "Việc kinh doanh",
+      "Thủ tục",
+      "AI",
+      "Mọi người",
+      "và nhiệm vụ",
+      "Nguồn: Hình ảnh từ pixabay.com © 2016",
+      ""
+    ]
+  },
+  "Slide 9": {
+    "Title": "Trong các nhóm nhỏ, một người chỉ mô tả hành trình bằng từ ngữ. Những người khác (độc lập) cố gắng vẽ đường đi. Hình ảnh gần với mô tả đến mức nào?",
+    "Contents": [
+      "Bài tập 2",
+      ""
+    ]
+  },
+  "Slide 10": {
+    "Title": "Lập mô hình trong vòng đời",
+    "Contents": [
+      "Kỹ thuật/Phát triển",
+      "Mô hình công nghệ và thành phần",
+      "Nhóm phát triển giải pháp",
+      "Nền móng",
+      "Mô hình hệ thống cấp cao",
+      "Nhà tài trợ kinh doanh",
+      "Tầm nhìn kinh doanh",
+      "Điều phối viên kỹ thuật",
+      "Triển khai",
+      "Đang hoạt động, Đã kiểm tra,",
+      "Hệ thống tài liệu",
+      "Người dùng cuối",
+      "Hoạt động",
+      "Thăm dò/Thiết kế",
+      "Mô hình hệ thống chi tiết",
+      "Nhóm phát triển giải pháp",
+      "Nguồn: Hình ảnh từ dsdm.org © 2016",
+      ""
+    ]
+  },
+  "Slide 11": {
+    "Title": "Một số kỹ thuật lấy người dùng làm trung tâm - 1",
+    "Contents": [
+      "Phân tích người dùng",
+      "",
+      "",
+      "",
+      "Phân tích khả năng sử dụng",
+      "",
+      "",
+      "",
+      "Mô hình hóa nhiệm vụ",
+      "",
+      "",
+      "",
+      "Định nghĩa kịch bản nhiệm vụ",
+      "(& Trường hợp sử dụng)",
+      "xác định nhóm người dùng cho hệ thống được đề xuất (vai trò công việc, cấp độ kỹ năng)",
+      "",
+      "xác định các đặc điểm của giao diện người dùng (yêu cầu phi chức năng)",
+      "",
+      "xác định các sự kiện kinh doanh (nhiệm vụ của người dùng)",
+      "",
+      "",
+      "xác định các trường hợp thực thi tác vụ cho người dùng",
+      "Nguồn: Hình ảnh từ pixabay.com © 2016",
+      "dsdm.org@2016",
+      ""
+    ]
+  },
+  "Slide 12": {
+    "Title": "Một số kỹ thuật lấy người dùng làm trung tâm - 2",
+    "Contents": [
+      "Mô hình khái niệm người dùng",
+      "(mô hình hóa đối tượng người dùng)",
+      "",
+      "",
+      "",
+      "Thiết kế GUI",
+      "",
+      "",
+      "",
+      "",
+      "Nguyên mẫu giao diện người dùng",
+      "cung cấp bản đồ hệ thống từ góc nhìn của người dùng",
+      "",
+      "",
+      "giao diện người dùng để hỗ trợ các nhiệm vụ được xác định",
+      "",
+      "",
+      "cung cấp cái nhìn sinh động về hệ thống được đề xuất",
+      "Nguồn: Hình ảnh từ pixabay.com © 2016",
+      ""
+    ]
+  },
+  "Slide 13": {
+    "Title": "8 nguyên tắc của DSDM",
+    "Contents": [
+      "Tập trung vào nhu cầu kinh doanh",
+      "Giao hàng đúng hẹn",
+      "Cộng tác",
+      "Không bao giờ thỏa hiệp chất lượng",
+      "Xây dựng tăng dần từ nền móng",
+      "Phát triển lặp đi lặp lại",
+      "Giao tiếp liên tục và rõ ràng",
+      "Thể hiện sự kiểm soát",
+      ""
+    ]
+  },
+  "Slide 14": {
+    "Title": "Bài tập 3",
+    "Contents": [
+      "Trong các nhóm nhỏ không quá 4 người, hãy chuẩn bị một bài thuyết trình ngắn kéo dài không quá HAI (2) phút",
+      "để liên kết mô hình hóa với 8 nguyên tắc của DSDM.",
+      ""
+    ]
+  },
+  "Slide 15": {
+    "Title": "Mẹo làm mô hình",
+    "Contents": [
+      "Những điểm chính cần xem xét là:",
+      "",
+      "Người dùng và nhà phát triển có thể dễ dàng hiểu được nó;",
+      "Nó hỗ trợ quá trình sàng lọc gia tăng;",
+      "Các mô hình được sản xuất phải tăng cường khả năng giao tiếp;",
+      "Nó phải dễ dàng phù hợp với khuôn khổ Agile.",
+      ""
+    ]
+  },
+  "Slide 16": {
+    "Title": "Tóm tắt mô hình hóa",
+    "Contents": [
+      "Mô hình hóa là gì?",
+      "Đó là một quá trình trực quan hóa để xây dựng sự tập trung trong một dự án.",
+      "Quan điểm mô hình hóa",
+      "Khi nào, Tại sao, Cái gì, Ai, Ở đâu và Như thế nào?",
+      "Lập mô hình trong vòng đời",
+      "Được sử dụng ở tất cả các giai đoạn bởi các bên liên quan khác nhau vì nhiều lý do khác nhau để đảm bảo đáp ứng các mục tiêu của dự án.",
+      "Mẹo làm mô hình",
+      "Làm cho nó được tính! Việc lập mô hình cần phải dễ hiểu và phù hợp với mọi khía cạnh của vòng đời.  Nó sẽ tăng cường giao tiếp rất nhiều.",
+      ""
+    ]
+  },
+  "Slide 17": {
+    "Title": "Chủ đề 3 – Làm mẫu",
+    "Contents": [
+      "Có câu hỏi nào không?",
+      ""
+    ]
+  }
+}

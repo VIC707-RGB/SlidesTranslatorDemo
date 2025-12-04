@@ -1,0 +1,93 @@
+Slide 1:
+Title: Agile Development
+Contents:
+- Topic 5: Lifecycle and Products
+
+Slide 2:
+Title: Topic 5 Coverage
+Contents:
+- This topic will cover:The lifecycleThe phasesThe products
+
+Slide 3:
+Title: The DSDM Lifecycle - 1
+Contents:
+- Source: Image from dsdm.org © 2016
+
+Slide 4:
+Title: Exercise 1
+Contents:
+- You are now going to be put into groups of 7. Once in your groups you need to all choose a role:Analyst DesignerDeveloperTester User Acceptance TesterImplementerQA/Timekeeper
+- Each team will work directly in competition with the other team(s)
+
+Slide 5:
+Title: Exercise 1
+Contents:
+- Pass 1: The Waterfall WayTimed by the timekeeper, the coins are first turned to all “heads” by the analyst, and passed as a batch to the designer. The designer turns them all to “tails” and passes them as a batch to the developer, and so on down the line until the implementer has taken their turn and shouts “Stop”.  At this point the timekeeper records the time on the whiteboard/flipchart. The timekeeper turns no coins but acts as quality control to ensure there was no cheating.
+
+Slide 6:
+Title: Exercise 1
+Contents:
+- Pass 2: The Agile WayThis time, the roles still operate in the same way, but as soon as one coin is turned it can be passed to the next role, rather than waiting for a batch to be completed.  Again the timekeeper watches quality and times the event, and records the time as before when the implementer shouts ‘Stop!’
+
+Slide 7:
+Title: Feasibility
+Contents:
+- Configuring the DSDM Lifecycle - 2
+- Source: Image from dsdm.org © 2016
+
+Slide 8:
+Title: Feasibility
+Contents:
+- The DSDM Lifecycle - 3
+- Source: Image from dsdm.org © 2016
+
+Slide 9:
+Title: Structure of the DSDM Lifecycle Products
+Contents:
+- Business Focus
+- Solution Focus
+- Management Focus
+- Pre-project
+- Feasibility
+- Foundations
+- Exploration
+- Deployment
+- Engineering
+- Post-project
+
+Slide 10:
+Title: Product Overview
+Contents:
+- Source: Image from dsdm.org © 2016
+- Orange = Business focused, Green = elements that contribute to the Solution Blue =  Project management/ control interests. Products with a  ‘G’ may also play a part in governance processes
+
+Slide 11:
+Title: Summary of Lifecycle and Products – 1
+Contents:
+- Points to consider are: The lifecycle – Agile by design, it can be changed and manipulated to meet the projects specific evolutionary needs. The phases – Each phase of the lifecycle will involve meeting set objectives that will impact on other phases.
+
+Slide 12:
+Title: Summary of Lifecycle and Products – 2
+Contents:
+- The products – As the project progresses there will be products created, ultimately documentation, such as; Terms of reference, Business Case, Solution Architecture Definition, Development Approach Definition, Delivery Plan, Feasibility Assessment etc.
+
+Slide 13:
+Title: Summary of Lifecycle and Products – 3
+Contents:
+- The products overviewTerms of reference – High level requirements that dictate the feasibility phaseBusiness Case – Evolving tool to enable the business needs to be documentedSolution Architecture Definition – Evolving high level design specifications
+
+Slide 14:
+Title: Summary of Lifecycle and Products – 4
+Contents:
+- The products overviewDevelopment Approach Definition – High level definitions regarding the process, people, resources required for the design phaseDelivery Plan – Evolving high level scheduleFeasibility Assessment – Used as a milestone product to provide a snapshot of other evolving products
+
+Slide 15:
+Title: SCRUM Products = Artefacts
+Contents:
+- SCRUM artefacts (products)Product Backlog  - this is ultimately a full list of requirements, but is never complete.  The Product Manager will re-visit this continuously and add to it.Sprint Backlog – SCRUM uses ‘Sprint’ cycles as DSDM uses Timeboxes.  Sprint Backlogs are the requirements for each Sprint, that ultimately make up a single increment.
+
+Slide 16:
+Title: Topic 5 – Lifecycle and Products
+Contents:
+- Any Questions?
+

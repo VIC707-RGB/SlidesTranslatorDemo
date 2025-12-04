@@ -1,0 +1,163 @@
+{
+  "Slide 1": {
+    "Title": "Phát triển linh hoạt",
+    "Contents": [
+      "Chủ đề 5:",
+      "Vòng đời và sản phẩm",
+      ""
+    ]
+  },
+  "Slide 2": {
+    "Title": "Nội dung chủ đề 5",
+    "Contents": [
+      "Chủ đề này sẽ bao gồm:",
+      "Vòng đời",
+      "Các giai đoạn",
+      "các sản phẩm",
+      ""
+    ]
+  },
+  "Slide 3": {
+    "Title": "Vòng đời DSDM - 1",
+    "Contents": [
+      "Nguồn: Hình ảnh từ dsdm.org © 2016",
+      ""
+    ]
+  },
+  "Slide 4": {
+    "Title": "Bài tập 1",
+    "Contents": [
+      "Bây giờ các bạn sẽ được xếp vào nhóm 7 người. Khi đã vào nhóm của mình, tất cả các bạn cần chọn một vai trò:",
+      "",
+      "Nhà phân tích",
+      "Nhà thiết kế",
+      "Nhà phát triển",
+      "Người thử nghiệm",
+      "Người kiểm tra sự chấp nhận của người dùng",
+      "Người thực hiện",
+      "QA/Máy chấm công",
+      "Mỗi đội sẽ thi đấu trực tiếp với (các) đội khác",
+      ""
+    ]
+  },
+  "Slide 5": {
+    "Title": "Bài tập 1",
+    "Contents": [
+      "Pass 1: Con Đường Thác Nước",
+      "",
+      "Được người chấm công tính thời gian, các đồng xu trước tiên được nhà phân tích chuyển sang tất cả các “đầu” và chuyển theo lô cho nhà thiết kế.",
+      "Nhà thiết kế biến tất cả chúng thành “đuôi” và chuyển chúng theo lô cho nhà phát triển, v.v. cho đến khi người triển khai đến lượt họ và hét lên “Dừng lại”.",
+      "Lúc này người chấm công ghi thời gian lên bảng trắng/bảng lật. Máy chấm công không quay xu mà đóng vai trò kiểm soát chất lượng để đảm bảo không có gian lận.",
+      ""
+    ]
+  },
+  "Slide 6": {
+    "Title": "Bài tập 1",
+    "Contents": [
+      "Pass 2: Con đường linh hoạt",
+      "",
+      "Lần này, các vai trò vẫn hoạt động theo cách tương tự, nhưng ngay khi một đồng xu được lật, nó có thể được chuyển sang vai trò tiếp theo, thay vì chờ hoàn thành một đợt.",
+      "Một lần nữa, người chấm công theo dõi chất lượng và thời gian của sự kiện, đồng thời ghi lại thời gian như trước khi người thực hiện hét lên 'Dừng lại!'",
+      ""
+    ]
+  },
+  "Slide 7": {
+    "Title": "Tính khả thi",
+    "Contents": [
+      "Cấu hình vòng đời DSDM - 2",
+      "Nguồn: Hình ảnh từ dsdm.org © 2016",
+      ""
+    ]
+  },
+  "Slide 8": {
+    "Title": "Tính khả thi",
+    "Contents": [
+      "Vòng đời DSDM - 3",
+      "Nguồn: Hình ảnh từ dsdm.org © 2016",
+      ""
+    ]
+  },
+  "Slide 9": {
+    "Title": "Cấu trúc của vòng đời sản phẩm DSDM",
+    "Contents": [
+      "Việc kinh doanh",
+      "Tập trung",
+      "Giải pháp",
+      "Tập trung",
+      "Sự quản lý",
+      "Tập trung",
+      "tiền dự án",
+      "Tính khả thi",
+      "Nền móng",
+      "Thăm dò",
+      "Triển khai",
+      "Kỹ thuật",
+      "Hậu dự án",
+      ""
+    ]
+  },
+  "Slide 10": {
+    "Title": "Tổng quan về sản phẩm",
+    "Contents": [
+      "Nguồn: Hình ảnh từ dsdm.org © 2016",
+      "Cam = Tập trung vào kinh doanh,",
+      "Màu xanh lá cây = các yếu tố đóng góp cho Giải pháp",
+      "Màu xanh = Lợi ích quản lý/kiểm soát dự án.",
+      "Các sản phẩm có chữ ‘G’ cũng có thể đóng vai trò trong quy trình quản trị",
+      ""
+    ]
+  },
+  "Slide 11": {
+    "Title": "Tóm tắt Vòng đời và Sản phẩm – 1",
+    "Contents": [
+      "Những điểm cần xem xét là:",
+      "",
+      "Vòng đời – Agile theo thiết kế, nó có thể được thay đổi và vận dụng để đáp ứng các nhu cầu tiến hóa cụ thể của dự án.",
+      "Các giai đoạn – Mỗi giai đoạn của vòng đời sẽ liên quan đến việc đáp ứng các mục tiêu đã đặt ra và sẽ tác động đến các giai đoạn khác.",
+      ""
+    ]
+  },
+  "Slide 12": {
+    "Title": "Tóm tắt Vòng đời và Sản phẩm – 2",
+    "Contents": [
+      "Các sản phẩm – Khi dự án tiến triển sẽ có các sản phẩm được tạo ra, cuối cùng là tài liệu, chẳng hạn như; Điều khoản tham chiếu, Trường hợp kinh doanh, Định nghĩa kiến ​​trúc giải pháp, Định nghĩa phương pháp tiếp cận phát triển, Kế hoạch phân phối, Đánh giá tính khả thi, v.v.",
+      ""
+    ]
+  },
+  "Slide 13": {
+    "Title": "Tóm tắt Vòng đời và Sản phẩm – 3",
+    "Contents": [
+      "Tổng quan về sản phẩm",
+      "Điều khoản tham chiếu – Yêu cầu cấp cao quyết định giai đoạn khả thi",
+      "Đề án kinh doanh – Công cụ phát triển để hỗ trợ doanh nghiệp cần được ghi lại",
+      "Định nghĩa kiến ​​trúc giải pháp – Phát triển các thông số kỹ thuật thiết kế cấp cao",
+      ""
+    ]
+  },
+  "Slide 14": {
+    "Title": "Tóm tắt Vòng đời và Sản phẩm – 4",
+    "Contents": [
+      "Tổng quan về sản phẩm",
+      "Định nghĩa phương pháp tiếp cận phát triển – Các định nghĩa cấp cao về quy trình, con người, nguồn lực cần thiết cho giai đoạn thiết kế",
+      "Kế hoạch giao hàng – Tiến độ tiến độ cấp cao",
+      "Đánh giá tính khả thi - Được sử dụng như một sản phẩm quan trọng để cung cấp ảnh chụp nhanh về các sản phẩm đang phát triển khác",
+      ""
+    ]
+  },
+  "Slide 15": {
+    "Title": "Sản phẩm SCRUM = Đồ tạo tác",
+    "Contents": [
+      "Các thành phần SCRUM (sản phẩm)",
+      "Product Backlog - đây cuối cùng là danh sách đầy đủ các yêu cầu nhưng không bao giờ đầy đủ.  Người quản lý sản phẩm sẽ liên tục truy cập lại phần này và bổ sung vào nó.",
+      "Sprint Backlog - SCRUM sử dụng chu trình 'Sprint' trong khi DSDM sử dụng Hộp thời gian.  Sprint Backlog là các yêu cầu cho mỗi Sprint, cuối cùng tạo nên một bước tăng trưởng duy nhất.",
+      ""
+    ]
+  },
+  "Slide 16": {
+    "Title": "Chủ đề 5 – Vòng đời và Sản phẩm",
+    "Contents": [
+      "Có câu hỏi nào không?",
+      ""
+    ]
+  }
+}

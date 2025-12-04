@@ -1,0 +1,203 @@
+Slide 1:
+Title: Phát triển Linh hoạt (Agile Development)
+Contents:
+- Chủ đề 3:
+Mô hình hóa (Modelling)
+
+Slide 2:
+Title: Nội dung bao quát Chủ đề 3
+Contents:
+- Chủ đề này sẽ bao gồm:
+Ý nghĩa và ví dụ về mô hình hóa;
+Các góc độ mô hình hóa;
+Mô hình hóa trong vòng đời;
+Các mẹo mô hình hóa.
+
+Slide 3:
+Title: DSDM - 5 Kỹ thuật Chính
+Contents:
+- Ưu tiên MoSCoW
+
+Mô hình hóa
+
+Các Hội thảo có Người điều phối
+
+Phát triển lặp đi lặp lại
+
+Đóng hộp thời gian (Timeboxing)
+- Source: Image from dsdm.org © 2016
+
+Slide 4:
+Title: Một mô hình thường là một sơ đồ. Vậy, bạn biết/sử dụng những sơ đồ nào trong một dự án phát triển?
+Contents:
+- Bài tập 1
+
+Slide 5:
+Title: Mô hình là gì? - 1
+Contents:
+- Mô hình là:
+
+Một mô tả hoặc phép loại suy (để giúp hình dung điều gì đó không thể quan sát trực tiếp);
+Một bản sao nhỏ nhưng chính xác của một mục hoặc sản phẩm;
+Một mẫu hoặc hình ảnh của một mục hoặc sản phẩm sẽ được tạo.
+
+Slide 6:
+Title: Mô hình là gì? - 2
+Contents:
+- Nhiều ngành công nghiệp sử dụng các mô hình (và bản mẫu) để thiết lập yêu cầu, xác nhận kỳ vọng và kiểm tra khả năng đạt được mục tiêu. Các ví dụ về mô hình bao gồm: bảng phân cảnh (storyboards); sơ đồ; mô hình tỷ lệ (bản mẫu); và phần mềm hoạt động (bản mẫu).
+
+Slide 7:
+Title: Các Góc độ Mô hình hóa
+Contents:
+- CÁI GÌ – Thông tin
+NHƯ THẾ NÀO – Các chức năng, tính năng và quy trình
+Ở ĐÂU – Các địa điểm mà doanh nghiệp hoạt động
+AI – Con người: khách hàng, người dùng, các bên liên quan
+KHI NÀO – Các sự kiện quan trọng (thời gian và lịch trình)
+TẠI SAO – Các mục tiêu và chiến lược kinh doanh
+- Source: Image from dsdm.org © 2016
+
+Slide 8:
+Title: Mô hình hóa – Góc độ Người dùng
+Contents:
+- KHI NÀO:
+Sự kiện Hệ thống
+- CÁI GÌ:
+Dữ liệu và
+Các mối quan hệ
+- NHƯ THẾ NÀO:
+Quy trình, Đầu vào, Đầu ra
+- Công nghệ có thể có riêng của nó:
+- CÁI GÌ?
+Dữ liệu
+- TẠI SAO
+Cơ sở lý luận
+- CÁI GÌ
+Các thủ tục
+Kinh doanh
+- AI
+Con người
+và Nhiệm vụ
+- Source: Image from pixabay.com © 2016
+
+Slide 9:
+Title: Trong các nhóm nhỏ, một người mô tả một hành trình chỉ bằng lời nói. Những người khác (độc lập) cố gắng vẽ tuyến đường đó. Hình ảnh gần với mô tả đến mức nào?
+Contents:
+- Bài tập 2
+
+Slide 10:
+Title: Mô hình hóa trong Vòng đời
+Contents:
+- Kỹ thuật/Phát triển
+Các Mô hình Công nghệ và Thành phần
+Nhóm Phát triển Giải pháp
+- Nền tảng
+Các Mô hình Hệ thống Cấp cao
+Nhà tài trợ Kinh doanh
+Người có Tầm nhìn Kinh doanh
+Điều phối viên Kỹ thuật
+- Triển khai
+Hệ thống Hoạt động, Đã thử nghiệm,
+Đã được Tài liệu hóa
+Người dùng cuối
+Hoạt động
+- Khám phá/Thiết kế
+Các Mô hình Hệ thống Chi tiết
+Nhóm Phát triển Giải pháp
+- Source: Image from dsdm.org © 2016
+
+Slide 11:
+Title: Một số Kỹ thuật Lấy người dùng làm trung tâm - 1
+Contents:
+- Phân tích Người dùng
+
+
+
+Phân tích Khả năng sử dụng
+
+
+
+Mô hình hóa Nhiệm vụ
+
+
+
+Định nghĩa Kịch bản Nhiệm vụ
+(& Trường hợp sử dụng)
+- xác định nhóm người dùng cho hệ thống đề xuất (vai trò công việc, trình độ kỹ năng)
+
+xác định các đặc điểm của giao diện người dùng (các yêu cầu phi chức năng)
+
+xác định các sự kiện kinh doanh (nhiệm vụ người dùng)
+
+
+xác định các trường hợp thực hiện nhiệm vụ cho một người dùng
+- Source: Image from pixabay.com © 2016
+dsdm.org@2016
+
+Slide 12:
+Title: Một số Kỹ thuật Lấy người dùng làm trung tâm - 2
+Contents:
+- Mô hình Khái niệm Người dùng
+(mô hình đối tượng người dùng)
+
+
+
+Thiết kế GUI
+			
+
+		
+
+Tạo mẫu Giao diện Người dùng
+- cung cấp bản đồ về hệ thống từ góc độ của người dùng
+
+
+giao diện người dùng để hỗ trợ các nhiệm vụ đã xác định
+
+
+cung cấp chế độ xem hoạt hình về hệ thống được đề xuất
+- Source: Image from pixabay.com © 2016
+
+Slide 13:
+Title: 8 Nguyên tắc của DSDM
+Contents:
+- Tập trung vào nhu cầu kinh doanh
+Phân phối đúng thời hạn
+Cộng tác
+Không bao giờ thỏa hiệp về chất lượng
+Xây dựng tăng dần từ nền tảng vững chắc
+Phát triển lặp đi lặp lại
+Giao tiếp liên tục và rõ ràng
+Chứng minh quyền kiểm soát
+
+Slide 14:
+Title: Bài tập 3
+Contents:
+- Trong các nhóm nhỏ không quá 4 người, chuẩn bị một bài thuyết trình ngắn kéo dài không quá HAI (2) phút
+để liên kết mô hình hóa với 8 nguyên tắc của DSDM.
+
+Slide 15:
+Title: Các Mẹo Mô hình hóa
+Contents:
+- Các điểm chính cần lưu ý là:
+
+Nó dễ dàng được người dùng và nhà phát triển hiểu;
+Nó hỗ trợ quá trình tinh chỉnh tăng dần;
+Các mô hình được tạo ra phải tăng cường giao tiếp;
+Nó phải dễ dàng phù hợp với khuôn khổ Agile.
+
+Slide 16:
+Title: Tóm tắt về Mô hình hóa
+Contents:
+- Mô hình hóa là gì?
+Đó là một quy trình trực quan hóa để xây dựng sự tập trung trong một dự án.
+Các góc độ mô hình hóa
+Khi nào, Tại sao, Cái gì, Ai, Ở đâu và Như thế nào?
+Mô hình hóa trong vòng đời
+Được sử dụng ở tất cả các giai đoạn bởi các bên liên quan khác nhau vì nhiều lý do khác nhau để đảm bảo các mục tiêu dự án được đáp ứng.
+Các mẹo mô hình hóa
+Hãy làm cho nó có giá trị! Mô hình hóa cần phải dễ hiểu và phù hợp với mọi khía cạnh của vòng đời. Nó sẽ tăng cường đáng kể khả năng giao tiếp.
+
+Slide 17:
+Title: Chủ đề 3 – Mô hình hóa
+Contents:
+- Có câu hỏi nào không?

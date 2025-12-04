@@ -1,0 +1,254 @@
+{
+  "Slide 1": {
+    "Title": "Phát triển linh hoạt",
+    "Contents": [
+      "Chủ đề 2:",
+      "Cách tiếp cận và nguyên tắc",
+      ""
+    ]
+  },
+  "Slide 2": {
+    "Title": "Nội dung chủ đề 2",
+    "Contents": [
+      "Chủ đề này sẽ bao gồm:",
+      "Tuyên ngôn Agile;",
+      "DSDM Atern nghĩa là gì;",
+      "Cấu trúc của DSDM Atern;",
+      "Triết lý và nguyên tắc của DSDM Atern;",
+      "Khi nào nên sử dụng DSDM Atern.",
+      ""
+    ]
+  },
+  "Slide 3": {
+    "Title": "Tuyên ngôn Agile",
+    "Contents": [
+      "www.agilemanfesto.org (2001)",
+      "Chúng tôi đang khám phá những cách phát triển phần mềm tốt hơn bằng cách thực hiện nó và giúp đỡ những người khác làm điều đó.",
+      "Thông qua công việc này, chúng tôi đã đạt được giá trị:",
+      "Các cá nhân và sự tương tác qua các quy trình và công cụ",
+      "Phần mềm làm việc trên tài liệu toàn diện",
+      "Hợp tác của khách hàng thông qua đàm phán hợp đồng",
+      "Đáp lại sự thay đổi theo kế hoạch",
+      "Nghĩa là, mặc dù các mục ở bên phải có giá trị nhưng chúng ta đánh giá cao các mục ở bên trái hơn",
+      ""
+    ]
+  },
+  "Slide 4": {
+    "Title": "DSDM là gì?",
+    "Contents": [
+      "Đó là Khung phân phối dự án Agile cung cấp giải pháp phù hợp vào đúng thời điểm. Các tính năng bao gồm:",
+      "",
+      "Bất kỳ loại dự án",
+      "Tập trung vào lợi ích doanh nghiệp",
+      "Đúng thời gian và trong ngân sách",
+      "Chất lượng và sự nghiêm ngặt",
+      "Tăng dần",
+      "hợp tác",
+      ""
+    ]
+  },
+  "Slide 5": {
+    "Title": "DSDM – Lịch sử",
+    "Contents": [
+      "Phương pháp phát triển hệ thống động (DSDM) 1994/5 được viết dưới dạng Khung phát triển lấy doanh nghiệp làm trung tâm. Nó tập trung vào việc cung cấp đúng thời gian và ngân sách, cũng như duy trì chất lượng.",
+      "",
+      "Nó tập hợp những phương pháp hay nhất từ ​​kinh nghiệm tổng hợp của các thành viên DSDM Consortium, bao gồm nhiều công ty “blue-chip”. Nó không phụ thuộc vào nhà cung cấp và đã trở thành một tiêu chuẩn trên toàn thế giới.",
+      ""
+    ]
+  },
+  "Slide 6": {
+    "Title": "Lịch sử của DSDM",
+    "Contents": [
+      "Hiệp hội DSDM được thành lập",
+      "DSDM V1 (V2 1995)",
+      "Tuyên ngôn Agile đã được ký",
+      "2001",
+      "(DSDM = người ký)",
+      "DSDM",
+      "V3",
+      "DSDM V4 (2002)",
+      "Xuất bản trực tuyến V4.1 (2003)",
+      "DSDM V4.2 được xuất bản trực tuyến",
+      "DSDM được thực hiện",
+      "miễn phí để xem",
+      "miễn phí sử dụng",
+      "DSDM bên ngoài",
+      "V5",
+      "Khung quản lý dự án Agile DSDM",
+      "V6",
+      ""
+    ]
+  },
+  "Slide 7": {
+    "Title": "Cấu trúc của DSDM",
+    "Contents": [
+      "Nguồn: Hình ảnh từ dsdm.org © 2016",
+      ""
+    ]
+  },
+  "Slide 8": {
+    "Title": "Triết học",
+    "Contents": [
+      "Bất kỳ dự án nào cũng phải phù hợp với các mục tiêu chiến lược được xác định rõ ràng;",
+      "Bất kỳ dự án nào cũng phải tập trung vào việc sớm mang lại lợi ích thực sự cho doanh nghiệp.",
+      "Hai điểm quan trọng cần xem xét là:",
+      ""
+    ]
+  },
+  "Slide 9": {
+    "Title": "Sẵn sàng cung cấp giải pháp phù hợp với mục đích",
+    "Contents": [
+      "Hiểu rõ mục tiêu kinh doanh",
+      "Được trao quyền ở mức độ phù hợp",
+      "Chấp nhận rằng sự thay đổi là tất yếu",
+      "Hợp tác để đưa ra giải pháp tốt nhất có thể, trong khoảng thời gian đã thỏa thuận, theo các ưu tiên kinh doanh",
+      "Điều này đạt được tốt nhất khi các bên liên quan chính…",
+      "Triết Học - 2",
+      ""
+    ]
+  },
+  "Slide 10": {
+    "Title": "…Không chỉ là phần mềm!",
+    "Contents": [
+      ""
+    ]
+  },
+  "Slide 11": {
+    "Title": "Lợi ích của DSDM",
+    "Contents": [
+      "Ưu điểm của DSDM là:",
+      "",
+      "Quyền sở hữu của người dùng đối với hệ thống có nhiều khả năng hơn",
+      "Giảm nguy cơ xây dựng sai hệ thống",
+      "Hệ thống cuối cùng có nhiều khả năng đáp ứng yêu cầu kinh doanh thực tế của người dùng hơn",
+      "Người dùng sẽ được đào tạo tốt hơn",
+      "Việc triển khai có nhiều khả năng diễn ra suôn sẻ",
+      ""
+    ]
+  },
+  "Slide 12": {
+    "Title": "Cách tiếp cận 80/20",
+    "Contents": [
+      "Giả định cơ bản:",
+      "Không có gì được xây dựng hoàn hảo ngay lần đầu tiên,",
+      "nhưng 80% dung dịch có thể được tạo ra",
+      "trong 20% ​​thời gian cần thiết để sản xuất",
+      "giải pháp tổng thể.",
+      ""
+    ]
+  },
+  "Slide 13": {
+    "Title": "Câu hỏi về sự cân bằng",
+    "Contents": [
+      "Tốc độ",
+      "Giảm rủi ro",
+      ""
+    ]
+  },
+  "Slide 14": {
+    "Title": "Các thành phần của một giải pháp kinh doanh",
+    "Contents": [
+      ""
+    ]
+  },
+  "Slide 15": {
+    "Title": "Yêu cầu linh hoạt",
+    "Contents": [
+      "Nguồn: Hình ảnh từ dsdm.org © 2016",
+      ""
+    ]
+  },
+  "Slide 16": {
+    "Title": "Ưu tiên",
+    "Contents": [
+      "DSDM sử dụng mô hình ưu tiên MoSCoW.",
+      "",
+      "Tập trung khoảng 60% dự án vào các yêu cầu 'Phải có' và khoảng 20% ​​vào các yêu cầu 'Có thể có'.",
+      "Nguồn: Hình ảnh từ dsdm.org © 2016",
+      ""
+    ]
+  },
+  "Slide 17": {
+    "Title": "8 nguyên tắc của DSDM",
+    "Contents": [
+      "Nguồn: Hình ảnh từ dsdm.org © 2016",
+      "1. Tập trung vào nhu cầu kinh doanh",
+      "2. Giao hàng đúng hẹn",
+      "3. Cộng tác",
+      "4. Không bao giờ thỏa hiệp về chất lượng",
+      "5. Xây dựng từng bước từ nền tảng vững chắc",
+      "6. Phát triển lặp đi lặp lại",
+      "7. Giao tiếp liên tục và rõ ràng",
+      "8. Thể hiện sự kiểm soát",
+      ""
+    ]
+  },
+  "Slide 18": {
+    "Title": "DSDM - 5 kỹ thuật chính",
+    "Contents": [
+      "Ưu tiên MoSCoW",
+      "",
+      "Làm người mẫu",
+      "",
+      "Hội thảo được hỗ trợ",
+      "",
+      "Phát triển lặp lại",
+      "",
+      "Hộp thời gian",
+      "Nguồn: Hình ảnh từ dsdm.org © 2016",
+      ""
+    ]
+  },
+  "Slide 19": {
+    "Title": "Các yếu tố thành công mang tính công cụ (ISF) - Giảm thiểu rủi ro",
+    "Contents": [
+      ""
+    ]
+  },
+  "Slide 20": {
+    "Title": "Nhóm người dùng được xác định rõ ràng",
+    "Contents": [
+      "Những loại dự án?",
+      "Chức năng hiển thị",
+      "Không phức tạp về mặt tính toán",
+      "hoặc sự phức tạp có thể",
+      "bị phân hủy hoặc bị cô lập",
+      "có thể",
+      "bị hỏng",
+      "hạn chế về thời gian",
+      "Yêu cầu",
+      "có thể được ưu tiên",
+      "Các yêu cầu không",
+      "quá chi tiết",
+      "hoặc cố định",
+      "Cách tiếp cận dự án",
+      "Bảng câu hỏi",
+      ""
+    ]
+  },
+  "Slide 21": {
+    "Title": "Tóm tắt DSDM – 1",
+    "Contents": [
+      "DSDM là Khung phân phối dự án Agile cung cấp giải pháp chính xác vào đúng thời điểm. Giải pháp kinh doanh chính xác được cung cấp vì:",
+      "Nhóm Dự án và các bên liên quan quan trọng khác vẫn tập trung vào kết quả kinh doanh;",
+      "Giao hàng đúng thời hạn, cho phép thu hồi vốn đầu tư sớm và giảm rủi ro;",
+      "Tất cả những người tham gia dự án đều hợp tác làm việc để đưa ra giải pháp tối ưu;",
+      ""
+    ]
+  },
+  "Slide 22": {
+    "Title": "Tóm tắt DSDM – 2",
+    "Contents": [
+      "Công việc được ưu tiên theo nhu cầu kinh doanh và khả năng thích ứng với những thay đổi của người dùng;",
+      "DSDM không ảnh hưởng đến chất lượng.",
+      ""
+    ]
+  },
+  "Slide 23": {
+    "Title": "Chủ đề 2 – Cách tiếp cận và nguyên tắc",
+    "Contents": [
+      "Có câu hỏi nào không?",
+      ""
+    ]
+  }
+}
